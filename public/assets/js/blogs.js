@@ -642,9 +642,9 @@
                         <h3>All Categories</h3>
 
                         <ul>
-                        <li><a href="/public/Categories/getting-started.html">Getting Started</a></li>
-                        <li><a href="/public/Categories/agents.html">Agents</a></li>
-                        <li><a href="/public/Categories/auditions.html">Auditions</a></li>
+                        <li><a href="/Categories/getting-started.html">Getting Started</a></li>
+                        <li><a href="/Categories/agents.html">Agents</a></li>
+                        <li><a href="/Categories/auditions.html">Auditions</a></li>
                         </ul>
                         <h3>Call to Action with Free Item</h3>
                         <h3>Latest Posts</h3>
@@ -815,7 +815,7 @@
             categoriesList = categoriesList.split(" ");
             let categoriesHTML = "";
             for (x = 0; x < categoriesList.length; x++) {
-                categoriesHTML = `${categoriesHTML}<a href="/public/Categories/${categoriesList[x].toLowerCase()}.html">${categoriesList[x].replace("-", ' ')}</a>`;
+                categoriesHTML = `${categoriesHTML}<a href="/Categories/${categoriesList[x].toLowerCase()}.html">${categoriesList[x].replace("-", ' ')}</a>`;
             }
             return {
                 code: `<span class = "related-category-link"> <span> Categories: </span> ${categoriesHTML}</span>`,
