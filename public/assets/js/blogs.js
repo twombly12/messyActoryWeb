@@ -630,7 +630,7 @@
                         ${blogSignOff}
                     </div>
                     <div class="side-bar">
-                    <img width=250 style="margin: 0 0 20px 0" src="/assets/images/Logo_Full Colour.png"/>
+                    <img id="logo-image" width=250 style="margin: 0 0 20px 0">
                     <div class="side-bar-image">
                         <img height='auto' width='600' src="../assets/images/placeholder-profile.jpg"  alt="the messy actor acting blog profile image">
                     </div>

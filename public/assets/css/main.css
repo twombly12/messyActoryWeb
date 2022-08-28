@@ -3539,6 +3539,20 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
     margin: 0;
 }
 
+#main>#logo-image {
+    padding: 40px 0 80px;
+    border-top: none;
+    margin: auto;
+    display: flex;
+    left: -20px;
+    position: relative;
+}
+
+#main>#logo-image+* {
+    border-top: none;
+    padding-top: 0;
+}
+
 #main>*:first-child {
     border-top: 0;
 }

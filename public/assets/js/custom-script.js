@@ -65,9 +65,13 @@ function menuAndSocial() {
 }
 
 
-function mainLogo() {
-    document.getElementById('mainLogo').src = "/assets/images/LogoWhite.png";
-    document.getElementById('mainLogo').alt = "logo for the messy actor acting blog";
+function tagline() {
+    document.getElementById('site-tagline').innerHTML = "Learn, Grow, and Get Messy!"
+}
+
+function populateLogo() {
+    document.getElementById('logo-image').src = "/assets/images/Logo_Full Colour.png"
+    document.getElementById('logo-image').alt = "logo for the messy actor acting blog"
 }
 
 function activeMenuItem() {
@@ -89,9 +93,9 @@ function runOnLoad() {
     genFooter()
     genCopyright()
     menuAndSocial()
-    mainLogo()
+    tagline()
     activeMenuItem()
-
+    populateLogo()
 }
 
 
