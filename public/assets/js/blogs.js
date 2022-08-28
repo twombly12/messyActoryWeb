@@ -618,6 +618,7 @@
                         /* Post Blog */
                         populateBlogPost.innerHTML = `<main class="post-with-sidebar">
                         <div class="blog-post-content">
+                        <img id="logo-image" width=250>
                         <header class = "major">
                         <span class="date">${allBlogPosts[i].date}</span>
                         <h1>${allBlogPosts[i].title}</h1> 
@@ -630,7 +631,7 @@
                         ${blogSignOff}
                     </div>
                     <div class="side-bar">
-                    <img id="logo-image" width=250 style="margin: 0 0 20px 0">
+                    
                     <div class="side-bar-image">
                         <img height='auto' width='600' src="../assets/images/placeholder-profile.jpg"  alt="the messy actor acting blog profile image">
                     </div>

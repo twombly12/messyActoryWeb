@@ -3548,6 +3548,16 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
     position: relative;
 }
 
+.blog-post-content #logo-image {
+    padding: 0px 0 40px;
+    border-top: none;
+    margin: auto;
+    display: flex;
+    left: -20px;
+    top: -40px;
+    position: relative;
+}
+
 #main>#logo-image+* {
     border-top: none;
     padding-top: 0;
