@@ -15,9 +15,11 @@ function genFooter() {
         </form>
     </section>
     <section class="split contact">
-        <section class="alt">
+
             <h2>Free Giveaway</h2>
-        </section>
+            <img src="/assets/images/book.png" alt="image of cover for The Messy Actors Audition Note Book"/>
+            <a href="https://www.blurb.ca/b/11262737-the-audition-notebook">Buy it now</a>
+
         <section>
             <h3>Social</h3>
             <ul class="icons alt">

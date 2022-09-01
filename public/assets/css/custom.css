@@ -285,3 +285,15 @@ p+img {
 #footer h2 {
     margin-bottom: 0.52rem;
 }
+
+.split.contact {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.split.contact img {
+    position: relative;
+    height: auto;
+    max-widtH: 300px;
+}
