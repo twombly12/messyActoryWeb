@@ -15,11 +15,11 @@ function genFooter() {
         </form>
     </section>
     <section class="split contact">
-
-            <h2>Free Giveaway</h2>
-            <img src="/assets/images/book.png" alt="image of cover for The Messy Actors Audition Note Book"/>
-            <a href="https://www.blurb.ca/b/11262737-the-audition-notebook">Buy it now</a>
-
+            <div class="cta">
+            <h2>The Audition Book</h2>
+            <a class="img-link" target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook"><img src="/assets/images/Book Mockup.png" alt="image of cover for The Messy Actors Audition Note Book"/></a>
+            <a class="button" target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook">Buy it now</a>
+    </div>
         <section>
             <h3>Social</h3>
             <ul class="icons alt">

@@ -292,8 +292,27 @@ p+img {
     position: relative;
 }
 
-.split.contact img {
+.split.contact .cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    height: 100%;
+    position: relative;
+    padding: 4rem 4rem 2rem 4rem;
+}
+
+.split.contact .cta img {
     position: relative;
     height: auto;
     max-widtH: 300px;
+}
+
+.split.contact .cta .button {
+    margin-top: 20px;
+}
+
+.img-link {
+    text-decoration: none;
+    border: none;
 }
