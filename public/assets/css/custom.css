@@ -115,26 +115,24 @@ ol li h2::before {
 
 .related-category-link {
     margin-bottom: 0rem;
-    display: block;
-    margin-right: 2rem;
+    display: flex;
     background: #FFF;
     color: #74758C;
     text-align: left;
-}
-
-.related-category-link>* {
-    margin-right: 1rem;
+    flex-wrap: wrap;
+    grid-gap: .5rem;
 }
 
 .related-category-link a {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     color: #74758C;
-    padding: 10px 20px;
+    padding: 8px 14px;
     border-radius: 4px;
     border: dotted 1px;
     border-width: 1px;
     border-style: dotted;
     border-color: initial;
+    white-space: nowrap;
 }
 
 .post .related-category-link {
@@ -235,6 +233,8 @@ p+img {
     border-radius: 300px;
     overflow: hidden;
     margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .side-bar-image img {
@@ -286,6 +286,16 @@ p+img {
     margin-bottom: 0rem;
 }
 
+@media only screen and (max-width: 1000px) {
+    .post-with-sidebar {
+        grid-template-columns: 1fr;
+    }
+    .side-bar {
+        border-left: none;
+        padding-left: 0;
+    }
+}
+
 
 /* ------------ Footer --------- */
 
@@ -333,20 +343,72 @@ p+img {
     align-self: start;
 }
 
-
-}
 .cta img {
     position: relative;
     height: auto;
-    max-widtH: 300px;
+    max-widtH: 500px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: 20px;
+    .
 }
+
 .side-bar .cta img {
-    max-widtH: 200px;
+    max-widtH: 100%;
+    margin-top: 0px;
 }
+
 .cta .button {
     margin-top: 20px;
 }
+
 .img-link {
     text-decoration: none;
+    border: none;
+}
+
+
+/* -------------------- Main Menu DropDown Items ----------------------  */
+
+#nav .dropdown {
+    position: relative;
+    cursor: pointer;
+}
+
+#nav .dropdown-content {
+    position: absolute;
+    background: #f5f5f5;
+    z-index: 9999;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    display: none;
+}
+
+#nav .dropdown:hover .dropdown-content {
+    display: flex
+}
+
+#nav .dropdown .dropdown-content ul {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: max-content;
+    margin-bottom: 0;
+}
+
+#nav .dropdown .dropdown-content a {
+    color: #212931;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    padding: 1rem 2rem;
+    border-color: #e2e2e2;
+    width: 100%;
+}
+
+#nav .dropdown .dropdown-content a:hover {
+    color: #EC008C !important;
+}
+
+#nav .dropdown .dropdown-content ul li:last-child a {
     border: none;
 }

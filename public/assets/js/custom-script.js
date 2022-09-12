@@ -29,8 +29,15 @@ function genFooter() {
 
 function cta() {
     const ctaContent = `<h2>The Audition Book</h2>
-    <a class="img-link" target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook"><img src="/assets/images/Book Mockup.png" alt="image of cover for The Messy Actors Audition Note Book"/></a>
+    <a class="img-link" target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook">
+        <picture>
+            <source srcset="../assets/images/cta-book-mockup.webp" type="image/webp">
+            <source srcset="../assets/images/cta-book-mockup.jpg" type="image/jpg"> 
+            <img class="main-blog-image" src="../assets/images/cta-book-mockup.webp" alt="two rock climbers help each other climb a cliff symbolizing that a good acting agent should help an actor have a successful career">
+        </picture>    
+    </a>
     <a class="button" target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook">Buy it now</a>`;
+
 
     document.querySelectorAll('.cta').forEach(element => {
         element.innerHTML = ctaContent;
@@ -52,9 +59,19 @@ function menuAndSocial() {
     const menuLinks = `
         <ul class="links">
             <li class="active"><a href="/index.html">Home</a></li>
-            <li><a href="/Categories/getting-started.html">Getting Started</a></li>
-            <li><a href="/Categories/agents.html">Agents</a></li>
-            <li><a href="/Categories/auditions.html">Auditions</a></li>
+            <li class="dropdown"><span>Categories</span>
+                <div class="dropdown-content">
+                    <ul>
+                        <li class="drawer"><a href="/Categories/acting-habits.html">Acting Habits</a></li>
+                        <li class="drawer"><a href="/Categories/agents.html">Agents</a></li>
+                        <li class="drawer"><a href="/Categories/auditions.html">Auditions</a></li>
+                        <li class="drawer"><a href="/Categories/getting-started.html">Getting Started</a></li>
+                        <li class="drawer"><a href="/Categories/industry-tips.html">Industry Tips</a></li>
+                        <li class="drawer"><a href="/Categories/organization.html">Organization</a></li>
+                        <li class="drawer"><a href="/Categories/preparation.html">Preparation</a></li>
+                    </ul>
+                </div>
+            </li>
         </ul>
         <ul class="icons">
         </ul>
@@ -78,18 +95,24 @@ function tagline() {
 }
 
 function populateLogo() {
-    document.getElementById('logo-image').src = "/assets/images/Logo_Full Colour.png"
-    document.getElementById('logo-image').alt = "logo for the messy actor acting blog"
+    if (document.getElementById('logo-image')) {
+        document.getElementById('logo-image').src = "/assets/images/Logo_Full-Colour.png"
+        document.getElementById('logo-image').alt = "logo for the messy actor acting blog"
+    }
 }
 
 function activeMenuItem() {
     let currentPage = window.location.pathname;
     let menuList = document.querySelectorAll('.links li');
     let menuLinks = document.querySelectorAll('.links li a');
-    for (i = 0; i < menuList.length; i++) {
+    for (i = 0; i < menuList.length - 1; i++) {
         menuList[i].classList.remove('active');
         if (menuLinks[i].pathname === currentPage) {
-            menuList[i].classList.add('active');
+            menuLinks[i].parentNode.classList.add('active');
+            if (menuLinks[i].parentNode.classList.contains('drawer')) {
+                menuLinks[i].parentNode.parentNode.parentNode.parentNode.classList.add('active');
+            }
+            break
         }
     }
 }
@@ -102,9 +125,9 @@ function runOnLoad() {
     genCopyright()
     menuAndSocial()
     tagline()
-    activeMenuItem()
     populateLogo()
     cta()
+    activeMenuItem()
 }
 
 
@@ -132,7 +155,6 @@ contactForm.addEventListener('submit', (e) => {
     xhr.open('POST', '/')
     xhr.setRequestHeader('content-type', 'application/json')
     xhr.onload = function() {
-        console.log(xhr.responseText);
         if (xhr.responseText == 'success') {
             alert('email sent');
             name.value = '';

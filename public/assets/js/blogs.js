@@ -18,13 +18,13 @@
                 // -------------------------------- First Post --------------------------
                 {
                     "postNum": "blogPost0",
-                    "category": "Getting-Started",
+                    "category": "Getting-Started Industry-Tips Preparation",
                     "postLink": "/Posts/8-tips-on-how-to-become-an-actor.html",
                     "title": `8 TIPS ON HOW TO BECOME AN ACTOR`,
                     "image": `<picture>
-                <source srcset="../assets/images/Become Actor.webp" type="image/webp">
-                <source srcset="../assets/images/Become Actor.jpg" type="image/jpg"> 
-                <img class="main-blog-image" src="../assets/images/Become Actor.webp" alt="female actor standing behind acting slate with eye showing through the gap in the slate">
+                <source srcset="../assets/images/Become-Actor.webp" type="image/webp">
+                <source srcset="../assets/images/Become-Actor.jpg" type="image/jpg"> 
+                <img class="main-blog-image" src="../assets/images/Become-Actor.webp" alt="female actor standing behind acting slate with eye showing through the gap in the slate">
                 </picture>`,
                     "date": `March 3, 2022`,
                     "snippet": `<p>You’ve come to the conclusion that you want to be an actor. That’s great! Being bitten by the acting bug is something to celebrate! But now what?</p>`,
@@ -151,13 +151,13 @@
                 // -------------------------------- Second Post --------------------------
                 {
                     "postNum": "blogPost1",
-                    "category": "Agents",
+                    "category": "Agents Industry-Tips Preparation",
                     "postLink": "/Posts/8-things-to-avoid-in-an-acting-agent.html",
                     "title": `8 THINGS TO AVOID IN AN ACTING AGENT`,
                     "image": `<picture>
-                <source srcset="../assets/images/Bad agent.webp" type="image/webp">
-                <source srcset="../assets/images/Bad agent.webp.jpg" type="image/jpg"> 
-                <img class="main-blog-image" src="../assets/images/Bad agent.webp" alt="female actor waving off a bad talent agent for acting">
+                <source srcset="../assets/images/Bad-agent.webp" type="image/webp">
+                <source srcset="../assets/images/Bad-agent.webp.jpg" type="image/jpg"> 
+                <img class="main-blog-image" src="../assets/images/Bad-agent.webp" alt="female actor waving off a bad talent agent for acting">
                 </picture>`,
                     "date": `March 4, 2022`,
                     "snippet": `<p>So you have done the work, you have your demo, and your headshots and now you are on the search to find yourself an agent. Perhaps, you even have some meetings lined up.</p>`,
@@ -245,13 +245,13 @@
                 // -------------------------------- Third Post --------------------------
                 {
                     "postNum": " blogPost2 ",
-                    "category": "Agents",
+                    "category": "Agents Industry-Tips Organization",
                     "postLink": "/Posts/5-things-to-expect-from-your-talent-agent.html",
                     "title": ` 5 Things to Expect from Your Talent Agent `,
                     "image": `<picture>
-                <source srcset="../assets/images/Good Agent.webp" type="image/webp">
-                <source srcset="../assets/images/Good Agent.jpg" type="image/jpg"> 
-                <img class="main-blog-image" src="../assets/images/Good Agent.webp" alt="two rock climbers help each other climb a cliff symbolizing that a good acting agent should help an actor have a successful career">
+                <source srcset="../assets/images/Good-Agent.webp" type="image/webp">
+                <source srcset="../assets/images/Good-Agent.jpg" type="image/jpg"> 
+                <img class="main-blog-image" src="../assets/images/Good-Agent.webp" alt="two rock climbers help each other climb a cliff symbolizing that a good acting agent should help an actor have a successful career">
                 </picture>`,
                     "date": `March 4, 2022`,
                     "snippet": `<p>You sussed out the legitimate agents from the scammers, you had your meetings, you found someone who is great to work with, and - YOU GOT SIGNED! Congrats!!  Now what?</p>`,
@@ -338,7 +338,7 @@
                 // -------------------------------- Fourth Post --------------------------
                 {
                     "postNum": " blogPost3 ",
-                    "category": "Agents",
+                    "category": "Agents Industry-Tips Organization",
                     "postLink": "/Posts/6-ways-to-have-a-better-relationship-with-your-agent.html",
                     "title": ` 6 Ways to Have a Better Relationship with Your Agent `,
                     "image": `<picture>
@@ -451,7 +451,7 @@
                 // -------------------------------- Fifth Post --------------------------
                 {
                     "postNum": " blogPost4 ",
-                    "category": "Auditions",
+                    "category": "Auditions Acting-Habits Organization",
                     "postLink": "/Posts/14-things-to-keep-track-of-when-you-auditions.html",
                     "title": ` 14 Things to Keep Track of When You Audition `,
                     "image": `<picture>
@@ -549,7 +549,7 @@
                             <h2 id="sectionNine"> Role Type </h2>
                             <p>You can write whether it’s a PRINCIPAL/ GUEST STAR/ LEAD… etc if it is listed. Or you can list what sort of character it is: “30s’ Biker” for example. You are more than welcome to add both, so you can see if there is a trend in what you go out for.</p>
                             <p>This can help for training - you are able to see what “type’ you are being seen for, and work on playing into that, or alternatively work to train against that so you can go out for parts you want to go out for.</p>
-                            <p>Keep in mind also, what you are going out for may also have something to do with your headshots <a href="">(SEE 6 THINGS TO KNOW ABOUT HEADSHOTS</a> for more details about this point)</p>
+                            <p>Keep in mind also, what you are going out for may also have something to do with your headshots <a href="http://localhost:5000/Posts/5-things-to-know-about-headshots.html">(SEE 5 THINGS TO KNOW ABOUT HEADSHOTS</a> for more details about this point)</p>
                         </li>
                         <li>
                             <h2 id="sectionTen"> Personal Notes </h2>
@@ -608,6 +608,98 @@
                     <h3>Wishing you a fun and useful logging audition experience. </h3>
                     `
                 },
+                // -------------------------------- Sixth Post --------------------------
+                // -------------------------------- Sixth Post --------------------------
+                // -------------------------------- Sixth Post --------------------------
+                // -------------------------------- Sixth Post --------------------------
+                // -------------------------------- Sixth Post --------------------------
+                {
+                    "postNum": " blogPost5 ",
+                    "category": "Getting-Started Industry-Tips Organization",
+                    "postLink": "/Posts/5-things-to-know-about-headshots.html",
+                    "title": ` 5 Things to know about Headshots `,
+                    "image": `<picture>
+                <source srcset="../assets/images/headshots.webp" type="image/webp">
+                <source srcset="../assets/images/headshots.jpg" type="image/jpg"> 
+                <img class="main-blog-image" src="../assets/images/headshots.webp" alt="image of an actor taking an unprofessional headshot">
+                </picture>`,
+                    "date": `March 4, 2022`,
+                    "snippet": `<p> Before we jump into the points of today’s blog, let’s briefly go over what headshots are and what they are used for, in case you don’t know. </p>`,
+                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+                    <p> 5 Things to know about Headshots </p>
+                    <ul>
+                        <li>
+                            <a href="#sectionOne"> What You See is What You Get </a></li>
+                        <li>
+                            <a href="#sectionTwo"> They Have to Look Like You </a></li>
+                        <li>
+                            <a href="#sectionThree"> Headshots Are an Investment  </a></li>
+                        <li>
+                            <a href="#sectionFour"> Commercial Photos vs. Theatrical Photos </a></li>
+                        <li>
+                            <a href="#sectionFive"> Your Eyes are the Windows to … the Room </a></li>
+                
+                            <li>
+                            <a href="#summary">Summary</a></li>
+                    </ul>`,
+                    "content": `
+                    <p> 
+                    <p><em>What is a headshot?</em> A headshot is a professional photo of your face, generally shoulders up, that looks like you. It’s purpose is to get you into the audition room. Long story short - a headshot is your business card.  A good headshot will be memorable enough to get you into various rooms, generic enough that it looks like you most of the time, and specific enough to slot you into various role categories. </p>
+                    <p><em>What do I need them for?</em> Most importantly, headshots are used to “sell” you to casting directors. This means agents (or yourself if you are not represented) use the photo to persuade casting directors to get you into the room for an audition. In situations like open calls,your headshot is also used to remember what you looked like when you entered the room. </p>
+                    <p>Now, in our predominantly online world, headshots are also used for casting websites and marketing purposes. If you are being sent out for audition submissions by your agent online, your only method to getting an audition is your headshot. Some people post their headshots on their social media platforms as well. </p>
+                    <p>Now that we’ve summarized what they are, here are some things you should know about headshots if you are going to get them done, or already have. 
+                     </p> </p>
+                    <ol>
+                        <li>
+                            <h2 id="sectionOne"> What You See is What You Get </h2>
+                            <p> Casting directors are incredibly busy, they don’t have the time to imagine what you can go out for,so what your photo evokes is likely what role you will audition for. For example: If you look angelic and innocent in your headshot, the roles you go out for will likely be in that vein. This is why you want to figure out a) what you want to go out for and b) what kind of roles you naturally look like.   </p>
+                            <p> If your A and B don’t match up, then deliberately curate your headshots so that you have options for both.  </p>
+                            <p> If you have a “harder” look but you want to be cast in Hallmark movies, then find ways you can make your look softer, and more innocent, and vice versa. If you have a very innocent look, but you want to play “grungier” roles, put together a wardrobe,make up or aesthetic that would persuade a viewer in that direction.  </p>
+                            <p> It is important that before you go to your headshot session you have thought about what kind of photos you want by the end of the session.  </p>
+                        </li>
+                        <li>
+                            <h2 id="sectionTwo"> They Have to Look Like You </h2>
+                            <p> A very common misconception with new actors when they are told to “curate” their headshots, is they show up as someone else.  </p>
+                            <p> Your headshots <em>must</em> look like you.  </p>
+                            <p> A great rule to follow is: If the casting director bumped into you first thing in the morning before you showered or put on your face, they would recognize you. Essentially, your headshot is a slightly glamorized version of your natural self.  </p>
+                            <p> The curation of a headshot is subtle. It could be the difference between a collared shirt or a leather jacket. Natural make- up vs. darker eye-shadow.  </p>
+                            <p> You can do whatever you want, but my suggestion is, leave the hair extensions, fake eyelashes, and toupees, at home. Or, bring them for ONE of your shots, for variety, but don’t have them in all your photos. Now, if you are a woman of color and you wear hair pieces everyday, then this is where you can ignore that suggestion.   </p>
+                            <p> When it comes to glasses, if you wear them all the time, bring them to your headshot session. Take some photos with them, and take some photos without. Additionally, if you have facial hair, you should take photos with it, and some without. It is extremely common for casting directors to  ask for a photo of you clean shaven.  </p>
+                        </li>
+                        <li>
+                            <h2 id="sectionThree"> Headshots Are an Invesment </h2>
+                            <p> Since headshots are your first impression with casting, it’s important that you have a professional photo. Many actors find the pricing of headshots to be quite a difficult bill to swallow, however if there is any cost worth spending, it’s on good headshots. If you get shots you like, you can use them for 3-5 years, or more if your look doesn’t change.  </p>
+                            <p> With that being said, this doesn’t mean spending $1,500 on headshots because the price gets you the best photo. It simply means, don’t take a selfie and pass it off as a headshot. I have seen new actors crop group photos, or use passport photos as their headshots - <b>don’t do that</b>. Go to a studio with a photographer who knows what they're doing. Lighting, poses, and an understanding of what type of photo you want will greatly increase getting great results.   </p>
+                            <p> I would strongly recommend hiring a makeup artist. Don’t assume just because you do your make up everyday that you can do make up for a professional shoot </p>
+                            <p> This is why headshots are considered an investment, because you are not only paying for your photos, you are paying for your make-up, your edits and prints.  </p>
+                            <p> But at the end of the day, these photos will hopefully get you into the audition room, which is one step closer to booking the job, and paying that investment off!  </p>
+                        </li>
+                        <li>
+                            <h2 id="sectionFour"> Commercial Photos vs. Theatrical Photos </h2>
+                            <p> If you are tight for money, and can only get two different looks in your headshot session, make sure you get one commercial shot and one theatrical shot.  </p>
+                            <p> A commercial shot is a photo that looks entirely like you, natural and “family friendly”. A good indicator of a commercial photo is something you would see in stock photography. You look like you are someone people want to work with, and a company would want you as the face of their product.  </p>
+                            <p> A theatrical photo is one that fits into more of a character category. These photos are used for film, tv and theater, where the photo indicates a lean towards a genre or type of person. An example I keep going back to is “biker” but it can also be “business professional” “student” “mother” “villain” “blue collar worker” etc etc.  </p>
+                            <p> The main way you would curate these two shots is by wardrobe. A business professional look would likely have a blazer or a collared shirt. A harder look may involve a leather jacket, or a sleeveless top. The other way is by how you pose in the photo, but more of that in subsequent points below.  </p>
+                            <p> A wonderful way to understand these various looks is to look up headshots on Pinterest. Make a board of the looks you want to replicate in your headshot session. It’s an easy way to figure out what kind of wardrobe, make up and poses you want to bring in.  </p>
+                        </li>
+                        <li>
+                            <h2 id="sectionFive"> Your Eyes are the Windows to … the Room </h2>
+                            <p> A good headshot has “something about it”. Generally this “something” comes from the thoughts that are behind your eyes. They say that the eyes are the windows to the soul, and as such, your thoughts in your photo give the viewer a glimpse of that.  </p>
+                            <p> If you look at a headshot and you wonder “what is that person thinking” or “what was going on when they took that photo”, that is memorable. That is what will make you stand out.  </p>
+                            <p> Very often new actors will get headshots and the proofs show a “deer in the headlights” look or a “dead look”, which often comes from a discomfort or fear during the session. A way to combat these issues, and make sure you get your money’s worth from your headshot session, is to prepare thoughts.  </p>
+                            <p> These thoughts should come through your eyes. They can be anything you want. My suggestion is you think thoughts towards the camera, as if they are a character. “I like you” “I will get you” “I am better than you”...etc.  The viewer won’t know what you were thinking, but they will know there is something captivating about your headshot, and that is the goal!  </p>
+                            <p> In an earlier point, I mentioned posing. The reason posing is not it’s own point, is because there are in fact very few poses you will do in a headshot session due to the photo being shoulder or chest up. This is why, if you focus on anything during your headshot session, it’s your eyes and the thoughts that are coming through.  </p>
+                        </li>
+                        <li class="summary-li">
+                        <h2 id="summary">Summary</h2>
+                        <p>There is a lot of pressure in this industry when it comes to headshots, as they are the first thing to get you into the audition room. I won’t diminish this pressure by telling you it’s not important, because they are. However, I will tell you that headshots very often speak to you and those who see it. So trust that. </p>
+                        <p>Picking the right headshot can be a nightmare for some actors. You not only have to look at yourself photo after photo, but you have to narrow it down to 2 or 3. A great way to begin the narrowing down process is making sure your selections check off these points above. </p>
+                        <p>If they do, start asking friends and family what their first impressions are within the first 3 seconds of seeing the image - does it check off these points for them too? This is a great way to begin your selection journey. </p>
+                        </li>
+                    </ol>
+                    <h3>Wishing you a fun filled headshot session, with great results </h3>
+                    `
+                },
 
             ]
             // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
@@ -636,7 +728,11 @@
                     <div class="side-bar">
                     
                     <div class="side-bar-image">
-                        <img height='auto' width='600' src="../assets/images/placeholder-profile.jpg"  alt="the messy actor acting blog profile image">
+                        <picture>
+                            <source srcset="../assets/images/alexandra.webp" type="image/webp">
+                            <source srcset="../assets/images/alexandra.jpg" type="image/jpg"> 
+                            <img class="main-blog-image" src="../assets/images/alexandra.webp" alt="Alexandra Augustine author and creator for the messy actor blog">
+                        </picture> 
                     </div>
                     <p>Having been an actor for over a decade, and exploring many of the mediums the acting industry has to offer, I realized the hardest part of this craft is the lack of guidance. My hope in creating The Messy Actor is to provide advice, tips, and resources to provide answers for those who seek them. Learning allows growth, and growth allows freedom to play - I believe we are the best artists we can be when we are free to play & get messy. </p>
                     <ul class="icons">
@@ -646,9 +742,15 @@
                         <h3>All Categories</h3>
 
                         <ul>
-                        <li><a href="/Categories/getting-started.html">Getting Started</a></li>
+                        <li><a href="/Categories/acting-habits.html">Acting Habits</a></li>
                         <li><a href="/Categories/agents.html">Agents</a></li>
                         <li><a href="/Categories/auditions.html">Auditions</a></li>
+                        <li><a href="/Categories/getting-started.html">Getting Started</a></li>
+                        <li><a href="/Categories/industry-tips.html">Industry Tips</a></li>
+                        <li><a href="/Categories/organization.html">Organization</a></li>
+                        <li><a href="/Categories/preparation.html">Preparation</a></li>
+                        
+                        
                         </ul>
                         </div>
                         <div class="cta"></div>
@@ -671,7 +773,6 @@
                 let postsLength = generateBlogPosts.allBlogPosts.length;
                 let recent = '';
                 for (r = postsLength - 1; r > postsLength - 6 && r >= 0; r--) {
-                    console.log(postsLength)
                     recent += `
     <div class='recentPosts'>
     <h4><a href="${allBlogPosts[r].postLink}">${allBlogPosts[r].title}</a></h4></header><a href="${allBlogPosts[r].postLink}" class="image fit">${allBlogPosts[r].image}</a>${generateHomePageSnippets.categoriesCode(r).code}<p>${allBlogPosts[r].snippet}</p></div>
@@ -857,26 +958,42 @@
                 // Populate Blog Post Snippets 
                 let blogSnippetsLengthStart = (allBlogPosts.length - 2) - 8 * (pageIncrement - 1);
                 let blogSnippetsLengthEnd = (allBlogPosts.length - 2) - (8 * pageIncrement);
-                console.log(blogSnippetsLengthStart, blogSnippetsLengthEnd)
                 for (i = blogSnippetsLengthStart; i > blogSnippetsLengthEnd; i--) {
                     if (i < 0) {
-                        return
+                        break
                     }
                     let snippetPost = `
-            <article id='${i}'>
+                        <article id='${i}'>
+                        <header>
+                            <span class="date">${allBlogPosts[i].date}</span>
+                            <h2><a href="${allBlogPosts[i].postLink}">${allBlogPosts[i].title}</a></h2>
+                        </header>
+                        <a href="${allBlogPosts[i].postLink}" class="image fit">${allBlogPosts[i].image}</a>
+                        ${categoriesCode(i).code}
+                        <p>${allBlogPosts[i].snippet}</p>
+                        <ul class="actions special">
+                            <li><a href="${allBlogPosts[i].postLink}" class="button">Full Story</a></li>
+                        </ul>
+                        </article>
+                    `
+                    blogSnippetContainer.insertAdjacentHTML("beforeend", snippetPost)
+                }
+                let isEmptySpace = document.querySelectorAll('#blog-post-snippets article')
+                if (isEmptySpace % 2 !== 0) {
+                    let palceholderSnippet = `
+                <article id='placeholder'>
                  <header>
-                     <span class="date">${allBlogPosts[i].date}</span>
-                     <h2><a href="${allBlogPosts[i].postLink}">${allBlogPosts[i].title}</a></h2>
+                     <span class="date"></span>
+                     <h2><a href=""></a></h2>
                  </header>
-                 <a href="${allBlogPosts[i].postLink}" class="image fit">${allBlogPosts[i].image}</a>
-                 ${categoriesCode(i).code}
-                 <p>${allBlogPosts[i].snippet}</p>
+                 <a href="" class="image fit"></a>
+                 <p></p>
                  <ul class="actions special">
-                     <li><a href="${allBlogPosts[i].postLink}" class="button">Full Story</a></li>
+                     <li></li>
                  </ul>
                  </article>
             `
-                    blogSnippetContainer.insertAdjacentHTML("beforeend", snippetPost)
+                    blogSnippetContainer.insertAdjacentHTML("beforeend", palceholderSnippet)
                 }
             }
             // ----------------------------------------------------------- Change Homepage Page Number -----------------------------------------------------------
