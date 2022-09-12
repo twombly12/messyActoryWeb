@@ -133,10 +133,11 @@
                         
                         <li class="summary-li">
                             <h2 id="summary">Summary</h2>
-                            <p>When looking for an agent, there are many things to look out for, frankly, that’s a whole blog post in itself, which you can find here <a href="">Check out 8 Things to Avoid in an Acting Agent</a> However, the best tip I can give
+                            <p>When looking for an agent, there are many things to look out for, frankly, that’s a whole blog post in itself, which you can find here <a href="/Posts/8-things-to-avoid-in-an-acting-agent.html">Check out 8 Things to Avoid in an Acting Agent</a> However, the best tip I can give
                                 you is to make sure you get along with the person you are signing with.</p>
                             <p>As a new actor, you will likely want someone who is friendly, and able to hold your hand as you maneuver the vast acting world. As such, you want to make sure you get along with them and are comfortable having a business relationship
                                 with your agent.</p>
+                                <p>Just remember that becoming an actor takes a lot of patience in time, even after you have done these steps, there are a lot of challenges and continual upkeep you will have to do. Becoming an actor is a commitment to the craft, and to the lifestyle. It may be a tumultuous journey, but keep your head high, and put the time in. You got this! </p>
                         </li>
                     </ol>
                     <h3>Wishing you the best of luck as you start your career!</h3>
@@ -184,7 +185,7 @@
                     </ul>`,
                     "content": `
                 <p>Unfortunately, there are people out there who will use your eagerness to chase your dreams, as a means to scam you. These sort of people are salesmen and are only looking to use you to get a few dollars. It’s better to be your own representative until you find a legitimate agent than to sign with one of these scam agencies.</p>
-                <p>Below are some things to look out for when meeting or looking for agents. If you have already signed with an agent and want to know what practices are right or wrong - check out <a href="">5 THINGS TO EXPECT FROM YOUR TALENT AGENT</a></p>
+                <p>Below are some things to look out for when meeting or looking for agents. If you have already signed with an agent and want to know what practices are right or wrong - check out <a href="/Posts/5-things-to-expect-from-your-talent-agent.html">5 THINGS TO EXPECT FROM YOUR TALENT AGENT</a></p>
 
                 <ol>
                 <li>
@@ -231,7 +232,7 @@
                 </li>
                 <li class="summary-li">
                 <h2 id="summary" >Summary</h2>
-                <p>It may see that getting an agent is a little scary, however, it’s better to know what is out there and be prepared. One of the reasons I am so adamant about training, (which you can see in <a href="">8 TIPS ON HOW TO BECOME AN ACTOR</a>) is that not only does it prepare you with the skill of acting, but it also is a barrier against these scam agents. Scam agencies do not want someone who knows what they are doing. Training also allows you a safe community to talk to other actors about their experiences with agencies and agents, which is another method that keeps you safe.</p>
+                <p>It may seem that getting an agent is a little scary, however, it’s better to know what is out there and be prepared. One of the reasons I am so adamant about training, (which you can see in <a href="/Posts/8-tips-on-how-to-become-an-actor.html">8 TIPS ON HOW TO BECOME AN ACTOR</a>) is that not only does it prepare you with the skill of acting, but it also is a barrier against these scam agents. Scam agencies do not want someone who knows what they are doing. Training also allows you a safe community to talk to other actors about their experiences with agencies and agents, which is another method that keeps you safe.</p>
                 </li>
             </ol>
             <h3>Wishing you the best of luck as you search for your agent!</h3>
@@ -272,7 +273,7 @@
                             <a href="#summary">Summary</a></li>
                     </ul>`,
                     "content": `
-                    <p>The blog below is going to prepare you for the practices of a good agent, and what you can expect. If you want to know what practices you can do to be a good client, see <a href="">(6 WAYS TO HAVE A BETTER RELATIONSHIP WITH YOUR AGENT)</a></p>
+                    <p>The blog below is going to prepare you for the practices of a good agent, and what you can expect. If you want to know what practices you can do to be a good client, see <a href="/Posts/6-ways-to-have-a-better-relationship-with-your-agent.html">(6 WAYS TO HAVE A BETTER RELATIONSHIP WITH YOUR AGENT)</a></p>
                     <ol>
                         <li>
                             <h2 id="sectionOne"> THEY COMMUNICATE WELL </h2>
@@ -287,7 +288,7 @@
                         <li>
                             <h2 id="sectionTwo"> THEY ARE PROFESSIONAL  </h2>
                             <p>It is easy to forget that the relationship with your agent is a business relationship. Over time, and as you get to know them better, it can become more friendly, however, there always does need to be a sense of professionalism and respect. This means they speak to you as they would speak to someone they work with.</p>
-                            <p>To put it in a different light, let’s just say - if you would report PR on their asses in a 9 - 5 job, then it’s unacceptable in this situation as well.</p>
+                            <p>To put it in a different light, let’s just say - if you would report HR on them in a 9 - 5 job, then it’s unacceptable in this situation as well.</p>
                             <p>The only exception to this is if you are both discussing anything to do with changing your look, size charts, and something that may directly affect your appearance. In this industry, appearance does play a part, but this conversation should be consensual on both sides and dealt with respect as well.</p>
                         </li>
                         <li>
@@ -324,7 +325,7 @@
                         
                         <li class="summary-li">
                         <h2 id="summary">Summary</h2>
-                        <p>Babsey says stuff about things here</p>
+                        <p>At the end of the day, you want to find someone you get along with, and want to work with. You don’t need to see your entire future with them, there are agents who are stepping stones, but even an agent who is bringing you to the next level should add value to your career at that point in time. If you feel your agent is lacking in one of these categories, communicate that with them. All relationships require work - be sure to put the effort in to make this one flourish as well.  See <a href="/Posts/6-ways-to-have-a-better-relationship-with-your-agent.html">(6 WAYS TO HAVE A BETTER RELATIONSHIP WITH YOUR AGENT)</p>
                         </li>
                     </ol>
                     <h3>I hope you have a wonderful agent who checked all five of these points! </h3>
@@ -383,7 +384,7 @@
                             <h2 id="sectionTwo"> PRIORITIZE TIME MANAGEMENT  </h2>
                             <p>It is very likely that you will be asked to audition several times a week. Being organized means you can handle your auditions, bookings, side jobs, and personal life. It means you are able to get your audition in before the deadline, while also working your side job, because you know how to handle your schedule.</p>
                             <p>Knowing your schedule is helpful when you get Availability Checks for bookings. It is also possible you will book more than one job at a time. (I wish this for all of you) It’s important you know when those outside dates for both jobs are, in case there are any overlaps. Additionally, some of you have more than one agent, in more than one country, so knowing the scheduling of your bookings and communicating them to your agents is very important.</p>
-                            <p>Another organizational skill that can be very handy, is keeping track of your auditions. ( <a href="">See  13 THINGS TO KEEP TRACK OF WHEN YOU AUDITION</a> for a more in-depth look at what to keep track of) If you have an understanding at the end of the year of who’s auditioned you, and how many auditions you’ve had. You can have a discussion with your agent on who you’d like to see more of, and what direction you want your next year to go.</p>
+                            <p>Another organizational skill that can be very handy, is keeping track of your auditions. ( <a href="/Posts/14-things-to-keep-track-of-when-you-auditions.html">See  14 THINGS TO KEEP TRACK OF WHEN YOU AUDITION</a> for a more in-depth look at what to keep track of) If you have an understanding at the end of the year of who’s auditioned you, and how many auditions you’ve had. You can have a discussion with your agent on who you’d like to see more of, and what direction you want your next year to go.</p>
                         </li>
                         <li>
                             <h2 id="sectionThree"> GET TO KNOW YOUR TALENT AGENT </h2>
@@ -399,7 +400,7 @@
                             <h2 id="sectionFour"> KNOW WHEN TO COMMUNICATE AND WHEN TO BE PATIENT </h2>
                             <p>For new actors who have recently signed with an agent, it may seem daunting knowing when to contact your agent and when not to. The answer to this is:  don’t be afraid to contact them.</p>
                             <p>There are however reasons to contact them that are better than others.</p>
-                            <p><em>Good Reasons</em></p>
+                            <p><b><em>Good Reasons</em></b></p>
                             <ul>
                                 <li>You have a question about an audition, a booking, or something they can answer that you don’t know </li>
                                 <li>You are on hold, and the date is a day away and you haven’t heard whether you booked it or have been released</li>
@@ -411,7 +412,7 @@
                                 <li>You want to have a yearly meeting to go over goals</li>
                                 <li>You saw an audition that you want to submit for</li>
                             </ul>
-                            <p><em>Good Reasons</em></p>
+                            <p><b><em>No So Good Reasons</em></b></p>
                             <ul>
                                 <li>To check and see if they heard back about an audition</li>
                                 <li>To ask them why you haven’t gotten any auditions in a while</li>
@@ -435,7 +436,9 @@
                         </li>
                         <li class="summary-li">
                         <h2 id="summary">Summary</h2>
-                        <p>Babsey says stuff about things here</p>
+                        <p>If you have any doubt about any of these points, the one to drive home is the golden rule: don’t be a jerk. Being someone who is pleasant to work with goes a long way. You can be disorganized, or occasionally not be fully prepared, but as long as you are hitting deadlines, trying your best and being kind, your agent will thank you. </p>
+                        <p>As one final takeaway;, I have heard actors say that “the agent hasn’t put the work in to get to know me so why should I.”  My personal opinion on this matter is the following:  Your agent has 20,30, maybe even 50 more people they are managing. If you want them to put the effort into getting to know you, you should show them why it is worth it. If you aren’t willing to do that, ask yourself which of the following beliefs from above you have - 1 ,2 or 3.  </p>
+                        </p>
                         </li>
                     </ol>
                     <h3>Wishing you a great relationship with your agent(s)!</h3>
@@ -486,7 +489,7 @@
                             <li>
                             <a href="#sectionTwelve"> Callbacks, Holds & Bookings </a></li>
                             <li>
-                            <a href="#sectionThirteen"> Catalog Number </a></li>
+                            <a href="#sectionThirteen"> Catalogue Number </a></li>
                             <li>
                             <a href="#sectionFourteen"> The Yearly Tally </a></li>
                 
@@ -496,7 +499,7 @@
                     "content": `
                     <p>Keeping track of the facts of your auditions is important for growth, and goal setting. Many actors believe they can just remember certain information, like what casting directors brought them in, or what they’ve auditioned for. However, without a proper way of cataloging these facts - you can lose sight of them very quickly.</p>
                     <p>You can either make your own Audition Book, or you can purchase one, like the linked below. 
-                    <a href="">(INSERT LINK FOR AMAZON NOTEBOOK) </a>
+                    <div class="cta"></div>
                 </p>
                     <p>Below are the various things you should keep track of when auditioning, and why.</p>
                     <ol>
@@ -558,7 +561,7 @@
                         <li>
                             <h2 id="sectionEleven"> Feedback </h2>
                             <p>This category may rarely get used. It isn’t very frequently that you will receive feedback from casting - however, your agent may give you a comment or two. So - it is worth writing down, if not only for your ego, to remember good things said about your work. And, as always if there is constructive feedback, this is something you can take into your next audition to allow growth.</p>
-                            <p>The odd time you do receive feedback, this could be from a director or casting telling you how to alter your callback or tape for a better chance of being considered for the role. Sometimes when we audition we don’t understand the genre or the type of comedy/drama needed, and notes can feedback can get us on the right track.</p>
+                            <p>The odd time you do receive feedback, this could be from a director or casting telling you how to alter your callback or tape for a better chance of being considered for the role. Sometimes when we audition we don’t understand the genre or the type of comedy/drama needed, and can feedback can get us on the right track.</p>
                         </li>
                         <li>
                             <h2 id="sectionTwelve"> Callbacks, Holds & Bookings </h2>
@@ -566,12 +569,12 @@
                             <p>If you bought the audition book, you can simply check off, or highlight the box in order to keep track.</p>
                         </li>
                         <li>
-                            <h2 id="sectionThirteen"> Catalog Number </h2>
+                            <h2 id="sectionThirteen"> Catalogue Number </h2>
                             <p>There are two types of cataloging that you should have within your audition book. You should number the audition WITHIN THE YEAR. For example: #3 (within the year 2022) and you should number the audition OVERALL. For example #245 (between the year 2017 - 2022) This way you can see how many auditions you have ever done and how many auditions you did that year alone.</p>
                             <p>Generally the yearly number goes beside the date, and the overall  number goes at the bottom of the audition, but there is no right way to do this.</p>
                             <p>I personally also like to number my sides as well, and give them a number alongside my audition number. Since some auditions, generally commercials, tend to be SOC (silent on camera) there are no sides that come along with it. So the audition number, and the sides number can differ.</p>
-                            <p>You don’t need to number your sides if you aren’t printing them and keeping them.</p>
-                            <p>If you are printing your sides and breakdowns, and keeping them in an additional binder. Numbering them in accordance with your overall audition number and your sides number can be very useful if you want to go back to your sides on a later date. Let me give you an example, as this may sound very confusing, but I promise you it isn’t.</p>
+                            <p>You don’t need to number your sides if you aren’t printing them and keeping them. However, if you do keep them, even electronically, it may be worth giving them a number.</p>
+                            <p>If you are printing your sides and breakdowns, and keeping them in an additional binder, numbering them in accordance with your overall audition number and your sides number can be very useful if you want to go back to your sides on a later date. Let me give you an example, as this may sound very confusing, but I promise you it isn’t.</p>
                             <p><strong><em> EXAMPLE: </em></strong></p>
                             <p>The audition is for <em>THE WITCHER</em> -</p>
                             <p>It is your <strong>289th</strong> audition of your entire career.</p>
@@ -594,12 +597,12 @@
                             <p>And anything additional you find pertinent information for your growth and goal setting. 
                        </p>
                             <p>If you have bought the notebook linked above, you will notice that it is the very first page of your notebook. This way makes it easier to a) remember you have to fill it in at the end of the year b) makes it easier to find if you go looking for it.</p>
-                            <p>It may seem that this is a lot of work, but once you get in the groove, it will take you an additional 5 minutes before or after every audition, and you will be thankful for it.  <a href="">Remember, this is YOUR audition book - make it work for you. </a>
                        </p>
                         </li>
                         <li class="summary-li">
                         <h2 id="summary">Summary</h2>
-                        <p>Babsey says stuff about things here</p>
+                        <p>This job has a lot of things out of our control. You may as well do something within it. This gives you 14 ways to be in control!</p>
+                        <p>It may seem that this is a lot of work, but once you get in the groove, it will take you an additional 5 minutes before or after every audition, and you will be thankful for it.  Remember, this is <a href="https://www.blurb.ca/b/11262737-the-audition-notebook">YOUR audition book</a> - make it work for you. I guarantee you, that this will make your professional career a lot easier to manage, and it will make you feel the accomplishments and goals you are hitting along the way. </p>
                         </li>
                     </ol>
                     <h3>Wishing you a fun and useful logging audition experience. </h3>
@@ -635,7 +638,7 @@
                     <div class="side-bar-image">
                         <img height='auto' width='600' src="../assets/images/placeholder-profile.jpg"  alt="the messy actor acting blog profile image">
                     </div>
-                    <p>A place actors can go for tips, advice, and resources to help them learn grow and get messy!</p>
+                    <p>Having been an actor for over a decade, and exploring many of the mediums the acting industry has to offer, I realized the hardest part of this craft is the lack of guidance. My hope in creating The Messy Actor is to provide advice, tips, and resources to provide answers for those who seek them. Learning allows growth, and growth allows freedom to play - I believe we are the best artists we can be when we are free to play & get messy. </p>
                     <ul class="icons">
 
                     </ul>
@@ -647,7 +650,8 @@
                         <li><a href="/Categories/agents.html">Agents</a></li>
                         <li><a href="/Categories/auditions.html">Auditions</a></li>
                         </ul>
-                        <h3>Call to Action with Free Item</h3>
+                        </div>
+                        <div class="cta"></div>
                         <h3>Latest Posts</h3>
                         ${getRecentPosts()}
                         <h3>Instagram</h3>

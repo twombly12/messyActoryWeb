@@ -101,6 +101,12 @@ ol li h2::before {
     background: #eeeeee;
 }
 
+.post li ul li {
+    list-style-position: outside;
+    margin-left: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
 .related-posts-heading {
     padding-top: 4rem !important;
     margin: 0;
@@ -244,7 +250,8 @@ p+img {
     margin-top: 2.5rem;
 }
 
-.side-bar h3::before {
+.side-bar h3::before,
+.side-bar h2::before {
     margin: 0 0 2rem 0;
     content: "";
     position: absolute;
@@ -292,7 +299,7 @@ p+img {
     position: relative;
 }
 
-.split.contact .cta {
+.cta {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -302,16 +309,43 @@ p+img {
     padding: 4rem 4rem 2rem 4rem;
 }
 
-.split.contact .cta img {
+.blog-post-content .cta {
+    height: auto;
+    padding-top: 2rem;
+}
+
+.side-bar .cta {
+    height: auto;
+    padding: 0;
+}
+
+.side-bar .cta h2 {
+    font-size: 1.25rem;
+    margin: 0 0 1.5rem 0;
+    position: relative;
+    padding-top: 2.5rem;
+    margin-top: 2.5rem;
+    font-family: "Source Sans Pro", Helvetica, sans-serif !important;
+    font-weight: 900;
+    line-height: 1.5;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+    align-self: start;
+}
+
+
+}
+.cta img {
     position: relative;
     height: auto;
     max-widtH: 300px;
 }
-
-.split.contact .cta .button {
+.side-bar .cta img {
+    max-widtH: 200px;
+}
+.cta .button {
     margin-top: 20px;
 }
-
 .img-link {
     text-decoration: none;
     border: none;

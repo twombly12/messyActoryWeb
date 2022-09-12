@@ -15,11 +15,7 @@ function genFooter() {
         </form>
     </section>
     <section class="split contact">
-            <div class="cta">
-            <h2>The Audition Book</h2>
-            <a class="img-link" target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook"><img src="/assets/images/Book Mockup.png" alt="image of cover for The Messy Actors Audition Note Book"/></a>
-            <a class="button" target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook">Buy it now</a>
-    </div>
+            <div class="cta"></div>
         <section>
             <h3>Social</h3>
             <ul class="icons alt">
@@ -29,6 +25,16 @@ function genFooter() {
     </section>
     `
     document.getElementById('footer').innerHTML = footer;
+}
+
+function cta() {
+    const ctaContent = `<h2>The Audition Book</h2>
+    <a class="img-link" target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook"><img src="/assets/images/Book Mockup.png" alt="image of cover for The Messy Actors Audition Note Book"/></a>
+    <a class="button" target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook">Buy it now</a>`;
+
+    document.querySelectorAll('.cta').forEach(element => {
+        element.innerHTML = ctaContent;
+    })
 }
 
 function genCopyright() {
@@ -98,6 +104,7 @@ function runOnLoad() {
     tagline()
     activeMenuItem()
     populateLogo()
+    cta()
 }
 
 
