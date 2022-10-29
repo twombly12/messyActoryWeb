@@ -1,3 +1,7 @@
+* {
+    Scroll-behavior: smooth;
+}
+
 #mainLogo {
     margin-bottom: 0px;
     position: relative;
@@ -299,6 +303,10 @@ p+img {
 
 /* ------------ Footer --------- */
 
+.contact-link {
+    display: none;
+}
+
 #footer h2 {
     margin-bottom: 0.52rem;
 }
@@ -411,4 +419,31 @@ p+img {
 
 #nav .dropdown .dropdown-content ul li:last-child a {
     border: none;
+}
+
+
+/* -------------------- Main Menu DropDown Items ----------------------  */
+
+#navPanel li {
+    list-style: none;
+}
+
+#navPanel ul {
+    margin: 0;
+}
+
+#navPanel .dropdown span {
+    display: block;
+    border-bottom: solid 2px #eeeeee;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-size: 0.9rem;
+    font-size: 0.9rem;
+    font-weight: 900;
+    letter-spacing: 0.075em;
+    padding: 0.75rem 0;
+    text-transform: uppercase;
+}
+
+#navPanel .icons {
+    margin-top: 40px;
 }

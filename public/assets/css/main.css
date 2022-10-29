@@ -3506,6 +3506,11 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
     color: #EC008C !important;
 }
 
+#navPanel .active,
+#navPanel li.active>a {
+    color: #EC008C !important;
+}
+
 #nav ul.icons {
     -moz-flex-grow: 0;
     -webkit-flex-grow: 0;

@@ -2,7 +2,7 @@
 
         const blogSignOff = `
 
-        <p>Be sure to follow us at themessyactorblog on <a href="#" class="icon brands fa-instagram"> Instagram</a></p>
+        <p>Be sure to follow us at themessyactorblog on <a target="__blank" href="https://www.instagram.com/themessyactorblog/" class="icon brands fa-instagram"> Instagram</a></p>
         <p>Grow, Let Go & Get Messy!</p>
         <p>The Messy Actor
    </p>
@@ -127,17 +127,17 @@
                                 your career.</p>
                             <p>Very often, new actors who sign with huge agencies get lost in the shuffle, since the large agencies are focusing on their A-listers. With that being said, do apply to those agencies, you may as well – the worst thing that happens
                                 is they say no.</p>
-                            
+                                <p>When looking for an agent, there are many things to look out for, frankly, that’s a whole blog post in itself, which you can find here <a href="/Posts/8-things-to-avoid-in-an-acting-agent.html">Check out 8 Things to Avoid in an Acting Agent</a> However, the best tip I can give
+                                you is to make sure you get along with the person you are signing with.</p>
+                            <p>As a new actor, you will likely want someone who is friendly, and able to hold your hand as you maneuver the vast acting world. As such, you want to make sure you get along with them and are comfortable having a business relationship
+                                with your agent.</p>
+                                <p>Just remember that becoming an actor takes a lot of patience in time, even after you have done these steps, there are a lot of challenges and continual upkeep you will have to do. Becoming an actor is a commitment to the craft, and to the lifestyle. It may be a tumultuous journey, but keep your head high, and put the time in. You got this! </p>
     
                         </li>
                         
                         <li class="summary-li">
                             <h2 id="summary">Summary</h2>
-                            <p>When looking for an agent, there are many things to look out for, frankly, that’s a whole blog post in itself, which you can find here <a href="/Posts/8-things-to-avoid-in-an-acting-agent.html">Check out 8 Things to Avoid in an Acting Agent</a> However, the best tip I can give
-                                you is to make sure you get along with the person you are signing with.</p>
-                            <p>As a new actor, you will likely want someone who is friendly, and able to hold your hand as you maneuver the vast acting world. As such, you want to make sure you get along with them and are comfortable having a business relationship
-                                with your agent.</p>
-                                <p>Just remember that becoming an actor takes a lot of patience in time, even after you have done these steps, there are a lot of challenges and continual upkeep you will have to do. Becoming an actor is a commitment to the craft, and to the lifestyle. It may be a tumultuous journey, but keep your head high, and put the time in. You got this! </p>
+                                <p>Becoming an actor is a lifelong journey. You may just be getting started, but if you are in this for the long haul, you will allow yourself patience and understanding as you grow and develop in this industry.  This really is the case where slow and steady wins the race! (And fun fact, the race is life - not the job!)  </p>
                         </li>
                     </ol>
                     <h3>Wishing you the best of luck as you start your career!</h3>
@@ -412,7 +412,7 @@
                                 <li>You want to have a yearly meeting to go over goals</li>
                                 <li>You saw an audition that you want to submit for</li>
                             </ul>
-                            <p><b><em>No So Good Reasons</em></b></p>
+                            <p><b><em>Not So Good Reasons</em></b></p>
                             <ul>
                                 <li>To check and see if they heard back about an audition</li>
                                 <li>To ask them why you haven’t gotten any auditions in a while</li>
@@ -645,7 +645,7 @@
                     "content": `
                     <p> 
                     <p><em>What is a headshot?</em> A headshot is a professional photo of your face, generally shoulders up, that looks like you. It’s purpose is to get you into the audition room. Long story short - a headshot is your business card.  A good headshot will be memorable enough to get you into various rooms, generic enough that it looks like you most of the time, and specific enough to slot you into various role categories. </p>
-                    <p><em>What do I need them for?</em> Most importantly, headshots are used to “sell” you to casting directors. This means agents (or yourself if you are not represented) use the photo to persuade casting directors to get you into the room for an audition. In situations like open calls,your headshot is also used to remember what you looked like when you entered the room. </p>
+                    <p><em>What do I need them for?</em> Most importantly, headshots are used to “sell” you to casting directors. This means agents (or yourself if you are not represented) use the photo to persuade casting directors to get you into the room for an audition. In situations like open calls,your headshot is also used to remember what you looked like when you've entered the room. </p>
                     <p>Now, in our predominantly online world, headshots are also used for casting websites and marketing purposes. If you are being sent out for audition submissions by your agent online, your only method to getting an audition is your headshot. Some people post their headshots on their social media platforms as well. </p>
                     <p>Now that we’ve summarized what they are, here are some things you should know about headshots if you are going to get them done, or already have. 
                      </p> </p>
@@ -670,7 +670,7 @@
                             <h2 id="sectionThree"> Headshots Are an Invesment </h2>
                             <p> Since headshots are your first impression with casting, it’s important that you have a professional photo. Many actors find the pricing of headshots to be quite a difficult bill to swallow, however if there is any cost worth spending, it’s on good headshots. If you get shots you like, you can use them for 3-5 years, or more if your look doesn’t change.  </p>
                             <p> With that being said, this doesn’t mean spending $1,500 on headshots because the price gets you the best photo. It simply means, don’t take a selfie and pass it off as a headshot. I have seen new actors crop group photos, or use passport photos as their headshots - <b>don’t do that</b>. Go to a studio with a photographer who knows what they're doing. Lighting, poses, and an understanding of what type of photo you want will greatly increase getting great results.   </p>
-                            <p> I would strongly recommend hiring a makeup artist. Don’t assume just because you do your make up everyday that you can do make up for a professional shoot </p>
+                            <p> I would strongly recommend hiring a makeup artist. Don’t assume just because you do your make up everyday that you can do make up for a professional shoot. </p>
                             <p> This is why headshots are considered an investment, because you are not only paying for your photos, you are paying for your make-up, your edits and prints.  </p>
                             <p> But at the end of the day, these photos will hopefully get you into the audition room, which is one step closer to booking the job, and paying that investment off!  </p>
                         </li>
@@ -697,7 +697,7 @@
                         <p>If they do, start asking friends and family what their first impressions are within the first 3 seconds of seeing the image - does it check off these points for them too? This is a great way to begin your selection journey. </p>
                         </li>
                     </ol>
-                    <h3>Wishing you a fun filled headshot session, with great results </h3>
+                    <h3>Wishing you a fun filled headshot session, with great results! </h3>
                     `
                 },
 
@@ -729,9 +729,9 @@
                     
                     <div class="side-bar-image">
                         <picture>
-                            <source srcset="../assets/images/alexandra.webp" type="image/webp">
-                            <source srcset="../assets/images/alexandra.jpg" type="image/jpg"> 
-                            <img class="main-blog-image" src="../assets/images/alexandra.webp" alt="Alexandra Augustine author and creator for the messy actor blog">
+                            <source srcset="../assets/images/alexandra portrait.webp" type="image/webp">
+                            <source srcset="../assets/images/alexandra portrait.jpg" type="image/jpg"> 
+                            <img class="main-blog-image" src="../assets/images/alexandra portrait.webp" alt="Alexandra Augustine author and creator for the messy actor blog">
                         </picture> 
                     </div>
                     <p>Having been an actor for over a decade, and exploring many of the mediums the acting industry has to offer, I realized the hardest part of this craft is the lack of guidance. My hope in creating The Messy Actor is to provide advice, tips, and resources to provide answers for those who seek them. Learning allows growth, and growth allows freedom to play - I believe we are the best artists we can be when we are free to play & get messy. </p>
@@ -756,7 +756,6 @@
                         <div class="cta"></div>
                         <h3>Latest Posts</h3>
                         ${getRecentPosts()}
-                        <h3>Instagram</h3>
 
                     </div>
                 </main>`;
@@ -844,7 +843,7 @@
                      <span class="date"></span>
                      <h2><a href=""></a></h2>
                  </header>
-                 <a href="" class="image fit"></a>
+                 <span href="" class="image fit"></span>
                  <p></p>
                  <ul class="actions special">
                      <li></li>

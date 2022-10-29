@@ -6,11 +6,13 @@ function genFooter() {
         <h3>Have questions? Want to see a certain topic? Want to chat?</h3>
         <form method="post" action="#" class="contact-form">
             <label for="name">Name</label>
-            <input type="text" name="name" id="name" />
+            <input required type="text" name="name" id="name" />
             <label for="email">Email</label>
-            <input type="text" name="email" id="email" />
+            <input required type="text" name="email" id="email" />
             <label for="message">Message</label>
-            <textarea name="message" id="message" rows="3"></textarea>
+            <textarea style="resize: none;" required name="message" id="message" rows="3"></textarea>
+            <label class="contact-link">Link</label>
+            <input class="contact-link" name="contact-link" id="contact-link" placeholder="url">
             <input type="submit" value="Send Message" />
         </form>
     </section>
@@ -77,12 +79,13 @@ function menuAndSocial() {
         </ul>
     `
     document.getElementById('nav').innerHTML = menuLinks;
+    document.getElementById('navPanel').innerHTML += menuLinks;
 
     let socialBlock = document.querySelectorAll('.icons');
     for (i = 0; i < socialBlock.length; i++) {
         const socialLinks = `
-            <li><a href="https://www.facebook.com/themessyactor/" class="icon brands fa-facebook-f" title="link to facebook"><span class="label">Facebook</span></a></li>
-            <li><a href="https://www.instagram.com/themessyactorblog/" class="icon brands fa-instagram" title="link to instagram"><span class="label">Instagram</span></a></li>
+            <li><a target="__blank" href="https://www.facebook.com/themessyactor/" class="icon brands fa-facebook-f" title="link to facebook"><span class="label">Facebook</span></a></li>
+            <li><a target="__blank" href="https://www.instagram.com/themessyactorblog/" class="icon brands fa-instagram" title="link to instagram"><span class="label">Instagram</span></a></li>
     `
         socialBlock[i].innerHTML = socialLinks;
     }
@@ -103,14 +106,28 @@ function populateLogo() {
 
 function activeMenuItem() {
     let currentPage = window.location.pathname;
-    let menuList = document.querySelectorAll('.links li');
-    let menuLinks = document.querySelectorAll('.links li a');
+
+    let menuList = document.querySelectorAll('#nav .links li');
+    let menuLinks = document.querySelectorAll('#nav .links li a');
     for (i = 0; i < menuList.length - 1; i++) {
         menuList[i].classList.remove('active');
         if (menuLinks[i].pathname === currentPage) {
             menuLinks[i].parentNode.classList.add('active');
             if (menuLinks[i].parentNode.classList.contains('drawer')) {
                 menuLinks[i].parentNode.parentNode.parentNode.parentNode.classList.add('active');
+            }
+            break
+        }
+    }
+
+    let mobileMenuList = document.querySelectorAll('#navPanel .links li');
+    let mobileMenuLinks = document.querySelectorAll('#navPanel .links li a');
+    for (i = 0; i < mobileMenuList.length - 1; i++) {
+        mobileMenuList[i].classList.remove('active');
+        if (mobileMenuLinks[i].pathname === currentPage) {
+            mobileMenuLinks[i].parentNode.classList.add('active');
+            if (mobileMenuLinks[i].parentNode.classList.contains('drawer')) {
+                mobileMenuLinks[i].parentNode.parentNode.parentNode.parentNode.classList.add('active');
             }
             break
         }
@@ -141,6 +158,7 @@ const contactForm = document.querySelector('.contact-form')
 let name = document.getElementById('name')
 let email = document.getElementById('email')
 let message = document.getElementById('message')
+let link = document.getElementById('contact-link')
 
 contactForm.addEventListener('submit', (e) => {
     e.preventDefault();
@@ -149,6 +167,20 @@ contactForm.addEventListener('submit', (e) => {
         name: name.value,
         email: email.value,
         message: message.value,
+    }
+
+    if (name.value === '' || email.value === '' || message.value === '') {
+        alert('Please fill out all fields')
+        return
+    }
+
+    if (link.value.length > 0) {
+        alert('email sent');
+        name.value = '';
+        email.value = '';
+        message.value = '';
+        link.value = '';
+        return
     }
 
     let xhr = new XMLHttpRequest()
