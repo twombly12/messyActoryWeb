@@ -8,9 +8,8 @@ const headData = () => {
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/main.css" />
-    <noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
-    <link rel="stylesheet" href="../assets/css/custom.css" />
+
+    
 
     <link rel="icon" type="image/x-icon" href="/assets/images/Website Icon.png">
     
@@ -26,3 +25,5 @@ const headData = () => {
 
     document.querySelector('head')
 }
+
+headData()
