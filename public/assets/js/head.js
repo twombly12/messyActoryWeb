@@ -11,19 +11,7 @@ const headData = () => {
 
     
 
-    <link rel="icon" type="image/x-icon" href="/assets/images/Website Icon.png">
-    
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PRN20KW759"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-    
-      gtag('config', 'G-PRN20KW759');
-    </script>`
-
-    document.querySelector('head')
+    <link rel="icon" type="image/x-icon" href="/assets/images/Website Icon.png">`
 }
 
 headData()
