@@ -447,3 +447,14 @@ p+img {
 #navPanel .icons {
     margin-top: 40px;
 }
+
+
+/* -------------------- 404 ----------------------  */
+
+.error-page {
+    text-align: center;
+}
+
+h2.error-page {
+    font-size: 8rem;
+}

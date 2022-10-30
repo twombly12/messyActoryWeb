@@ -19,7 +19,7 @@
                 {
                     "postNum": "blogPost0",
                     "category": "Getting-Started Industry-Tips Preparation",
-                    "postLink": "/Posts/8-tips-on-how-to-become-an-actor.html",
+                    "postLink": "/8-tips-on-how-to-become-an-actor",
                     "title": `8 TIPS ON HOW TO BECOME AN ACTOR`,
                     "image": `<picture>
                 <source srcset="../assets/images/Become-Actor.webp" type="image/webp">
@@ -127,7 +127,7 @@
                                 your career.</p>
                             <p>Very often, new actors who sign with huge agencies get lost in the shuffle, since the large agencies are focusing on their A-listers. With that being said, do apply to those agencies, you may as well – the worst thing that happens
                                 is they say no.</p>
-                                <p>When looking for an agent, there are many things to look out for, frankly, that’s a whole blog post in itself, which you can find here <a href="/Posts/8-things-to-avoid-in-an-acting-agent.html">Check out 8 Things to Avoid in an Acting Agent</a> However, the best tip I can give
+                                <p>When looking for an agent, there are many things to look out for, frankly, that’s a whole blog post in itself, which you can find here <a href="/8-things-to-avoid-in-an-acting-agent">Check out 8 Things to Avoid in an Acting Agent</a> However, the best tip I can give
                                 you is to make sure you get along with the person you are signing with.</p>
                             <p>As a new actor, you will likely want someone who is friendly, and able to hold your hand as you maneuver the vast acting world. As such, you want to make sure you get along with them and are comfortable having a business relationship
                                 with your agent.</p>
@@ -152,7 +152,7 @@
                 {
                     "postNum": "blogPost1",
                     "category": "Agents Industry-Tips Preparation",
-                    "postLink": "/Posts/8-things-to-avoid-in-an-acting-agent.html",
+                    "postLink": "/8-things-to-avoid-in-an-acting-agent",
                     "title": `8 THINGS TO AVOID IN AN ACTING AGENT`,
                     "image": `<picture>
                 <source srcset="../assets/images/Bad-agent.webp" type="image/webp">
@@ -185,7 +185,7 @@
                     </ul>`,
                     "content": `
                 <p>Unfortunately, there are people out there who will use your eagerness to chase your dreams, as a means to scam you. These sort of people are salesmen and are only looking to use you to get a few dollars. It’s better to be your own representative until you find a legitimate agent than to sign with one of these scam agencies.</p>
-                <p>Below are some things to look out for when meeting or looking for agents. If you have already signed with an agent and want to know what practices are right or wrong - check out <a href="/Posts/5-things-to-expect-from-your-talent-agent.html">5 THINGS TO EXPECT FROM YOUR TALENT AGENT</a></p>
+                <p>Below are some things to look out for when meeting or looking for agents. If you have already signed with an agent and want to know what practices are right or wrong - check out <a href="/5-things-to-expect-from-your-talent-agent">5 THINGS TO EXPECT FROM YOUR TALENT AGENT</a></p>
 
                 <ol>
                 <li>
@@ -232,7 +232,7 @@
                 </li>
                 <li class="summary-li">
                 <h2 id="summary" >Summary</h2>
-                <p>It may seem that getting an agent is a little scary, however, it’s better to know what is out there and be prepared. One of the reasons I am so adamant about training, (which you can see in <a href="/Posts/8-tips-on-how-to-become-an-actor.html">8 TIPS ON HOW TO BECOME AN ACTOR</a>) is that not only does it prepare you with the skill of acting, but it also is a barrier against these scam agents. Scam agencies do not want someone who knows what they are doing. Training also allows you a safe community to talk to other actors about their experiences with agencies and agents, which is another method that keeps you safe.</p>
+                <p>It may seem that getting an agent is a little scary, however, it’s better to know what is out there and be prepared. One of the reasons I am so adamant about training, (which you can see in <a href="/8-tips-on-how-to-become-an-actor">8 TIPS ON HOW TO BECOME AN ACTOR</a>) is that not only does it prepare you with the skill of acting, but it also is a barrier against these scam agents. Scam agencies do not want someone who knows what they are doing. Training also allows you a safe community to talk to other actors about their experiences with agencies and agents, which is another method that keeps you safe.</p>
                 </li>
             </ol>
             <h3>Wishing you the best of luck as you search for your agent!</h3>
@@ -246,7 +246,7 @@
                 {
                     "postNum": " blogPost2 ",
                     "category": "Agents Industry-Tips Organization",
-                    "postLink": "/Posts/5-things-to-expect-from-your-talent-agent.html",
+                    "postLink": "/5-things-to-expect-from-your-talent-agent",
                     "title": ` 5 Things to Expect from Your Talent Agent `,
                     "image": `<picture>
                 <source srcset="../assets/images/Good-Agent.webp" type="image/webp">
@@ -273,7 +273,7 @@
                             <a href="#summary">Summary</a></li>
                     </ul>`,
                     "content": `
-                    <p>The blog below is going to prepare you for the practices of a good agent, and what you can expect. If you want to know what practices you can do to be a good client, see <a href="/Posts/6-ways-to-have-a-better-relationship-with-your-agent.html">(6 WAYS TO HAVE A BETTER RELATIONSHIP WITH YOUR AGENT)</a></p>
+                    <p>The blog below is going to prepare you for the practices of a good agent, and what you can expect. If you want to know what practices you can do to be a good client, see <a href="/6-ways-to-have-a-better-relationship-with-your-agent">(6 WAYS TO HAVE A BETTER RELATIONSHIP WITH YOUR AGENT)</a></p>
                     <ol>
                         <li>
                             <h2 id="sectionOne"> THEY COMMUNICATE WELL </h2>
@@ -325,7 +325,7 @@
                         
                         <li class="summary-li">
                         <h2 id="summary">Summary</h2>
-                        <p>At the end of the day, you want to find someone you get along with, and want to work with. You don’t need to see your entire future with them, there are agents who are stepping stones, but even an agent who is bringing you to the next level should add value to your career at that point in time. If you feel your agent is lacking in one of these categories, communicate that with them. All relationships require work - be sure to put the effort in to make this one flourish as well.  See <a href="/Posts/6-ways-to-have-a-better-relationship-with-your-agent.html">(6 WAYS TO HAVE A BETTER RELATIONSHIP WITH YOUR AGENT)</p>
+                        <p>At the end of the day, you want to find someone you get along with, and want to work with. You don’t need to see your entire future with them, there are agents who are stepping stones, but even an agent who is bringing you to the next level should add value to your career at that point in time. If you feel your agent is lacking in one of these categories, communicate that with them. All relationships require work - be sure to put the effort in to make this one flourish as well.  See <a href="/6-ways-to-have-a-better-relationship-with-your-agent">(6 WAYS TO HAVE A BETTER RELATIONSHIP WITH YOUR AGENT)</p>
                         </li>
                     </ol>
                     <h3>I hope you have a wonderful agent who checked all five of these points! </h3>
@@ -339,7 +339,7 @@
                 {
                     "postNum": " blogPost3 ",
                     "category": "Agents Industry-Tips Organization",
-                    "postLink": "/Posts/6-ways-to-have-a-better-relationship-with-your-agent.html",
+                    "postLink": "/6-ways-to-have-a-better-relationship-with-your-agent",
                     "title": ` 6 Ways to Have a Better Relationship with Your Agent `,
                     "image": `<picture>
                 <source srcset="../assets/images/Agent_.webp" type="image/webp">
@@ -384,7 +384,7 @@
                             <h2 id="sectionTwo"> PRIORITIZE TIME MANAGEMENT  </h2>
                             <p>It is very likely that you will be asked to audition several times a week. Being organized means you can handle your auditions, bookings, side jobs, and personal life. It means you are able to get your audition in before the deadline, while also working your side job, because you know how to handle your schedule.</p>
                             <p>Knowing your schedule is helpful when you get Availability Checks for bookings. It is also possible you will book more than one job at a time. (I wish this for all of you) It’s important you know when those outside dates for both jobs are, in case there are any overlaps. Additionally, some of you have more than one agent, in more than one country, so knowing the scheduling of your bookings and communicating them to your agents is very important.</p>
-                            <p>Another organizational skill that can be very handy, is keeping track of your auditions. ( <a href="/Posts/14-things-to-keep-track-of-when-you-auditions.html">See  14 THINGS TO KEEP TRACK OF WHEN YOU AUDITION</a> for a more in-depth look at what to keep track of) If you have an understanding at the end of the year of who’s auditioned you, and how many auditions you’ve had. You can have a discussion with your agent on who you’d like to see more of, and what direction you want your next year to go.</p>
+                            <p>Another organizational skill that can be very handy, is keeping track of your auditions. ( <a href="/14-things-to-keep-track-of-when-you-auditions">See  14 THINGS TO KEEP TRACK OF WHEN YOU AUDITION</a> for a more in-depth look at what to keep track of) If you have an understanding at the end of the year of who’s auditioned you, and how many auditions you’ve had. You can have a discussion with your agent on who you’d like to see more of, and what direction you want your next year to go.</p>
                         </li>
                         <li>
                             <h2 id="sectionThree"> GET TO KNOW YOUR TALENT AGENT </h2>
@@ -452,7 +452,7 @@
                 {
                     "postNum": " blogPost4 ",
                     "category": "Auditions Acting-Habits Organization",
-                    "postLink": "/Posts/14-things-to-keep-track-of-when-you-auditions.html",
+                    "postLink": "/14-things-to-keep-track-of-when-you-auditions",
                     "title": ` 14 Things to Keep Track of When You Audition `,
                     "image": `<picture>
                 <source srcset="../assets/images/Tracking.webp" type="image/webp">
@@ -549,7 +549,7 @@
                             <h2 id="sectionNine"> Role Type </h2>
                             <p>You can write whether it’s a PRINCIPAL/ GUEST STAR/ LEAD… etc if it is listed. Or you can list what sort of character it is: “30s’ Biker” for example. You are more than welcome to add both, so you can see if there is a trend in what you go out for.</p>
                             <p>This can help for training - you are able to see what “type’ you are being seen for, and work on playing into that, or alternatively work to train against that so you can go out for parts you want to go out for.</p>
-                            <p>Keep in mind also, what you are going out for may also have something to do with your headshots <a href="http://localhost:5000/Posts/5-things-to-know-about-headshots.html">(SEE 5 THINGS TO KNOW ABOUT HEADSHOTS</a> for more details about this point)</p>
+                            <p>Keep in mind also, what you are going out for may also have something to do with your headshots <a href="http://localhost:5000/5-things-to-know-about-headshots">(SEE 5 THINGS TO KNOW ABOUT HEADSHOTS</a> for more details about this point)</p>
                         </li>
                         <li>
                             <h2 id="sectionTen"> Personal Notes </h2>
@@ -616,7 +616,7 @@
                 {
                     "postNum": " blogPost5 ",
                     "category": "Getting-Started Industry-Tips Organization",
-                    "postLink": "/Posts/5-things-to-know-about-headshots.html",
+                    "postLink": "/5-things-to-know-about-headshots",
                     "title": ` 5 Things to know about Headshots `,
                     "image": `<picture>
                 <source srcset="../assets/images/headshots.webp" type="image/webp">
@@ -742,13 +742,13 @@
                         <h3>All Categories</h3>
 
                         <ul>
-                        <li><a href="/Categories/acting-habits.html">Acting Habits</a></li>
-                        <li><a href="/Categories/agents.html">Agents</a></li>
-                        <li><a href="/Categories/auditions.html">Auditions</a></li>
-                        <li><a href="/Categories/getting-started.html">Getting Started</a></li>
-                        <li><a href="/Categories/industry-tips.html">Industry Tips</a></li>
-                        <li><a href="/Categories/organization.html">Organization</a></li>
-                        <li><a href="/Categories/preparation.html">Preparation</a></li>
+                        <li><a href="/Categories/acting-habits">Acting Habits</a></li>
+                        <li><a href="/Categories/agents">Agents</a></li>
+                        <li><a href="/Categories/auditions">Auditions</a></li>
+                        <li><a href="/Categories/getting-started">Getting Started</a></li>
+                        <li><a href="/Categories/industry-tips">Industry Tips</a></li>
+                        <li><a href="/Categories/organization">Organization</a></li>
+                        <li><a href="/Categories/preparation">Preparation</a></li>
                         
                         
                         </ul>
@@ -920,7 +920,7 @@
             categoriesList = categoriesList.split(" ");
             let categoriesHTML = "";
             for (x = 0; x < categoriesList.length; x++) {
-                categoriesHTML = `${categoriesHTML}<a href="/Categories/${categoriesList[x].toLowerCase()}.html">${categoriesList[x].replace("-", ' ')}</a>`;
+                categoriesHTML = `${categoriesHTML}<a href="/Categories/${categoriesList[x].toLowerCase()}">${categoriesList[x].replace("-", ' ')}</a>`;
             }
             return {
                 code: `<span class = "related-category-link"> <span> Categories: </span> ${categoriesHTML}</span>`,

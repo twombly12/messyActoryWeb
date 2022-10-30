@@ -60,17 +60,17 @@ function genCopyright() {
 function menuAndSocial() {
     const menuLinks = `
         <ul class="links">
-            <li class="active"><a href="/index.html">Home</a></li>
+            <li class="active"><a href="/">Home</a></li>
             <li class="dropdown"><span>Categories</span>
                 <div class="dropdown-content">
                     <ul>
-                        <li class="drawer"><a href="/Categories/acting-habits.html">Acting Habits</a></li>
-                        <li class="drawer"><a href="/Categories/agents.html">Agents</a></li>
-                        <li class="drawer"><a href="/Categories/auditions.html">Auditions</a></li>
-                        <li class="drawer"><a href="/Categories/getting-started.html">Getting Started</a></li>
-                        <li class="drawer"><a href="/Categories/industry-tips.html">Industry Tips</a></li>
-                        <li class="drawer"><a href="/Categories/organization.html">Organization</a></li>
-                        <li class="drawer"><a href="/Categories/preparation.html">Preparation</a></li>
+                        <li class="drawer"><a href="/acting-habits">Acting Habits</a></li>
+                        <li class="drawer"><a href="/agents">Agents</a></li>
+                        <li class="drawer"><a href="/auditions">Auditions</a></li>
+                        <li class="drawer"><a href="/getting-started">Getting Started</a></li>
+                        <li class="drawer"><a href="/industry-tips">Industry Tips</a></li>
+                        <li class="drawer"><a href="/organization">Organization</a></li>
+                        <li class="drawer"><a href="/preparation">Preparation</a></li>
                     </ul>
                 </div>
             </li>

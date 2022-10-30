@@ -1,6 +1,10 @@
+Fix html loading before Head data from js
+
 Add Alexandras email to Contact Form
 
 Change Page Links that show for Public
+
+Add gzip text compression (Light house)
 
 Google Search Console
 
