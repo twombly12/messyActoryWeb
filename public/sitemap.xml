@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://themessyactor.com/</loc>
+  <priority>1.00</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/acting-habits</loc>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/agents</loc>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/auditions</loc>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/getting-started</loc>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/industry-tips</loc>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/organization</loc>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/preparation</loc>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/5-things-to-expect-from-your-talent-agent</loc>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/5-things-to-know-about-headshots</loc>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/6-ways-to-have-a-better-relationship-with-your-agent</loc>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/8-things-to-avoid-in-an-acting-agent</loc>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/8-tips-on-how-to-become-an-actor</loc>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://themessyactor.com/14-things-to-keep-track-of-when-you-auditions</loc>
+<priority>0.90</priority>
+</url>
+
+
+
+</urlset>

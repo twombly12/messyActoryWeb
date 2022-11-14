@@ -923,7 +923,7 @@
                 categoriesHTML = `${categoriesHTML}<a href="/Categories/${categoriesList[x].toLowerCase()}">${categoriesList[x].replace("-", ' ')}</a>`;
             }
             return {
-                code: `<span class = "related-category-link"> <span> Categories: </span> ${categoriesHTML}</span>`,
+                code: `<span class = "related-category-link"> ${categoriesHTML}</span>`,
                 list: categoriesList,
             }
 

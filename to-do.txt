@@ -1,10 +1,8 @@
-Fix html loading before Head data from js
+
 
 Add Alexandras email to Contact Form
 
 Add gzip text compression (Light house)
-
-Google Search Console
 
 Google My Business (?)
 
