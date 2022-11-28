@@ -26,7 +26,7 @@
                 <source srcset="../assets/images/Become-Actor.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Become-Actor.webp" alt="female actor standing behind acting slate with eye showing through the gap in the slate">
                 </picture>`,
-                    "date": `March 3, 2022`,
+                    "date": `October 26, 2022`,
                     "snippet": `<p>You’ve come to the conclusion that you want to be an actor. That’s great! Being bitten by the acting bug is something to celebrate! But now what?</p>`,
                     "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
                     <p>8 Tips on How to Become an Actor</p>
@@ -159,7 +159,7 @@
                 <source srcset="../assets/images/Bad-agent.webp.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Bad-agent.webp" alt="female actor waving off a bad talent agent for acting">
                 </picture>`,
-                    "date": `March 4, 2022`,
+                    "date": `November 2, 2022`,
                     "snippet": `<p>So you have done the work, you have your demo, and your headshots and now you are on the search to find yourself an agent. Perhaps, you even have some meetings lined up.</p>`,
                     "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
                     <p>8 Things to Avoid in an Acting Agent</p>
@@ -253,7 +253,7 @@
                 <source srcset="../assets/images/Good-Agent.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Good-Agent.webp" alt="two rock climbers help each other climb a cliff symbolizing that a good acting agent should help an actor have a successful career">
                 </picture>`,
-                    "date": `March 4, 2022`,
+                    "date": `November 9, 2022`,
                     "snippet": `<p>You sussed out the legitimate agents from the scammers, you had your meetings, you found someone who is great to work with, and - YOU GOT SIGNED! Congrats!!  Now what?</p>`,
                     "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
                     <p>5 Things to Expect from Your Talent Agent</p>
@@ -346,7 +346,7 @@
                 <source srcset="../assets/images/Agent_.webp.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Agent_.webp" alt="a busy acting agent that is juggling multiple tasks like scheduling booking auditions writing cheques and managing actors">
                 </picture>`,
-                    "date": `March 4, 2022`,
+                    "date": `November 16, 2022`,
                     "snippet": `<p>Just like all relationships, those that are nurtured are the ones that last. It is particularly important if you see or hope for a future with your agent, that you nurture that relationship.</p>`,
                     "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
                     <p>6 Ways to Have a Better Relationship with Your Agent</p>
@@ -459,7 +459,7 @@
                 <source srcset="../assets/images/Tracking.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Tracking.webp" alt="actor buried behind a pile of record keeping and tracking paper work while holding up a sign that says help">
                 </picture>`,
-                    "date": `March 4, 2022`,
+                    "date": `November 23, 2022`,
                     "snippet": `<p>There are a million teachers, classes, and blogs out there that will tell you what to look for IN your auditions, such as: the time before, relationship, actions/beats…etc. However, there are very few that tell you what to keep track of statistically when it comes to your auditions.</p>`,
                     "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
                     <p>14 Things to Keep Track of When You Audition</p>
@@ -623,7 +623,7 @@
                 <source srcset="../assets/images/headshots.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/headshots.webp" alt="image of an actor taking an unprofessional headshot">
                 </picture>`,
-                    "date": `March 4, 2022`,
+                    "date": `November 30, 2022`,
                     "snippet": `<p> Before we jump into the points of today’s blog, let’s briefly go over what headshots are and what they are used for, in case you don’t know. </p>`,
                     "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
                     <p> 5 Things to know about Headshots </p>

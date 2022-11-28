@@ -1,7 +1,5 @@
 
 
-Add Alexandras email to Contact Form
-
 Add gzip text compression (Light house)
 
 Google My Business (?)

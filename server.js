@@ -1,6 +1,10 @@
 const express = require('express');
+const path = require('path')
 const app = express()
 const PORT = process.env.PORT || 5000;
+
+const nodemailer = require('nodemailer');
+require('dotenv').config()
 
 // Middleware
 
@@ -55,13 +59,6 @@ app.get("/8-tips-on-how-to-become-an-actor", (request, response) => {
 app.get("/14-things-to-keep-track-of-when-you-auditions", (request, response) => {
     response.sendFile(__dirname + '/public/Posts/14-things-to-keep-track-of-when-you-auditions.html')
 })
-
-/* -------------------------- 404 -------------------------- */
-app.use((request, response, next) => {
-    response.status(404).sendFile(__dirname + '/public/404.html')
-})
-
-
 
 /* ------------------------------------------------------------------- */
 
@@ -124,10 +121,9 @@ app.use((request, response, next) => {
 /* ------------------------------------------------------------------- 
 Contact Form
 -------------------------------------------------------------------*/
-const nodemailer = require('nodemailer');
-require('dotenv').config()
 
 app.post('/', (req, res) => {
+
     const transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
@@ -157,4 +153,10 @@ Message: ${req.body.message}`,
 
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`)
+})
+
+
+/* -------------------------- 404 -------------------------- */
+app.use((request, response, next) => {
+    response.status(404).sendFile(__dirname + '/public/404.html')
 })

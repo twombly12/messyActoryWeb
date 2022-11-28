@@ -74,6 +74,7 @@ function menuAndSocial() {
                     </ul>
                 </div>
             </li>
+            <li class=""><a target="__blank" href="https://www.blurb.ca/b/11262737-the-audition-notebook">The Audition Book</a></li>
         </ul>
         <ul class="icons">
         </ul>
