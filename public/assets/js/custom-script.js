@@ -189,7 +189,7 @@ contactForm.addEventListener('submit', (e) => {
     xhr.setRequestHeader('content-type', 'application/json')
     xhr.onload = function() {
         if (xhr.responseText == 'success') {
-            alert('email sent');
+            alert('Email Sent');
             name.value = '';
             email.value = '';
             message.value = '';
@@ -197,7 +197,6 @@ contactForm.addEventListener('submit', (e) => {
             alert('Something went wrong!')
         }
     }
-
     xhr.send(JSON.stringify(formData))
 
 })

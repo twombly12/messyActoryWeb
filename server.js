@@ -142,11 +142,10 @@ Message: ${req.body.message}`,
 
     transporter.sendMail(mailOptions, (error, info) => {
         if (error) {
-            console.log(error);
             res.send('error')
         } else {
-            console.log(`Email sent: ${info.response}`)
             res.send('success')
+            res.redirect('/')
         }
     })
 })
