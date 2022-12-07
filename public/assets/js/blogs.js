@@ -700,6 +700,109 @@
                     <h3>Wishing you a fun filled headshot session, with great results! </h3>
                     `
                 },
+                // -------------------------------- Seventh Post --------------------------
+                // -------------------------------- Seventh Post --------------------------
+                // -------------------------------- Seventh Post --------------------------
+                // -------------------------------- Seventh Post --------------------------
+                // -------------------------------- Seventh Post --------------------------
+                {
+                    "postNum": " blogPost6 ",
+                    "category": "Mindset Acting-Habits Preparation",
+                    "postLink": "/5-thoughts-to-eliminate-as-an-actor",
+                    "title": ` 5 Thoughts to Eliminate as an Actor `,
+                    "image": `<picture>
+<source srcset="../assets/images/negative-thinking.webp" type="image/webp">
+<source srcset="../assets/images/negative-thinking.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/negative-thinking.webp" alt="woman carrying a phyiscal represntation of the weight from her negative thoughts as she climbs stairs toward her goal">
+</picture>`,
+                    "date": `Dec 7, 2022`,
+                    "snippet": `<p> One of the hardest things to overcome as an actor is: MINDSET. Unfortunately for many, this is the barrier between success and quitting. If you can master and control your mindset while you tackle this industry, you will do very well.  </p>`,
+                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> 5 Thoughts to Eliminate as an Actor </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> “They are Doing Better than Me” </a></li>
+        <li>
+            <a href="#sectionTwo"> “I Deserved that Part”  </a></li>
+        <li>
+            <a href="#sectionThree"> “I Didn't Get that Part Because...” </a></li>
+        <li>
+            <a href="#sectionFour"> “That Take Wasn't Perfect” </a></li>
+        <li>
+            <a href="#sectionFive"> “This is a Life-Changing Audition</a></li>
+     
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+                    "content": `
+    <p> You have entered a very difficult profession, there is no doubt about it. The amount of unknowns, lack of control and rejection is enough to put anyone in a stressed, depressed, angry or negative headspace. </p>
+
+    <p>If you are a new actor, start tackling this now. Make a point of managing your thoughts about this industry now, before you become embittered.If you are a veteran actor, check yourself to see where you are in this journey. After doing this job for a while, it is very easy to be consumed by negative thoughts. The time to become aware of your thoughts is NOW, so that you can conquer them. 
+    Below are six thoughts you must get a grasp of in order to benefit in all aspects of this career.</p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> “THEY ARE DOING BETTER THAN ME.”</h2>
+            <p> Comparing your career to others will bring you nothing but pain. You are on a journey, it is entirely your journey and no one else's. The analogy that I love best is that of a garden: <i>"No one blames the tulip for blooming early or the daisy for blooming late. They bloom when they bloom and they are all essential to the garden.”</i> The same applies to acting. Some actors hit success earlier than others, this can be due to networking, timing, consistency… and a myriad of other reasons. </p>
+            <p> Additionally, success is a funny thing. It not only looks different to each person, it shifts depending on where you are on your journey. To look at someone else’s career and decide they are doing better than you, is nothing more than your perspective - so change it. </p>
+            <p>A great way to change this thought process is to celebrate every step of your journey.  By doing this you not only are in the moment with your progress, but you also get to look back at all the steps you took to get to where you are. When you see how far you have come, it reduces those thoughts that you aren’t doing well, because all progress is good. </p>
+            <p><strong>Story:</strong></p>
+            <p><i>I remember signing with my first legitimate agent so clearly. I had been represented by many fraud agencies and when I finally signed with this agency, I was over the moon. Within a week a friend of mine signed with a huge agency that represented A listers. All of sudden, my excitement towards my agency was gone. In my opinion, my friend was doing better than me, and all the progress I had made, didn’t matter to me anymore. All my comparison did was steal what previously had made me happy. A few days later, a colleague of mine was talking to me about how she had spent 6 months trying to get an agent and no one would sign her, and all she wanted was to be represented. In that moment I recognized that in someone else’s eyes, I was on the path they wanted, and I had success. I am always reminded of this when I start to doubt my path.</i></p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> “I DESERVED THAT PART” </h2>
+            <p> You don’t actually deserve anything. Though this may sound like a blunt statement, it’s a great way of removing self entitlement from your career. If you are thinking someone didn’t deserve a role, and you did - you are putting someone down or judging them to validate your feelings of jealousy, or your work ethic, or your life. That judgment is entirely all about you and your ego.</p>
+            <p> The unfortunate reality is, there will always be someone better looking than you, someone who works harder than you and someone who just has more something than you. So you probably don’t deserve the part, but you can prove you are worthy of it. </p>
+            <p> Being deserving versus being worthy are two very different things. They may sound very similar, but one sits on the side of being given something, and the other sits on the side of earning something. The latter is a very powerful mindset to be in. </p>
+            <p> Someone who is worthy of something ( a role in this case) doesn’t expect to get the role. They know they have put the work in, that should everything work in their favor, they are the best for the part, and they will continue to prove that to their peers, colleagues, fans and (most importantly) themselves because they want to. They have faith, because they know they are worthy.</p>
+            <p> To summarize, check your expectations as the door - and do the work, because you love it. You are all worthy of success, should you want to be. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> “I DIDN’T GET THE PART BECAUSE…”</h2>
+            <p> I am too fat. Too Skinny. Too young. Too dark. Too pale. Too tall. Too short… etc etc etc. There is no way to end this sentence that will be correct. </p>
+            <p> You actually have no idea why you didn’t book the part and truly, you never will. So stop dwelling on it. </p>
+            <p> By thinking this, you are putting yourself down for reasons that are based purely on personal speculation. Unless you spoke to casting, the director, the producers, the writers and received a unanimous answer as to why, you will never know, so why torture your psyche with lies? </p>
+            <p> It’s very common when you begin thinking this way, you actually go into your audition with this mindset. Even before you have sent in your audition, even before you have been told if you have booked it or not,  you have lost because you are indicating why you aren’t worthy of the part.  </p>
+            <p> Psychologists for years have been talking about the importance of mindset within athletes and how drastically positive thinking curates success. The same goes for actors. </p>
+            <p> I am assuming, if you are here, you want to be better at your craft and perform at a high level. This means curating a mindset that elevates you and your confidence and eliminating excuses and negativity that don’t serve you. Giving yourself reasons as to why you a) won’t book it or b) didn’t book it is a negative thinking pattern that in the long run, will hurt you. </p>
+            <p> So, if this is something you find yourself thinking often - reroute the thought by:</p>
+            <ul> 
+                <li>Acknowledging it</li>
+                <li>And responding with - I actually don’t know and will never know. It is out of my hands now.</li>
+            </ul>
+            <p> For a more in-depth look at this, check out <a href="/6-ways-to-break-negative-thinking-as-an-actor" target="__blank" >6 WAYS TO BREAK NEGATIVE THINKING AS AN ACTOR</a></p>
+            <p>If you are interested in reading more about the psychology of high performers, some great references are Finding Mastery, the Michael Gervais podcast, Brendon Burchard or Carol S. Dweck </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> “THAT TAKE WASN’T PERFECT.”</h2>
+            <p> One more take. One more take. One more, and that will be the take.  Sound familiar? </p>
+            <p> We all have this idea on how a take should look, and we hope to execute it exactly as we picture… and very often that is what we think is “the perfect take” But news flash: there is no such thing as perfection… and quite frankly, if there was, it would be boring.</p>
+            <p> This “That Take Wasn’t Perfect” thought is not only one that occurs to new actors, many veteran actors think this thought as well. In fact, the more you work your craft, the pickier you will be of your takes. (The whole, the more you know the less you know syndrome) However, seeking perfection is a sure way to ruin your self-tape. </p>
+            <p> Don’t worry, this is a constant work in progress for me too. </p>
+            <p> A great way to combat this thought is to work on trusting your work. If you do the work and preparation in advance, that will shine through in your audition and if you trust that - you will find yourself doing less takes, and focusing less on controlling the audition, and enjoying it instead. </p>
+            <p> And in fact, that’s where becoming a messy actor begins. </p>
+        </li>
+        <li>
+            <h2 id="sectionFive"> “THIS IS A LIFE-CHANGING AUDITION” </h2>
+            <p> We all know that feeling when you get an audition for that big network, or that well known director and all of a sudden the pressure to do “the best job possible” sinks in. You begin thinking about how if you were to book this job, it could change your life. </p>
+            <p> Let’s put this bluntly - if you succumb to the pressures that you have now put on yourself - you will not book this job. There is nothing worse in an audition than an actor trying to desperately get the part. Desperation stinks!</p>
+            <p> So, how do you stop putting this pressure on yourself? </p>
+            <p> Here are a few things to remember: </p>
+            <ul>
+                <li>There will always be another job</li>
+                <li>You cannot control if you book this job</li>
+                <li>Do the work. Trust the work. </li>
+                <li>You should always be doing the best job you can on auditions… so this one is no different!</li>
+            </ul>
+        </li>
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>If you want more tricks at how to tackle audition nerves, you can find a breakdown in <a href="/6-tips-on-how-to-handle-audition-nerves" target="__blank"> 6 TIPS ON HOW TO HANDLE AUDITION NERVES</a></p>
+        <p>If you have read this far, you have probably noticed that every point either deals with removing expectations and applying trust in yourself. If you can begin to implement this thought process in your everyday life you will start to see huge changes in your career. </p>
+        </li>
+    </ol>
+    <h3>Hoping you find that healthy mindset to keep you going! </h3>
+    `
+                },
 
             ]
             // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
@@ -742,13 +845,14 @@
                         <h3>All Categories</h3>
 
                         <ul>
-                        <li><a href="/Categories/acting-habits">Acting Habits</a></li>
-                        <li><a href="/Categories/agents">Agents</a></li>
-                        <li><a href="/Categories/auditions">Auditions</a></li>
-                        <li><a href="/Categories/getting-started">Getting Started</a></li>
-                        <li><a href="/Categories/industry-tips">Industry Tips</a></li>
-                        <li><a href="/Categories/organization">Organization</a></li>
-                        <li><a href="/Categories/preparation">Preparation</a></li>
+                        <li><a href="/acting-habits">Acting Habits</a></li>
+                        <li><a href="/agents">Agents</a></li>
+                        <li><a href="/auditions">Auditions</a></li>
+                        <li><a href="/getting-started">Getting Started</a></li>
+                        <li><a href="/industry-tips">Industry Tips</a></li>
+                        <li><a href="/mindset">Mindset</a></li>
+                        <li><a href="/organization">Organization</a></li>
+                        <li><a href="/preparation">Preparation</a></li>
                         
                         
                         </ul>
@@ -920,7 +1024,7 @@
             categoriesList = categoriesList.split(" ");
             let categoriesHTML = "";
             for (x = 0; x < categoriesList.length; x++) {
-                categoriesHTML = `${categoriesHTML}<a href="/Categories/${categoriesList[x].toLowerCase()}">${categoriesList[x].replace("-", ' ')}</a>`;
+                categoriesHTML = `${categoriesHTML}<a href="/${categoriesList[x].toLowerCase()}">${categoriesList[x].replace("-", ' ')}</a>`;
             }
             return {
                 code: `<span class = "related-category-link"> ${categoriesHTML}</span>`,

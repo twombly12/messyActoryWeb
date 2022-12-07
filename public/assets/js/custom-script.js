@@ -69,6 +69,7 @@ function menuAndSocial() {
                         <li class="drawer"><a href="/auditions">Auditions</a></li>
                         <li class="drawer"><a href="/getting-started">Getting Started</a></li>
                         <li class="drawer"><a href="/industry-tips">Industry Tips</a></li>
+                        <li class="drawer"><a href="/mindset">Mindset</a></li>
                         <li class="drawer"><a href="/organization">Organization</a></li>
                         <li class="drawer"><a href="/preparation">Preparation</a></li>
                     </ul>

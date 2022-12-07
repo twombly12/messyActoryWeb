@@ -39,6 +39,9 @@ app.get("/organization", (request, response) => {
 app.get("/preparation", (request, response) => {
     response.sendFile(__dirname + '/public/Categories/preparation.html')
 })
+app.get("/mindset", (request, response) => {
+    response.sendFile(__dirname + '/public/Categories/mindset.html')
+})
 
 /* -------------------------- Posts -------------------------- */
 app.get("/5-things-to-expect-from-your-talent-agent", (request, response) => {
@@ -58,6 +61,15 @@ app.get("/8-tips-on-how-to-become-an-actor", (request, response) => {
 })
 app.get("/14-things-to-keep-track-of-when-you-auditions", (request, response) => {
     response.sendFile(__dirname + '/public/Posts/14-things-to-keep-track-of-when-you-auditions.html')
+})
+app.get("/5-thoughts-to-eliminate-as-an-actor", (request, response) => {
+    response.sendFile(__dirname + '/public/Posts/5-thoughts-to-eliminate-as-an-actor.html')
+})
+app.get("/6-tips-on-how-to-handle-audition-nerves", (request, response) => {
+    response.sendFile(__dirname + '/public/Posts/6-tips-on-how-to-handle-audition-nerves.html')
+})
+app.get("/6-ways-to-break-negative-thinking-as-an-actor", (request, response) => {
+    response.sendFile(__dirname + '/public/Posts/6-ways-to-break-negative-thinking-as-an-actor.html')
 })
 
 /* ------------------------------------------------------------------- */
@@ -150,12 +162,13 @@ Message: ${req.body.message}`,
     })
 })
 
-app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`)
-})
-
 
 /* -------------------------- 404 -------------------------- */
 app.use((request, response, next) => {
     response.status(404).sendFile(__dirname + '/public/404.html')
+})
+
+/* -------------------------- Listen -------------------------- */
+app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`)
 })
