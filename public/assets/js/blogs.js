@@ -729,7 +729,7 @@
         <li>
             <a href="#sectionFour"> “That Take Wasn't Perfect” </a></li>
         <li>
-            <a href="#sectionFive"> “This is a Life-Changing Audition</a></li>
+            <a href="#sectionFive"> “This is a Life-Changing Audition"</a></li>
      
             <li>
             <a href="#summary">Summary</a></li>
@@ -754,7 +754,7 @@
             <p> The unfortunate reality is, there will always be someone better looking than you, someone who works harder than you and someone who just has more something than you. So you probably don’t deserve the part, but you can prove you are worthy of it. </p>
             <p> Being deserving versus being worthy are two very different things. They may sound very similar, but one sits on the side of being given something, and the other sits on the side of earning something. The latter is a very powerful mindset to be in. </p>
             <p> Someone who is worthy of something ( a role in this case) doesn’t expect to get the role. They know they have put the work in, that should everything work in their favor, they are the best for the part, and they will continue to prove that to their peers, colleagues, fans and (most importantly) themselves because they want to. They have faith, because they know they are worthy.</p>
-            <p> To summarize, check your expectations as the door - and do the work, because you love it. You are all worthy of success, should you want to be. </p>
+            <p> To summarize, check your expectations at the door - and do the work, because you love it. You are all worthy of success, should you want to be. </p>
         </li>
         <li>
             <h2 id="sectionThree"> “I DIDN’T GET THE PART BECAUSE…”</h2>
