@@ -738,7 +738,7 @@
     <p> You have entered a very difficult profession, there is no doubt about it. The amount of unknowns, lack of control and rejection is enough to put anyone in a stressed, depressed, angry or negative headspace. </p>
 
     <p>If you are a new actor, start tackling this now. Make a point of managing your thoughts about this industry now, before you become embittered.If you are a veteran actor, check yourself to see where you are in this journey. After doing this job for a while, it is very easy to be consumed by negative thoughts. The time to become aware of your thoughts is NOW, so that you can conquer them. 
-    Below are six thoughts you must get a grasp of in order to benefit in all aspects of this career.</p>
+    Below are five thoughts you must get a grasp of in order to benefit in all aspects of this career.</p>
     <ol>
         <li>
             <h2 id="sectionOne"> “THEY ARE DOING BETTER THAN ME.”</h2>
