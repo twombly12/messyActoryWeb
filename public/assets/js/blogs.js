@@ -804,6 +804,103 @@
     `
                 },
 
+                // -------------------------------- Eighth Post --------------------------
+                // -------------------------------- Eighth Post --------------------------
+                // -------------------------------- Eighth Post --------------------------
+                // -------------------------------- Eighth Post --------------------------
+                // -------------------------------- Eighth Post --------------------------
+                {
+                    "postNum": " blogPost7 ",
+                    "category": "Scene-Study Preparation Learning-From-Others",
+                    "postLink": "/5-acting-lessions-from-squid-game-pilot",
+                    "title": ` 5 Acting Lessons from Squid Game: Pilot `,
+                    "image": `<picture>
+<source srcset="../assets/images/squid-game.webp" type="image/webp">
+<source srcset="../assets/images/squid-game.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/squid-game.webp" alt="Image of person about to start watching squid game on their tv">
+</picture>`,
+                    "date": `Dec 14, 2022`,
+
+                    "snippet": `<p><strong> ** WARNING: PLOT SPOILERS AHEAD** </strong></p><p><em>All time signatures are in reference to the episode on Netflix. </em></p><p> One of the greatest ways to learn about acting is to watch others do it. As luck would have it, we have thousands of TV shows at our fingertips with streaming services, so what better way to do some training than to watch some Netflix, Crave, Disney+...etc  </p>`,
+                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> 5 Acting Lessons from Squid Game: Pilot </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> Seong Gi-Hub at the Horse Races </a></li>
+        <li>
+            <a href="#sectionTwo"> Gae-Yeong's Birthday Dinner </a></li>
+        <li>
+            <a href="#sectionThree"> Oh Mal Talks About Her Granddaughter Leaving </a></li>
+        <li>
+            <a href="#sectionFour"> The Fight Between Kang Sae-Byeok and Jang Deok-Su </a></li>
+        <li>
+            <a href="#sectionFive"> Red Light Green Light Deaths </a></li>
+       
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+                    "content": `
+    <p> Watching T.V or Film for the purpose of learning is a different part of your brain than just aimlessly watching for the sake of watching. The way to watch and learn is to make sure you have that pause finger at the ready. When you see a moment that is captivating, press pause, rewind and watch it again, and again, and again. Look for what the actor does technically that resulted in a great moment, and then make a note of it.  </p>
+    <p> Today, we are going to be dissecting Red Light Green Light, Squid Game’s pilot. I could have done the entire series, but this would have resulted in a novel, instead of a blog post. Below are FIVE moments that are great acting tools to put into your acting belt. </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Seong Gi-Hub at the Horse Races</h2>
+            <p><em> 6:00 min in: </em></p>
+            <p> Seong Gi-Hun, (#456) played by Lee Jung-jae, goes to gamble at the horse track. The mood of a gambler is instantly captured by Lee Jung-jae’s intensity and mood swings during that scene. </p>
+            <p> He starts by intensely cheering angrily at the TV screen, only to lose and he unleashes a fury and disappointment that is very evident not only in his body but in his voice. The following moment is him, gambling again, putting in his numbers at the desk - but he isn’t sure which number to bet. Such high intensity and concentration would be something easy to neglect as an actor if you aren’t reminded of how high the stakes are for gambling addicts. Each bet is life or death, and this is clearly displayed by the up and down rollercoaster of mood swings. </p>
+            <p> In fact, the stakes are so high for Seong Gi Hun in this scene, that Lee Jung-jae plays that energy into Seong Gi Hun's inability to hold onto the pen he is betting with. But as soon as he figures out which number he wants to bet on, he holds on to the pen with directness and determination. </p>
+            <p> So if you are working a scene for an audition or for filming, ask yourself:  Are you holding a prop in this scene? How do the stakes of your scene impact how you handle that prop?</p>
+            <p> And to develop that even further, take a look at how Lee Jung-jae holds on to his ticket, versus how he holds onto the racehorse catalog. Two different props, one with the potential to life-changing abilities, the other not as important and used to channel his stress. </p>
+            <span><em> <b>SEE CLIP HERE: </b><a target="__blank" href="https://youtu.be/uVqSk9sfVN0">https://youtu.be/uVqSk9sfVN0 </a></em></span>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> Gae-Yeong's Birthday Dinner</h2>
+            <p><em> 13:30 minutes in: </em></p>
+            <p> Seon Gi-Hun  takes his daughter Gae-yeong (played by Reagan To) out for her birthday. But having lost his winnings, he has to buy her fast food. They always say never act with children or animals, because they will always steal the show, due to their ability to be completely authentic. In this case, it’s absolutely true. The way Reagan To displays her emotions so subtly in this scene is incredible. The entire scene is very memorable, however, two moments that stand out are when she receives the gun lighter as a gift and when she makes the decision not to tell her father she’s moving to the US. </p>
+            <p> Gae-young swings between disbelief and false excitement, while she holds up the lighter that is shaped like a gun. Most of those swings are in her eyes, and very still demeanor, as she gazes at the gift and back at her father. The lesson to take from this moment is that, as actors, we sometimes tend to focus on one emotion when we do a scene. However, life is more complex than that. We can feel a variety of emotions all at once, and a way to tackle a scene is to find the different layers of a situation and understand the different emotions that could be present. </p>
+            <p> Seon Gi-Hun makes a promise to his daughter that “next year” he will quit smoking for her birthday. Gae-young’s face falls, and asks, “next year?” because, what her father doesn’t know, is that her stepfather is moving them to the United States. When we watch this for the first time in the pilot, we don’t know this - we find out after, however, when you look back at the scene, with that knowledge, it is incredibly clear.  Gae-young has a brief moment where she thinks about whether or not she should tell her father and then decides not to. As actors, we often forget about the “moment of decision”, we do this every day, and it’s an intricate detail that can add immense depth to your scenes. </p>
+            <span><em> <b>SEE CLIP HERE: </b><a  target="__blank" href="https://youtu.be/q3xn2Eb7ERo">https://youtu.be/q3xn2Eb7ERo </a></em></span>
+        </li>
+        <li>
+            <h2 id="sectionThree"> Oh Mal Talks About Her Granddaughter Leaving</h2>
+            <p><em> 26:11 minutes in:  </em></p>
+            <p> Oh-Mal Soon, (played by Kim Young-ok) 456’s mother, knows that her granddaughter is moving to the United States. It is established earlier in the episode that her granddaughter is one of the most important people in her life, particularly because her son is a thief and gambler.  In this scene, Oh Mal-Soon tells her son the news and begs him to get his life together to stop them from leaving.</p>
+            <p> What is extremely powerful in this scene is the stillness by Lee Jung-jae and the tactics by Kim Young-ok. The guilt and defeat that 456 has throughout this scene is a direct obstacle for Oh Mal- Soon and it’s evident in her consistent change in tactics throughout the scene. She starts off, defeated and reserved, moves her way to anger, then pleading and then guilt, and sadness, all while reflecting that in her eyes. </p>
+            <p> A huge thing to implement in your auditions, or scenes is a diverse change in tactics. It’s incredibly human to try every tactic to get what we want - the more tactics we use, the more we want the thing we are asking for.  </p>
+            <span><em> <b>SEE CLIP HERE: </b><a  target="__blank" href="https://youtu.be/8ITHVOxsjk4?t=587 ">https://youtu.be/8ITHVOxsjk4?t=587  </a></em></span>
+        </li>
+        <li>
+            <h2 id="sectionFour"> The Fight Between Kang Sae-Byeok and Jang Deok-Su</h2>
+            <p><em> 34:08 minutes in:  </em></p>
+            <p> We are introduced to 067 and 101 (played by Hoyeon and Heo Sung-tae) by a domestic fight between them. The character’s personalities become incredibly clear within this short scene. </p>
+            <p> Both actors, despite being involved in a physical fight, are still and calculated with their movements. 067 stares at 101, without a word as he talks down to her. This stillness with prolonged eye contact displays confidence, despite her having just been beaten up. On the other side of the coin, 101 is nonchalant and laughing at her, which in this current circumstance displays his lack of empathy and violent persona. </p>
+            <p> Though there is a power play between the two characters, their eyes show their entire history. We can see the pain that Jang Deok-su has caused Kan Sae-byeok, he clearly has abused her and the hate, fear, and pain in her posture are contrasted with the defiance in her eyes. Another example of feeling many emotions all at once. </p>
+            <p> There are many things to take away from this scene. Firstly, villains never think they are evil. 101 believes he is in the right for beating up 067, and additionally, he enjoys it. One thing many green actors do when playing a “bad guy” is putting on a bad guy persona when really, the scarier thing to do is care very little, and play the scene as casually as possible. It is much scarier to see someone act like violence is a common thing in their life, with little remorse than someone who is making a show of it. </p>
+            <p> The second thing to take away from this scene is that the physicality of one’s body can tell a whole story. Professional actors take on a character from head to toe - from the way they hold themselves, to the way they move. Take a second to see what body movements 101 and 067 do throughout the scene and how they drastically change depending on what’s occurring, who is speaking to them, and how they feel. </p>
+            <span><em> <b>SEE CLIP HERE: </b><a  target="__blank" href="https://youtu.be/BKAvPZZ3EkU ">https://youtu.be/BKAvPZZ3EkU  </a></em></span>
+        </li>
+        <li>
+            <h2 id="sectionFive"> Red Light Green Light Deaths</h2>
+            <p><em> 48:11 minutes in:  </em></p>
+            <p> The first mass murder scene. This scene is an amalgamation of intensity, stunning screenwriting, and great acting. There are many lessons one can learn from this scene. 
+            Putting aside the blood and sweat that is all makeup and special effects, the real effects that make this scene so powerful is the intensity in the actors' eyes. 
+            </p>
+            <p> Mass murder has just happened while playing red light green light, and 456 is stuck under a dead man. He has only a certain amount of time to get to the finish line before the huge female robot eliminates all the remaining players.  As 456 watches people around him being killed, his fear becomes a visceral body shake, and his thoughts are going a mile a minute. An incredible tip to showing immense fear is that physical element of your body going into shock. This choice is a powerful one, particularly in this scene where he has to remain still, and as such his body would likely shake even more! A great example of objective (to stay still to survive) and obstacle (people are dying around you and your body is in shock). </p>
+            <p> Another great tip for showing fear is quick eye shifts. As 456 lies there surrounded by people being shot dead, we see his eyes quickly shifting. He is not only trying to take in everything that is happening around him but also he needs to make certain choices to survive. </p>
+            <p> As the scene progresses, however, we see how different characters' eye movements tell different stories. When 218 is talking to 456, his eyes are still. He is determined to watch the danger in front of him, and only really changes his gaze toward 456 when he is referring to him. 456’s eye movements change from fear and confusion to determination once he talks to 218 and he decides to survive the game. </p>
+            <p> Another wonderful storytelling moment that comes from the actor's eyes in this scene is the small back and forth-between 067 and 101. 101 is seen to be determined to survive, as he stays as still as possible, while also flinching each time someone is shot. Suddenly, however, his eyes begin to shift uncontrollably as he realizes 067 is behind him and could push him over at any moment. 101 goes from determined to vulnerable in a matter of milliseconds as his eyes reveal his feelings. </p>
+            <p> The final moment I will touch on is 001’s childlike demeanor as he plays the game. How a person acts at any given moment reveals a lot about their character. At first glance, we assume that 001 has a form of dementia and is unaffected by the mass murder around him. However, upon rewatching the episode, we know the real reason he is elated by this game and what is going on around him. Great writing and great acting go hand in hand here, it is a cherry on top, if when watching something for a second time, we can still tie the twists and turns but from a different perspective. </p>
+            <p> I urge you to watch this clip several times and find all the eye-revealing moments because I have only touched on a few. </p>
+            <span><em> <b>SEE CLIP HERE: </b><a  target="__blank" href="https://youtu.be/sH4Y450PSVM"> https://youtu.be/sH4Y450PSVM</a></em></span>
+        </li>
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>What you have just read through is a scene study exercise that you can with any material, to help you on your acting journey. The more you do it, the more you will see and the more you can implement it into your craft. If you have any additional thoughts about scenes in the pilot of Squid Game or want to add your own thoughts, be sure to check out our social media! </p>
+        </li>
+    </ol>
+    <h3>Wishing you many joyful scene breakdowns ahead!</h3>
+    `
+                },
             ]
             // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
 
@@ -850,9 +947,11 @@
                         <li><a href="/auditions">Auditions</a></li>
                         <li><a href="/getting-started">Getting Started</a></li>
                         <li><a href="/industry-tips">Industry Tips</a></li>
+                        <li><a href="/learning-from-others">Learning From Others</a></li>
                         <li><a href="/mindset">Mindset</a></li>
                         <li><a href="/organization">Organization</a></li>
                         <li><a href="/preparation">Preparation</a></li>
+                        <li><a href="/scene-study">Scene Study</a></li>
                         
                         
                         </ul>
@@ -1024,8 +1123,9 @@
             categoriesList = categoriesList.split(" ");
             let categoriesHTML = "";
             for (x = 0; x < categoriesList.length; x++) {
-                categoriesHTML = `${categoriesHTML}<a href="/${categoriesList[x].toLowerCase()}">${categoriesList[x].replace("-", ' ')}</a>`;
+                categoriesHTML = `${categoriesHTML}<a href="/${categoriesList[x].toLowerCase()}">${categoriesList[x].replaceAll("-", ' ')}</a>`;
             }
+            console.log(categoriesHTML)
             return {
                 code: `<span class = "related-category-link"> ${categoriesHTML}</span>`,
                 list: categoriesList,

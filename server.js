@@ -42,6 +42,12 @@ app.get("/preparation", (request, response) => {
 app.get("/mindset", (request, response) => {
     response.sendFile(__dirname + '/public/Categories/mindset.html')
 })
+app.get("/learning-from-others", (request, response) => {
+    response.sendFile(__dirname + '/public/Categories/learning-from-others.html')
+})
+app.get("/scene-study", (request, response) => {
+    response.sendFile(__dirname + '/public/Categories/scene-study.html')
+})
 
 /* -------------------------- Posts -------------------------- */
 app.get("/5-things-to-expect-from-your-talent-agent", (request, response) => {
@@ -70,6 +76,9 @@ app.get("/6-tips-on-how-to-handle-audition-nerves", (request, response) => {
 })
 app.get("/6-ways-to-break-negative-thinking-as-an-actor", (request, response) => {
     response.sendFile(__dirname + '/public/Posts/6-ways-to-break-negative-thinking-as-an-actor.html')
+})
+app.get("/5-acting-lessions-from-squid-game-pilot", (request, response) => {
+    response.sendFile(__dirname + '/public/Posts/5-acting-lessions-from-squid-game-pilot.html')
 })
 
 /* ------------------------------------------------------------------- */
