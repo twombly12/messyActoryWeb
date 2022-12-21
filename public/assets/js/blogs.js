@@ -901,6 +901,125 @@
     <h3>Wishing you many joyful scene breakdowns ahead!</h3>
     `
                 },
+
+                // -------------------------------- ________ Post --------------------------
+                // -------------------------------- 9th Post --------------------------
+                // -------------------------------- 9th Post --------------------------
+                // -------------------------------- 9th Post --------------------------
+                // -------------------------------- 9th Post --------------------------
+                {
+                    "postNum": " blogPost8 ",
+                    "category": "Mindset Acting-Habits Preparation",
+                    "postLink": "/7-tips-on-how-to-handle-audition-nerves",
+                    "title": ` 7 Tips on how to Handle Auditions Nerves `,
+                    "image": `<picture>
+<source srcset="../assets/images/audition-nerves.webp" type="image/webp">
+<source srcset="../assets/images/audition-nerves.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/audition-nerves.webp" alt="Female Actor breathing into paper bag to help her nerves while she is on stage">
+</picture>`,
+                    "date": `Dec 21, 2022`,
+                    "snippet": `<p> Have you got audition nerves? Welcome to the club!  </p> <p>The first thing you should know about audition nerves is that you are not alone!! Every actor, in every walk of life, be it brand new or veteran will have experienced audition nerves, and if I’m quite frank - I believe that’s a good thing. </p>`,
+                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> Nerves, also known as excitement, mean you deeply care about what you are doing, and I think that should be celebrated in many ways. However, it is true that these nerves can sometimes get in the way of a great performance, so here are 7 tips to help you work with your nerves to have a great audition!   </p>
+    <p>In no particular order: </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> Breath </a></li>
+        <li>
+            <a href="#sectionTwo"> Be Prepared </a></li>
+        <li>
+            <a href="#sectionThree"> Playlists </a></li>
+        <li>
+            <a href="#sectionFour"> Focus on Your Reader </a></li>
+        <li>
+            <a href="#sectionFive"> Shift Your Mindset </a></li>
+        <li>
+            <a href="#sectionSix"> Mantra </a></li>
+        <li>
+            <a href="#sectionSeven"> Train </a></li>
+
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+                    "content": `
+    <p> 7 Tips on how to Handle Auditions Nerves </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Breathe</h2>
+            <p> I am sure you have heard this time and time again. The reason it is such a repeated tip is that it really works. For those who claim it doesn’t, it’s likely they aren’t doing it correctly. </p>
+            <p> Yes, I am telling you there is a way to breathe correctly, and most of us don’t know how to do it. But it takes a while to understand and implement these techniques. So, in the meantime, here is a way to implement breathing instantly to calm you down. </p>
+            <p> 
+            <ul><em>
+            <li>Release all the air from your lungs, until you can no longer exhale. </li>
+            <li>Hold for as long as you can</li>
+            <li>And then let your body take in the breath it needs to. </li>
+            </em></ul>
+            </p>
+            <p> This allows you to take a natural breath without overthinking it. Many times when people are told to breathe in order to relax, they overthink it and end up hyperventilating. So the best way to avoid that is to let it all out, and take an authentic breath in. </p>
+            <p> This exercise is great to do before your audition, and then right before you go into the room. Make sure to ground your feet and close your eyes while you do it, so you can really ground yourself and focus on your breath. </p>
+            <p> If you want a more in-depth look at breathing exercises take a look at <a href="/5-breathing-exercises-for-actors">5 BREATHING EXERCISES FOR ACTORS</a></p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> Be Prepared</h2>
+            <p> When you really boil it down, there are two things that you want to go into an audition room with: confidence and calm. Being prepared feeds both. </p>
+            <p> Being prepared means you have worked your audition, and spent time understanding the character, the project, and everything around that. This is sometimes mistaken for “amount of time” working on, but really it’s the intensity and depth, more than the time spent doing the homework. </p>
+            <p> For some actors, this means knowing their lines extremely well, so they can focus on the nuances, for others, it means understanding the character in-depth and implementing the lines after. You need to find what it is for you, but regardless, you need to feel as if you put in the work that was required to do well at the audition. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> Playlists</h2>
+            <p> Video and audio playlists can be a saving grace before an audition! Not only are they easily accessible through your phone, but they can also be a happy distraction or focus tool. </p>
+            <p><strong> Audio Playlists:</strong></p>
+            <p> You can use music in whatever way you like, however, what I find personally helpful is creating a playlist for the specific character I am going in for. The reason for this is that various playlists invoke different moods, and if that mood doesn’t feed into your audition, you could end up going in with the wrong energy. </p>
+            <p> For example, if you have a meditation playlist that calms you, it could be helpful, in grounding you and putting you in a zen place - but what if the character you're auditioning for has neurotic and frantic energy? You could go into your audition zen and calm, instead of using the intensity of your nerves and focusing them with a character-specific playlist! </p>
+            <p> Character-specific playlists are entirely up to you. It really is about finding music that puts you in the headspace of the character. The real treat about doing this is if you get a callback for the role, you can go right back to the playlist and instantly channel what you did for the original audition. </p>
+            <p><strong> Video playlists </strong></p>
+            <p> Just like audio playlists, you can find certain actors or scenes that bring out the mood and traits that will help you internalize your character. Youtube allows you to make private playlists, which you can name and keep on your account. </p>
+            <p> The other perk of video playlists is you can create ones that simply make you feel good. Perhaps your favorite movie or scenes with your favorite actor remind you why you are pursuing this craft. Feeling good at an audition can have incredible results! </p>
+            <p> Just remember when listening or watching prior to an audition that you also have one ear/eye open for when it is your turn. </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> Focus on Your Reader</h2>
+            <p> The various ups and downs of audition nerves are endless. Sometimes you can be calm before entering your audition and then once you have entered the room, you feel them boiling up. A great way to focus them is to simply look at the person who is your reader, or scene partner. </p>
+            <p> Just take a second to look at their eyes, their wardrobe, or their hair. Something specific of your choice, and take it in. This will bring you to the present, and your nerves will subside or be focused. </p>
+            <p> If you can’t focus on what you are seeing, then focus on the words they are saying. If you can take the time to hear what they are saying to you, you will initiate your listening skills, and listening is compelling and it is also focused.</p>
+        </li>
+        <li>
+            <h2 id="sectionFive"> Shift Your Mindset</h2>
+            <p> Audition nerves will never fully go away, in fact, you don’t want them to. As I mentioned above, audition nerves are an indication that you care about your craft. As such, why not see them that way? </p>
+            <p> There was a study done at Harvard, where they noticed that those struggling with nerves found it extremely difficult to calm down, but found it quite easy to shift their mindset on what they were feeling. This is because excitement and nervousness do similar things to the body.</p>
+            <p> If you can tell yourself, <em>I am excited,  I GET to audition versus  I am nervous - I HAVE to audition</em>, your mind begins to interpret those feelings as such. In this situation, it really is mind over matter. Part of rewiring this way of thinking is catching your thoughts as they happen and reminding yourself that you are in fact excited, not nervous.</p>
+            <p> This is where our next point comes into play. 
+
+        <li>
+            <h2 id="sectionSix"> Mantra</h2>
+            <p> Mantras have become something people seem to cringe at these days. Part of the reason for this is they are used offhandedly without any belief or active thought. People also often impose their mantras on others, which doesn’t work.  In order for a mantra to work it needs to be personal to you and invoke a deep feeling. </p>
+            <p> If you don’t know where to start, you can always start with something generic like:</p>
+            <ul><em>
+                <li>“I am worthy”</li>
+                <li>“I am excited” </li>
+                <li>“I am prepared and confident” </li>
+            </em></ul>
+            <p> Once you’ve started to implement a mantra into your day-to-day, you can start experimenting with sentences that are more personal to you.</p>
+            <p> <strong>STORYTIME: </strong>></p>
+            <p> Many years ago, when I had my first booking, the first song to come on my shuffle after I got the call was Rufus Wainwright's Hallelujah. I remember feeling so proud of myself, feeling like things were actually happening for me, and so the next audition I had, I told myself “Hallelujah” which reminded me how capable I am. This is what I mean by making it personal. If I told someone else to tell themselves “Hallelujah” as a mantra, it would do nothing for them, because they don’t have the feelings of success and accomplishment that went with it. </p>
+        </li>
+        <li>
+            <h2 id="sectionSeven"> Train</h2>
+            <p> This really should be The Messy Actor mantra - Train Train Train. 
+            The reason training is on this list is that when you train, you begin to understand the craft better, and the more you do it, the more confident you will become. 
+            </p>
+            <p> Let me make a point that, if training doesn’t give you confidence and doesn’t make you feel good, then you probably want to change who you are training with. Training should make you more confident and make you feel you know what you are doing at least a little bit. Of course, with learning, there are definite growing pains, so you may not feel good all the time, however, you should feel like training, at least give you a good foundation to go into an audition.</p>
+        </li>
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>You likely will not be able to put all seven of these tips to work prior to an audition but take the time to go over them and see which ones work for you. As you begin implementing these tips as habits, you can start to incorporate more and more of them into your practice. Remember: these aren’t going to fix your nerves, nor are they going to subside them right away. With time and repetition, you will find that your confidence and calm going into auditions will grow. </p>
+        </li>
+    </ol>
+    <h3>Wishing you calm and focused auditions that you enjoy!</h3>
+    `
+                },
+
+
             ]
             // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
 

@@ -6,7 +6,7 @@
             {
                 "postNum": " blogPost_____ ",
                 "category": "______",
-                "postLink": "/Posts/_____.html",
+                "postLink": "/_____",
                 "title": ` ______ `,
                 "image": `<picture>
 <source srcset="../assets/images//_____.webp" type="image/webp">

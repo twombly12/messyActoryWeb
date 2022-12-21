@@ -80,6 +80,12 @@ app.get("/6-ways-to-break-negative-thinking-as-an-actor", (request, response) =>
 app.get("/5-acting-lessions-from-squid-game-pilot", (request, response) => {
     response.sendFile(__dirname + '/public/Posts/5-acting-lessions-from-squid-game-pilot.html')
 })
+app.get("/7-tips-on-how-to-handle-audition-nerves", (request, response) => {
+    response.sendFile(__dirname + '/public/Posts/7-tips-on-how-to-handle-audition-nerves.html')
+})
+app.get("/5-breathing-exercises-for-actors", (request, response) => {
+    response.sendFile(__dirname + '/public/Posts/5-breathing-exercises-for-actors.html')
+})
 
 /* ------------------------------------------------------------------- */
 
