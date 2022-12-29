@@ -1018,6 +1018,97 @@
     <h3>Wishing you calm and focused auditions that you enjoy!</h3>
     `
                 },
+                // -------------------------------- ________ Post --------------------------
+                // -------------------------------- ________ Post --------------------------
+                // -------------------------------- ________ Post --------------------------
+                // -------------------------------- ________ Post --------------------------
+                // -------------------------------- ________ Post --------------------------
+                {
+                    "postNum": " blogPost9 ",
+                    "category": "Mindset Acting-Habits Preparation",
+                    "postLink": "/6-ways-to-break-negative-thinking-as-an-actor",
+                    "title": ` 6 Ways to Break Negative Thinking as an Actor `,
+                    "image": `<picture>
+<source srcset="../assets/images/negative-thoughts.webp" type="image/webp">
+<source srcset="../assets/images/negative-thoughts.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/negative-thoughts.webp" alt="female actor meditating surrounded by clouds and positive notes to herself as she defeat her negative ways of thinking">
+</picture>`,
+                    "date": `Dec 28, 2022`,
+                    "snippet": `<p> It is vital as an actor that you are able to break out of negative thought patterns. On the one hand, it will help you with your craft, and on the other, it will help your personal mental health. </p>`,
+                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> 6 Ways to Break Negative Thinking as an Actor </p>
+    
+    <ul>
+        <li>
+            <a href="#sectionOne"> Identify the Thought </a></li>
+        <li>
+            <a href="#sectionTwo"> Challenge the Thought </a></li>
+        <li>
+            <a href="#sectionThree"> Replace the Thought </a></li>
+        <li>
+            <a href="#sectionFour"> Journal Uncensored </a></li>
+        <li>
+            <a href="#sectionFive"> Practice Mindfulness and Gratitude </a></li>
+        <li>
+            <a href="#sectionSix"> Find a Community of Positive People </a></li>
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+                    "content": `
+                    <p> Rerouting negative thought patterns will help with your craft when you need to remove yourself from a dark character or a character that lives in a negative world. A professor of mine once told me, that the craft is not only getting into the mind of a character, it’s getting out. If you are on set, and you are playing a character who has dark troubles, or perhaps evil tendencies, when CUT is called, it would be in your best interest to be able to separate yourself from the work.  </p>
+                    <p> On a personal level, this industry can be a hard one. Whether it be outside critiques or inner ones, being able to handle them, and mold them into something positive will be very helpful. Especially if you are on set, and you need to be focusing on your work and not on a thought that has the ability to derail you.  </p>
+                    <p> Below are SIX tips for you to get started on your rerouting negative thought journey. Keep in mind, that this is not something that happens overnight, this is a habit to curate. Therefore, start now, and actively do it for a month to make it into a habit!  </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Identify the Thought</h2>
+            <p> One of the reasons that negative thoughts get the best of us is that we believe that everything we think must be true. However, in a lot of scenarios our mind, depending on the mood we are in, is feeding us lies! Whenever you have a negative thought, be it about someone else or yourself, take note of it. </p>
+            <p> In the beginning, you may have to make an active effort in doing this. So instead of making a note mentally, put that note into action. You can say it aloud, “NEGATIVE THOUGHT”, you can pinch the skin between your index and thumb, you can pull out a sticky note and place it on a table or desk, or my personal favorite: take a washable marker and put a dot on your hand. The idea is you want to be able to see just how many times you had a negative thought in your day. </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> Challenge the Thought</h2>
+            <p> The next step is to challenge that thought. This is the beginning of transforming the thought from something harmful to something neutral, and hopefully something positive. The best way to challenge the thought is to ask this simple three-word question: <b>IS THAT TRUE?</b> </p>
+            <p> It may be strange to ask this at first because your brain will want to say: yes it is. But instead of allowing that, challenge your brain by answering why it couldn’t possibly be true. Find every single reason why this thought couldn’t possibly be true. 
+            </p>
+            <p> The next question to ask yourself is <b>WHY DO I WANT THIS TO BE TRUE?</b> This one was always the trippiest for me to answer because I would find that dwelling in negative thoughts was actually something my body relished in since it was a comfortable place to be. As an actor it is integral you get to a place where you can look at yourself for who you are authentically, so answering this question honestly will help you a lot in the long run.</p>
+            <p> The final question you can ask is: <B>WOULD I EVER SAY THIS TO SOMEONE ELSE?</b> Why or why not? And additionally, <b>WHAT WOULD I SAY TO SOMEONE IF THEY SAID THIS ABOUT THEMSELVES?</b> We often think worst things about ourselves than we do other people, and very often if someone comes to us with a similar thought we remind them how untrue it is. It’s important that you can do that for yourself too, particularly in this industry that is full of rejection. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> Replace the Thought</h2>
+            <p> Once you have answered these questions, it is time to either neutralize the thought or spin it to make it positive. It is important to take note that you are never stopping the thought. Stopping negative thoughts allows them to resurface doubly charged - you are simply rerouting their path.</p>
+            <p> Replacing the thought can be as simple as changing the wording. For example A common saying for actors is “I have to audition” which actually has a negative connotation to it. To replace this thought and make it positive, you’d change it to I get to audition. Another way of replacing the thought is coming to the conclusion that the original thought was in fact wrong, and you change it entirely. </p>
+            <p> For example: <em>I am a bad actor</em> would become <em>I am talented</em>.  In order to replace this, you would have found all the reasons why you are in fact a great actor, which dissolves the argument that you are bad. </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> Journal Uncensored</h2>
+            <p> Sometimes all you need to move past a negative thought is to get it out. Our minds are always flooded with so much information, and one of the reasons negative thoughts can build over time is that they aren’t being expressed. However, not all thoughts are worth expressing to a person, as they could be hurtful, or burn a bridge, but they still deserve to be out of your mind. A great way to do this is to get a journal. </p>
+            <p> Personally, I find that writing by hand is a much more effective way of getting out thoughts, but for some that can be tedious or even too slow for the number of thoughts they have in their mind. You can try doing an audio journal, video journal, or even an app journal. Whatever the method, find a place where you can write or speak uncensored and without any judgment. </p>
+            <p> I personally never go back and read what I have written, that is not its purpose. The purpose is to get the thoughts out and then move on with your day. </p>
+        </li>
+        <li>
+            <h2 id="sectionFive"> Practice Mindfulness and Gratitude</h2>
+            <p> Another way to ease negative thoughts is to practice meditation, mindfulness, or gratitude.  The way you practice these is completely up to you. </p>
+            <p> This can be finding a mantra (as discussed in <a href="/7-tips-on-how-to-handle-audition-nerves"target="__blank">7 TIPS ON HOW TO HANDLE AUDITION NERVES</a>) or making a list of all the things you are grateful for in your career. If you are religious or spiritual it could be praying, or even something as simple as putting in time for meditation. Whatever you choose, this should be a time when you can find stillness and grounding in your day-to-day. </p>
+            <p> There is a tendency when starting to work with negative thoughts to roll one's eyes at these methods. It’s a way your brain has wired itself to resist change. Acknowledge those thoughts, but try it anyway. Gratitude is not only something that helps us personally, it resonates outward to our colleagues and experiences as well. </p>
+        </li>
+        <li>
+            <h2 id="sectionSix"> Find a Community of Positive People</h2>
+            <p> Jim Rohn is known to have said “we are the average of the 5 people we spend the most time with.” Nicholas Christakis and James Fowler are known to have done research to prove that in fact, you are the average of the 5 people's friends that you spend time with. Meaning: if you surround yourself with positive people, who are also influenced by positive people, you are more likely to be positive. </p>
+            <p> So yes, you should be surrounding yourself with actors who are still excited and keen on the craft. People who train, want to grow and find joy in the work. However, these people should also be people that you can go to, to help lift you up. </p>
+            <p> As actors, it is important that we have a community of people with who we can talk honestly about the tribulations of the industry. There is a lot of competition and desire to show that “we are succeeding” which doesn’t provide a safe space for negative experiences. There is a lot of doubt, rejection, and pain that comes with this job as well, and having a safe space to be heard, and reassured is just as important. </p>
+            <p> Keep an eye out for people who hear your pains and doubts, understand them, and then lift you up. These are the people you want in your circle. They don’t necessarily need to be actors - they can be creators, producers, writers, and artists - it doesn’t matter what they do in the industry, it matters that they hear you, and you hear them from a place of understanding. </p>
+            <p> Online communities are also quite popular nowadays, you can join various twitch, Reddit, or Facebook groups, as well as you are now a part of our safe community here at The Messy Actor, so please come by our Instagram page (<a href="https://www.instagram.com/themessyactorblog/" target="__blank">themessyactor</a>) and introduce yourself! </p>
+        </li>
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>Breaking out of negative thinking patterns will greatly improve your career and your life. Take the time every day to start making a habit of molding your thinking patterns. Your future self will thank you. Remember, not being negative doesn’t mean you need to be excessively positive. Finding neutral ground where thoughts are objective and factual as opposed to hurtful or elated can add a sense of calm to your acting practice and career. </p>
+        <p><a href=" https://medium.com/the-mission/youre-not-the-average-of-the-five-people-you-surround-yourself-with-f21b817f6e69" target="__blank">If you are interested in more about Nicholas Christakis and James Fowler</a>
+       <p> <a href="https://www.businessinsider.com/jim-rohn-youre-the-average-of-the-five-people-you-spend-the-most-time-with-2012-7?utm_source=copy-link&utm_medium=referral&utm_content=topbar" target="__blank">If you are interested in more about Jim Rohn</a>
+        </p>
+        </li>
+    </ol>
+    <h3>Wishing you many positive thoughts in the days to come! </h3>
+    `
+                },
 
 
             ]

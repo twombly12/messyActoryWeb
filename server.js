@@ -86,6 +86,9 @@ app.get("/7-tips-on-how-to-handle-audition-nerves", (request, response) => {
 app.get("/5-breathing-exercises-for-actors", (request, response) => {
     response.sendFile(__dirname + '/public/Posts/5-breathing-exercises-for-actors.html')
 })
+app.get("/6-ways-to-break-negative-thinking-as-an-actor", (request, response) => {
+    response.sendFile(__dirname + '/public/Posts/6-ways-to-break-negative-thinking-as-an-actor.html')
+})
 
 /* ------------------------------------------------------------------- */
 
