@@ -74,6 +74,7 @@ function menuAndSocial() {
                         <li class="drawer"><a href="/organization">Organization</a></li>
                         <li class="drawer"><a href="/preparation">Preparation</a></li>
                         <li class="drawer"><a href="/scene-study">Scene Study</a></li>
+                        <li class="drawer"><a href="/training">Training</a></li>
                     </ul>
                 </div>
             </li>

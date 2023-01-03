@@ -48,6 +48,9 @@ app.get("/learning-from-others", (request, response) => {
 app.get("/scene-study", (request, response) => {
     response.sendFile(__dirname + '/public/Categories/scene-study.html')
 })
+app.get("/training", (request, response) => {
+    response.sendFile(__dirname + '/public/Categories/training.html')
+})
 
 /* -------------------------- Posts -------------------------- */
 app.get("/5-things-to-expect-from-your-talent-agent", (request, response) => {

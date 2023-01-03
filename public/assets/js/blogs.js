@@ -924,7 +924,7 @@
     <p>In no particular order: </p>
     <ul>
         <li>
-            <a href="#sectionOne"> Breath </a></li>
+            <a href="#sectionOne"> Breathe </a></li>
         <li>
             <a href="#sectionTwo"> Be Prepared </a></li>
         <li>
@@ -1000,7 +1000,7 @@
                 <li>“I am prepared and confident” </li>
             </em></ul>
             <p> Once you’ve started to implement a mantra into your day-to-day, you can start experimenting with sentences that are more personal to you.</p>
-            <p> <strong>STORYTIME: </strong>></p>
+            <p> <strong>STORYTIME: </strong></p>
             <p> Many years ago, when I had my first booking, the first song to come on my shuffle after I got the call was Rufus Wainwright's Hallelujah. I remember feeling so proud of myself, feeling like things were actually happening for me, and so the next audition I had, I told myself “Hallelujah” which reminded me how capable I am. This is what I mean by making it personal. If I told someone else to tell themselves “Hallelujah” as a mantra, it would do nothing for them, because they don’t have the feelings of success and accomplishment that went with it. </p>
         </li>
         <li>
@@ -1018,11 +1018,11 @@
     <h3>Wishing you calm and focused auditions that you enjoy!</h3>
     `
                 },
-                // -------------------------------- ________ Post --------------------------
-                // -------------------------------- ________ Post --------------------------
-                // -------------------------------- ________ Post --------------------------
-                // -------------------------------- ________ Post --------------------------
-                // -------------------------------- ________ Post --------------------------
+                // -------------------------------- 10th Post --------------------------
+                // -------------------------------- 10th Post --------------------------
+                // -------------------------------- 10th Post --------------------------
+                // -------------------------------- 10th Post --------------------------
+                // -------------------------------- 10th Post --------------------------
                 {
                     "postNum": " blogPost9 ",
                     "category": "Mindset Acting-Habits Preparation",
@@ -1110,6 +1110,125 @@
     `
                 },
 
+                // -------------------------------- 11th Post --------------------------
+                // -------------------------------- 11th Post --------------------------
+                // -------------------------------- 11th Post --------------------------
+                // -------------------------------- 11th Post --------------------------
+                // -------------------------------- 11th Post --------------------------
+                {
+                    "postNum": " blogPost10 ",
+                    "category": "Training Acting-Habits Preparation",
+                    "postLink": "/5-breathing-exercises-for-actors",
+                    "title": ` 5 Breathing Exercises for Actors `,
+                    "image": `<picture>
+<source srcset="../assets/images/breathing-exercise.webp" type="image/webp">
+<source srcset="../assets/images/breathing-exercise.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/breathing-exercise.webp" alt="woman doing breathing exercises and exhaling">
+</picture>`,
+                    "date": `JAn 4, 2022`,
+                    "snippet": `<p> Breathing exercises seem to be a warm-up category that gets missed when it comes to preparing for film and TV auditions. Very often, if we see actors warming up with breathing exercises, it's because they are musical theater actors or they are also singers. But just because you are neither of those things, doesn’t mean breathing exercises aren’t one of your greatest friends. </p>`,
+                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> 5 Breathing Exercises for Actors </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> The Counting Cycle </a></li>
+        <li>
+            <a href="#sectionTwo"> Emptying Your Lungs </a></li>
+        <li>
+            <a href="#sectionThree"> Panting </a></li>
+        <li>
+            <a href="#sectionFour"> Alternating Nostrils </a></li>
+        <li>
+            <a href="#sectionFive"> Yawning </a></li>
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+                    "content": `
+    <p> Breathing is one of the fundamentals of acting. It allows you to ground yourself and be present. Now, you may be saying to yourself: I am breathing, otherwise, I’d be dead. Yes, valid, but you are likely taking very shallow breaths. This lack of proper breathing depth may make you stressed, allow you to forget lines, and even rush your audition.   </p>
+    <p> There is a myriad of reasons why breathing exercises are incredibly helpful to your craft, but one of the greatest things about them - you can do them in the audition room (virtual or otherwise). Since they are silent, you don’t have to worry about calling attention to yourself while you are waiting to go into the room.  </p>
+    <p> Below are FIVE breathing exercises you can do while you wait.  </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> THE COUNTING CYCLE</h2>
+            <p> This exercise has multiple variations depending on what numbers you pick. The idea however is that you inhale on a count, hold your breath for a count and exhale on a count and hold for a count. </p>
+            <p> <b>The Box count: </b></p>
+            <ul>
+                <li> INHALE 4</li>
+                <li> HOLD 4</li>
+                <li>  EXHALE 4</li>
+                <li> EXHALE 4</li>
+            </ul>
+            <p> <b>The Hour Glass count: </b></p>
+            <ul>
+                <li> INHALE 8 </li>
+                <li> HOLD 4</li>
+                <li>  EXHALE 8 </li>
+                <li> HOLD 4 </li>
+            </ul>
+         <b>The Vase count: </b></p>
+            <ul>
+                <li> INHALE for 8 </li>
+                <li> HOLD for 2 </li>
+                <li>  EXHALE for 4</li>
+                <li> HOLD for 2 </li>
+            </ul>
+            <p> 
+            You can select any variation that works for you, but keep in mind that the longer your inhales and exhales, the deeper an experience you will get. 
+            </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> EMPTYING YOUR LUNGS</h2>
+            <p> This exercise is all about emptying your lungs so that you can fill them entirely</p>
+            <p> <b>How you do this is as follows:</b></p>
+            <ul>
+                <li> INHALE a normal breath</li>
+                <li> EXHALE until you can no longer exhale</li>
+                <li>  HOLD for as long as you can</li>
+                <li> Let your body do what it wants to naturally. It will inhale, but it’s instinctual as you will be completely out of breath. </li>
+            </ul>
+            <p>When your body’s breathing instinct kicks in it helps regulate your breathing, but it also allows you to get a deeper breath than any forced inhale would. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> PANTING </h2>
+            <p> Panting may be a strange thing to tell you to do in public, but this is deliberate panting that isn’t on voice. This exercise not only gets your breathing going, but also warms up your vocal cords. 
+            </p>
+            <p> <b>What you want to do is the following:</b></p>
+            <ul>
+                <li> Drop your jaw, naturally, so that your mouth is open</li>
+                <li> Start panting in voiceless 5-pant increments, aiming more for a HAW sound (if you were to make a sound) rather than a HA sound. </li>
+                <li>  Repeat 5 times</li>
+                <li> Take a small break & repeat. </li>
+            </ul>
+        </li>
+        <li>
+            <h2 id="sectionFour"> ALTERNATING NOSTRILS</h2>
+            <p> This exercise is exactly what the title suggests. You will be breathing out of one nostril, and then the other. It’s also known as the “straw” exercise, but I find this to be much better for you, as the straw can be strenuous</p>
+            <p> <b>In order to do this exercise:</b></p>
+            <ul>
+                <li> Plug one of your nostrils with your index finger </li>
+                <li> INHALE on an 8 count through that nostril</li>
+                <li>  HOLD on to a natural cycle, whatever is normal for your breathing pattern (usually a 1) </li>
+                <li> EXHALE on an 8 count through that nostril</li>
+                <li> Switch nostrils</li>
+                <li> Repeat the exercise, but this time, exhale through your mouth. </li>
+            </ul>
+            <p> This focuses your body on the airflow going in and out, which has a calming and grounding effect. </p>
+        </li>
+        <li>
+            <h2 id="sectionFive"> YAWNING </h2>
+            <p> This exercise is just manifesting fake yawns until you yawn for real. The idea is to get the deepest, and longest yawn you can. Beware though, yawning is contagious, and you could put yourself in a yawning cycle. You only want to do about 3-5 yawns in total. </p>
+        </li>
+        
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>As mentioned above, all these exercises can be done in the audition waiting room. I know many people who do them with their eyes closed, so they don’t get distracted in case someone looks their way. Now that you know these exercises, you can do them however often you like. </p>
+        <p>I would also suggest going to our Instagram page and saving the post about it, so you can refer to it when you are sitting in the audition room.</p>
+        </li>
+    </ol>
+    <h3>Wishing you deep breaths</h3>
+    `
+                },
+
 
             ]
             // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
@@ -1162,6 +1281,7 @@
                         <li><a href="/organization">Organization</a></li>
                         <li><a href="/preparation">Preparation</a></li>
                         <li><a href="/scene-study">Scene Study</a></li>
+                        <li><a href="/training">Training</a></li>
                         
                         
                         </ul>
