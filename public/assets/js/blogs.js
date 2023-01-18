@@ -1,34 +1,31 @@
-    const generateBlogPosts = (function() {
-
-        const blogSignOff = `
+const generateBlogPosts = (function () {
+  const blogSignOff = `
 
         <p>Be sure to follow us at themessyactorblog on <a target="__blank" href="https://www.instagram.com/themessyactorblog/" class="icon brands fa-instagram"> Instagram</a></p>
         <p>Grow, Let Go & Get Messy!</p>
         <p>The Messy Actor
    </p>
     `;
-        const allBlogPosts = [
-                // -------------------------------- First Post --------------------------
-                // -------------------------------- First Post --------------------------
-                // -------------------------------- First Post --------------------------
+  const allBlogPosts = [
+    // -------------------------------- First Post --------------------------
+    // -------------------------------- First Post --------------------------
+    // -------------------------------- First Post --------------------------
 
-
-
-                // -------------------------------- First Post --------------------------
-                // -------------------------------- First Post --------------------------
-                {
-                    "postNum": "blogPost0",
-                    "category": "Getting-Started Industry-Tips Preparation",
-                    "postLink": "/8-tips-on-how-to-become-an-actor",
-                    "title": `8 TIPS ON HOW TO BECOME AN ACTOR`,
-                    "image": `<picture>
+    // -------------------------------- First Post --------------------------
+    // -------------------------------- First Post --------------------------
+    {
+      postNum: "blogPost0",
+      category: "Getting-Started Industry-Tips Preparation",
+      postLink: "/8-tips-on-how-to-become-an-actor",
+      title: `8 TIPS ON HOW TO BECOME AN ACTOR`,
+      image: `<picture>
                 <source srcset="../assets/images/Become-Actor.webp" type="image/webp">
                 <source srcset="../assets/images/Become-Actor.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Become-Actor.webp" alt="female actor standing behind acting slate with eye showing through the gap in the slate">
                 </picture>`,
-                    "date": `October 26, 2022`,
-                    "snippet": `<p>You’ve come to the conclusion that you want to be an actor. That’s great! Being bitten by the acting bug is something to celebrate! But now what?</p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `October 26, 2022`,
+      snippet: `<p>You’ve come to the conclusion that you want to be an actor. That’s great! Being bitten by the acting bug is something to celebrate! But now what?</p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
                     <p>8 Tips on How to Become an Actor</p>
                     <ul>
                         <li>
@@ -50,7 +47,7 @@
                             <li>
                             <a href="#summary">Summary</a></li>
                     </ul>`,
-                    "content": `
+      content: `
          <p>Below are some tools to help you get started. One important thing to remember is that the acting industry is a strange one, and your journey within it will be unlike anyone else’s – you will have to navigate it as you see fit – hopefully
                         these tips can help you on your way.</p>
                </p>
@@ -142,26 +139,26 @@
                     </ol>
                     <h3>Wishing you the best of luck as you start your career!</h3>
                     
-                    `
-                },
-                // -------------------------------- Second Post --------------------------
-                // -------------------------------- Second Post --------------------------
-                // -------------------------------- Second Post --------------------------
-                // -------------------------------- Second Post --------------------------
-                // -------------------------------- Second Post --------------------------
-                {
-                    "postNum": "blogPost1",
-                    "category": "Agents Industry-Tips Preparation",
-                    "postLink": "/8-things-to-avoid-in-an-acting-agent",
-                    "title": `8 THINGS TO AVOID IN AN ACTING AGENT`,
-                    "image": `<picture>
+                    `,
+    },
+    // -------------------------------- Second Post --------------------------
+    // -------------------------------- Second Post --------------------------
+    // -------------------------------- Second Post --------------------------
+    // -------------------------------- Second Post --------------------------
+    // -------------------------------- Second Post --------------------------
+    {
+      postNum: "blogPost1",
+      category: "Agents Industry-Tips Preparation",
+      postLink: "/8-things-to-avoid-in-an-acting-agent",
+      title: `8 THINGS TO AVOID IN AN ACTING AGENT`,
+      image: `<picture>
                 <source srcset="../assets/images/Bad-agent.webp" type="image/webp">
                 <source srcset="../assets/images/Bad-agent.webp.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Bad-agent.webp" alt="female actor waving off a bad talent agent for acting">
                 </picture>`,
-                    "date": `November 2, 2022`,
-                    "snippet": `<p>So you have done the work, you have your demo, and your headshots and now you are on the search to find yourself an agent. Perhaps, you even have some meetings lined up.</p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `November 2, 2022`,
+      snippet: `<p>So you have done the work, you have your demo, and your headshots and now you are on the search to find yourself an agent. Perhaps, you even have some meetings lined up.</p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
                     <p>8 Things to Avoid in an Acting Agent</p>
                     <ul>
                         <li>
@@ -183,7 +180,7 @@
                             <li>
                             <a href="#summary">Summary</a></li>
                     </ul>`,
-                    "content": `
+      content: `
                 <p>Unfortunately, there are people out there who will use your eagerness to chase your dreams, as a means to scam you. These sort of people are salesmen and are only looking to use you to get a few dollars. It’s better to be your own representative until you find a legitimate agent than to sign with one of these scam agencies.</p>
                 <p>Below are some things to look out for when meeting or looking for agents. If you have already signed with an agent and want to know what practices are right or wrong - check out <a href="/5-things-to-expect-from-your-talent-agent">5 THINGS TO EXPECT FROM YOUR TALENT AGENT</a></p>
 
@@ -236,26 +233,26 @@
                 </li>
             </ol>
             <h3>Wishing you the best of luck as you search for your agent!</h3>
-                    `
-                },
-                // -------------------------------- Third Post --------------------------
-                // -------------------------------- Third Post --------------------------
-                // -------------------------------- Third Post --------------------------
-                // -------------------------------- Third Post --------------------------
-                // -------------------------------- Third Post --------------------------
-                {
-                    "postNum": " blogPost2 ",
-                    "category": "Agents Industry-Tips Organization",
-                    "postLink": "/5-things-to-expect-from-your-talent-agent",
-                    "title": ` 5 Things to Expect from Your Talent Agent `,
-                    "image": `<picture>
+                    `,
+    },
+    // -------------------------------- Third Post --------------------------
+    // -------------------------------- Third Post --------------------------
+    // -------------------------------- Third Post --------------------------
+    // -------------------------------- Third Post --------------------------
+    // -------------------------------- Third Post --------------------------
+    {
+      postNum: " blogPost2 ",
+      category: "Agents Industry-Tips Organization",
+      postLink: "/5-things-to-expect-from-your-talent-agent",
+      title: ` 5 Things to Expect from Your Talent Agent `,
+      image: `<picture>
                 <source srcset="../assets/images/Good-Agent.webp" type="image/webp">
                 <source srcset="../assets/images/Good-Agent.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Good-Agent.webp" alt="two rock climbers help each other climb a cliff symbolizing that a good acting agent should help an actor have a successful career">
                 </picture>`,
-                    "date": `November 9, 2022`,
-                    "snippet": `<p>You sussed out the legitimate agents from the scammers, you had your meetings, you found someone who is great to work with, and - YOU GOT SIGNED! Congrats!!  Now what?</p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `November 9, 2022`,
+      snippet: `<p>You sussed out the legitimate agents from the scammers, you had your meetings, you found someone who is great to work with, and - YOU GOT SIGNED! Congrats!!  Now what?</p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
                     <p>5 Things to Expect from Your Talent Agent</p>
                     <ul>
                         <li>
@@ -272,7 +269,7 @@
                             <li>
                             <a href="#summary">Summary</a></li>
                     </ul>`,
-                    "content": `
+      content: `
                     <p>The blog below is going to prepare you for the practices of a good agent, and what you can expect. If you want to know what practices you can do to be a good client, see <a href="/6-ways-to-have-a-better-relationship-with-your-agent">(6 WAYS TO HAVE A BETTER RELATIONSHIP WITH YOUR AGENT)</a></p>
                     <ol>
                         <li>
@@ -329,26 +326,26 @@
                         </li>
                     </ol>
                     <h3>I hope you have a wonderful agent who checked all five of these points! </h3>
-                    `
-                },
-                // -------------------------------- Fourth Post --------------------------
-                // -------------------------------- Fourth Post --------------------------
-                // -------------------------------- Fourth Post --------------------------
-                // -------------------------------- Fourth Post --------------------------
-                // -------------------------------- Fourth Post --------------------------
-                {
-                    "postNum": " blogPost3 ",
-                    "category": "Agents Industry-Tips Organization",
-                    "postLink": "/6-ways-to-have-a-better-relationship-with-your-agent",
-                    "title": ` 6 Ways to Have a Better Relationship with Your Agent `,
-                    "image": `<picture>
+                    `,
+    },
+    // -------------------------------- Fourth Post --------------------------
+    // -------------------------------- Fourth Post --------------------------
+    // -------------------------------- Fourth Post --------------------------
+    // -------------------------------- Fourth Post --------------------------
+    // -------------------------------- Fourth Post --------------------------
+    {
+      postNum: " blogPost3 ",
+      category: "Agents Industry-Tips Organization",
+      postLink: "/6-ways-to-have-a-better-relationship-with-your-agent",
+      title: ` 6 Ways to Have a Better Relationship with Your Agent `,
+      image: `<picture>
                 <source srcset="../assets/images/Agent_.webp" type="image/webp">
                 <source srcset="../assets/images/Agent_.webp.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Agent_.webp" alt="a busy acting agent that is juggling multiple tasks like scheduling booking auditions writing cheques and managing actors">
                 </picture>`,
-                    "date": `November 16, 2022`,
-                    "snippet": `<p>Just like all relationships, those that are nurtured are the ones that last. It is particularly important if you see or hope for a future with your agent, that you nurture that relationship.</p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `November 16, 2022`,
+      snippet: `<p>Just like all relationships, those that are nurtured are the ones that last. It is particularly important if you see or hope for a future with your agent, that you nurture that relationship.</p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
                     <p>6 Ways to Have a Better Relationship with Your Agent</p>
                     <ul>
                         <li>
@@ -367,7 +364,7 @@
                             <li>
                             <a href="#summary">Summary</a></li>
                     </ul>`,
-                    "content": `
+      content: `
                     <p>There are three different beliefs when it comes to agent-client relationships. There is the belief that your agent works for you, the belief that you work for your agent, and the belief that it is an equal business partnership.</p>
                     <p>I personally am of the opinion of #3, the equal business partnership. I think this version of looking at the relationship allows both parties to bring their strengths and in turn create a successful future for your career.</p>
                     <p>My hope is you are here because you want to create a positive dynamic between you and your agent, and you want to know what is expected of you in this relationship. My fear is that some of you have come under false intentions to push your agent to work for you. A brief reminder that your intentions are also very important when it comes to solidifying a strong relationship with your agent.</p>
@@ -442,26 +439,26 @@
                         </li>
                     </ol>
                     <h3>Wishing you a great relationship with your agent(s)!</h3>
-                    `
-                },
-                // -------------------------------- Fifth Post --------------------------
-                // -------------------------------- Fifth Post --------------------------
-                // -------------------------------- Fifth Post --------------------------
-                // -------------------------------- Fifth Post --------------------------
-                // -------------------------------- Fifth Post --------------------------
-                {
-                    "postNum": " blogPost4 ",
-                    "category": "Auditions Acting-Habits Organization",
-                    "postLink": "/14-things-to-keep-track-of-when-you-auditions",
-                    "title": ` 14 Things to Keep Track of When You Audition `,
-                    "image": `<picture>
+                    `,
+    },
+    // -------------------------------- Fifth Post --------------------------
+    // -------------------------------- Fifth Post --------------------------
+    // -------------------------------- Fifth Post --------------------------
+    // -------------------------------- Fifth Post --------------------------
+    // -------------------------------- Fifth Post --------------------------
+    {
+      postNum: " blogPost4 ",
+      category: "Auditions Acting-Habits Organization",
+      postLink: "/14-things-to-keep-track-of-when-you-auditions",
+      title: ` 14 Things to Keep Track of When You Audition `,
+      image: `<picture>
                 <source srcset="../assets/images/Tracking.webp" type="image/webp">
                 <source srcset="../assets/images/Tracking.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/Tracking.webp" alt="actor buried behind a pile of record keeping and tracking paper work while holding up a sign that says help">
                 </picture>`,
-                    "date": `November 23, 2022`,
-                    "snippet": `<p>There are a million teachers, classes, and blogs out there that will tell you what to look for IN your auditions, such as: the time before, relationship, actions/beats…etc. However, there are very few that tell you what to keep track of statistically when it comes to your auditions.</p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `November 23, 2022`,
+      snippet: `<p>There are a million teachers, classes, and blogs out there that will tell you what to look for IN your auditions, such as: the time before, relationship, actions/beats…etc. However, there are very few that tell you what to keep track of statistically when it comes to your auditions.</p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
                     <p>14 Things to Keep Track of When You Audition</p>
                     <ul>
                         <li>
@@ -496,7 +493,7 @@
                             <li>
                             <a href="#summary">Summary</a></li>
                     </ul>`,
-                    "content": `
+      content: `
                     <p>Keeping track of the facts of your auditions is important for growth, and goal setting. Many actors believe they can just remember certain information, like what casting directors brought them in, or what they’ve auditioned for. However, without a proper way of cataloging these facts - you can lose sight of them very quickly.</p>
                     <p>You can either make your own Audition Book, or you can purchase one, like the linked below. 
                     <div class="cta"></div>
@@ -606,26 +603,26 @@
                         </li>
                     </ol>
                     <h3>Wishing you a fun and useful logging audition experience. </h3>
-                    `
-                },
-                // -------------------------------- Sixth Post --------------------------
-                // -------------------------------- Sixth Post --------------------------
-                // -------------------------------- Sixth Post --------------------------
-                // -------------------------------- Sixth Post --------------------------
-                // -------------------------------- Sixth Post --------------------------
-                {
-                    "postNum": " blogPost5 ",
-                    "category": "Getting-Started Industry-Tips Organization",
-                    "postLink": "/5-things-to-know-about-headshots",
-                    "title": ` 5 Things to know about Headshots `,
-                    "image": `<picture>
+                    `,
+    },
+    // -------------------------------- Sixth Post --------------------------
+    // -------------------------------- Sixth Post --------------------------
+    // -------------------------------- Sixth Post --------------------------
+    // -------------------------------- Sixth Post --------------------------
+    // -------------------------------- Sixth Post --------------------------
+    {
+      postNum: " blogPost5 ",
+      category: "Getting-Started Industry-Tips Organization",
+      postLink: "/5-things-to-know-about-headshots",
+      title: ` 5 Things to know about Headshots `,
+      image: `<picture>
                 <source srcset="../assets/images/headshots.webp" type="image/webp">
                 <source srcset="../assets/images/headshots.jpg" type="image/jpg"> 
                 <img class="main-blog-image" src="../assets/images/headshots.webp" alt="image of an actor taking an unprofessional headshot">
                 </picture>`,
-                    "date": `November 30, 2022`,
-                    "snippet": `<p> Before we jump into the points of today’s blog, let’s briefly go over what headshots are and what they are used for, in case you don’t know. </p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `November 30, 2022`,
+      snippet: `<p> Before we jump into the points of today’s blog, let’s briefly go over what headshots are and what they are used for, in case you don’t know. </p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
                     <p> 5 Things to know about Headshots </p>
                     <ul>
                         <li>
@@ -642,7 +639,7 @@
                             <li>
                             <a href="#summary">Summary</a></li>
                     </ul>`,
-                    "content": `
+      content: `
                     <p> 
                     <p><em>What is a headshot?</em> A headshot is a professional photo of your face, generally shoulders up, that looks like you. It’s purpose is to get you into the audition room. Long story short - a headshot is your business card.  A good headshot will be memorable enough to get you into various rooms, generic enough that it looks like you most of the time, and specific enough to slot you into various role categories. </p>
                     <p><em>What do I need them for?</em> Most importantly, headshots are used to “sell” you to casting directors. This means agents (or yourself if you are not represented) use the photo to persuade casting directors to get you into the room for an audition. In situations like open calls,your headshot is also used to remember what you looked like when you've entered the room. </p>
@@ -698,26 +695,26 @@
                         </li>
                     </ol>
                     <h3>Wishing you a fun filled headshot session, with great results! </h3>
-                    `
-                },
-                // -------------------------------- Seventh Post --------------------------
-                // -------------------------------- Seventh Post --------------------------
-                // -------------------------------- Seventh Post --------------------------
-                // -------------------------------- Seventh Post --------------------------
-                // -------------------------------- Seventh Post --------------------------
-                {
-                    "postNum": " blogPost6 ",
-                    "category": "Mindset Acting-Habits Preparation",
-                    "postLink": "/5-thoughts-to-eliminate-as-an-actor",
-                    "title": ` 5 Thoughts to Eliminate as an Actor `,
-                    "image": `<picture>
+                    `,
+    },
+    // -------------------------------- Seventh Post --------------------------
+    // -------------------------------- Seventh Post --------------------------
+    // -------------------------------- Seventh Post --------------------------
+    // -------------------------------- Seventh Post --------------------------
+    // -------------------------------- Seventh Post --------------------------
+    {
+      postNum: " blogPost6 ",
+      category: "Mindset Acting-Habits Preparation",
+      postLink: "/5-thoughts-to-eliminate-as-an-actor",
+      title: ` 5 Thoughts to Eliminate as an Actor `,
+      image: `<picture>
 <source srcset="../assets/images/negative-thinking.webp" type="image/webp">
 <source srcset="../assets/images/negative-thinking.jpg" type="image/jpg"> 
 <img class="main-blog-image" src="../assets/images/negative-thinking.webp" alt="woman carrying a phyiscal represntation of the weight from her negative thoughts as she climbs stairs toward her goal">
 </picture>`,
-                    "date": `Dec 7, 2022`,
-                    "snippet": `<p> One of the hardest things to overcome as an actor is: MINDSET. Unfortunately for many, this is the barrier between success and quitting. If you can master and control your mindset while you tackle this industry, you will do very well.  </p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `Dec 7, 2022`,
+      snippet: `<p> One of the hardest things to overcome as an actor is: MINDSET. Unfortunately for many, this is the barrier between success and quitting. If you can master and control your mindset while you tackle this industry, you will do very well.  </p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
     <p> 5 Thoughts to Eliminate as an Actor </p>
     <ul>
         <li>
@@ -734,7 +731,7 @@
             <li>
             <a href="#summary">Summary</a></li>
     </ul>`,
-                    "content": `
+      content: `
     <p> You have entered a very difficult profession, there is no doubt about it. The amount of unknowns, lack of control and rejection is enough to put anyone in a stressed, depressed, angry or negative headspace. </p>
 
     <p>If you are a new actor, start tackling this now. Make a point of managing your thoughts about this industry now, before you become embittered.If you are a veteran actor, check yourself to see where you are in this journey. After doing this job for a while, it is very easy to be consumed by negative thoughts. The time to become aware of your thoughts is NOW, so that you can conquer them. 
@@ -801,28 +798,28 @@
         </li>
     </ol>
     <h3>Hoping you find that healthy mindset to keep you going! </h3>
-    `
-                },
+    `,
+    },
 
-                // -------------------------------- Eighth Post --------------------------
-                // -------------------------------- Eighth Post --------------------------
-                // -------------------------------- Eighth Post --------------------------
-                // -------------------------------- Eighth Post --------------------------
-                // -------------------------------- Eighth Post --------------------------
-                {
-                    "postNum": " blogPost7 ",
-                    "category": "Scene-Study Preparation Learning-From-Others",
-                    "postLink": "/5-acting-lessions-from-squid-game-pilot",
-                    "title": ` 5 Acting Lessons from Squid Game: Pilot `,
-                    "image": `<picture>
+    // -------------------------------- Eighth Post --------------------------
+    // -------------------------------- Eighth Post --------------------------
+    // -------------------------------- Eighth Post --------------------------
+    // -------------------------------- Eighth Post --------------------------
+    // -------------------------------- Eighth Post --------------------------
+    {
+      postNum: " blogPost7 ",
+      category: "Scene-Study Preparation Learning-From-Others",
+      postLink: "/5-acting-lessions-from-squid-game-pilot",
+      title: ` 5 Acting Lessons from Squid Game: Pilot `,
+      image: `<picture>
 <source srcset="../assets/images/squid-game.webp" type="image/webp">
 <source srcset="../assets/images/squid-game.jpg" type="image/jpg"> 
 <img class="main-blog-image" src="../assets/images/squid-game.webp" alt="Image of person about to start watching squid game on their tv">
 </picture>`,
-                    "date": `Dec 14, 2022`,
+      date: `Dec 14, 2022`,
 
-                    "snippet": `<p><strong> ** WARNING: PLOT SPOILERS AHEAD** </strong></p><p><em>All time signatures are in reference to the episode on Netflix. </em></p><p> One of the greatest ways to learn about acting is to watch others do it. As luck would have it, we have thousands of TV shows at our fingertips with streaming services, so what better way to do some training than to watch some Netflix, Crave, Disney+...etc  </p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      snippet: `<p><strong> ** WARNING: PLOT SPOILERS AHEAD** </strong></p><p><em>All time signatures are in reference to the episode on Netflix. </em></p><p> One of the greatest ways to learn about acting is to watch others do it. As luck would have it, we have thousands of TV shows at our fingertips with streaming services, so what better way to do some training than to watch some Netflix, Crave, Disney+...etc  </p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
     <p> 5 Acting Lessons from Squid Game: Pilot </p>
     <ul>
         <li>
@@ -839,7 +836,7 @@
             <li>
             <a href="#summary">Summary</a></li>
     </ul>`,
-                    "content": `
+      content: `
     <p> Watching T.V or Film for the purpose of learning is a different part of your brain than just aimlessly watching for the sake of watching. The way to watch and learn is to make sure you have that pause finger at the ready. When you see a moment that is captivating, press pause, rewind and watch it again, and again, and again. Look for what the actor does technically that resulted in a great moment, and then make a note of it.  </p>
     <p> Today, we are going to be dissecting Red Light Green Light, Squid Game’s pilot. I could have done the entire series, but this would have resulted in a novel, instead of a blog post. Below are FIVE moments that are great acting tools to put into your acting belt. </p>
     <ol>
@@ -899,27 +896,27 @@
         </li>
     </ol>
     <h3>Wishing you many joyful scene breakdowns ahead!</h3>
-    `
-                },
+    `,
+    },
 
-                // -------------------------------- ________ Post --------------------------
-                // -------------------------------- 9th Post --------------------------
-                // -------------------------------- 9th Post --------------------------
-                // -------------------------------- 9th Post --------------------------
-                // -------------------------------- 9th Post --------------------------
-                {
-                    "postNum": " blogPost8 ",
-                    "category": "Mindset Acting-Habits Preparation",
-                    "postLink": "/7-tips-on-how-to-handle-audition-nerves",
-                    "title": ` 7 Tips on how to Handle Auditions Nerves `,
-                    "image": `<picture>
+    // -------------------------------- ________ Post --------------------------
+    // -------------------------------- 9th Post --------------------------
+    // -------------------------------- 9th Post --------------------------
+    // -------------------------------- 9th Post --------------------------
+    // -------------------------------- 9th Post --------------------------
+    {
+      postNum: " blogPost8 ",
+      category: "Mindset Acting-Habits Preparation",
+      postLink: "/7-tips-on-how-to-handle-audition-nerves",
+      title: ` 7 Tips on how to Handle Auditions Nerves `,
+      image: `<picture>
 <source srcset="../assets/images/audition-nerves.webp" type="image/webp">
 <source srcset="../assets/images/audition-nerves.jpg" type="image/jpg"> 
 <img class="main-blog-image" src="../assets/images/audition-nerves.webp" alt="Female Actor breathing into paper bag to help her nerves while she is on stage">
 </picture>`,
-                    "date": `Dec 21, 2022`,
-                    "snippet": `<p> Have you got audition nerves? Welcome to the club!  </p> <p>The first thing you should know about audition nerves is that you are not alone!! Every actor, in every walk of life, be it brand new or veteran will have experienced audition nerves, and if I’m quite frank - I believe that’s a good thing. </p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `Dec 21, 2022`,
+      snippet: `<p> Have you got audition nerves? Welcome to the club!  </p> <p>The first thing you should know about audition nerves is that you are not alone!! Every actor, in every walk of life, be it brand new or veteran will have experienced audition nerves, and if I’m quite frank - I believe that’s a good thing. </p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
     <p> Nerves, also known as excitement, mean you deeply care about what you are doing, and I think that should be celebrated in many ways. However, it is true that these nerves can sometimes get in the way of a great performance, so here are 7 tips to help you work with your nerves to have a great audition!   </p>
     <p>In no particular order: </p>
     <ul>
@@ -941,7 +938,7 @@
             <li>
             <a href="#summary">Summary</a></li>
     </ul>`,
-                    "content": `
+      content: `
     <p> 7 Tips on how to Handle Auditions Nerves </p>
     <ol>
         <li>
@@ -1016,26 +1013,26 @@
         </li>
     </ol>
     <h3>Wishing you calm and focused auditions that you enjoy!</h3>
-    `
-                },
-                // -------------------------------- 10th Post --------------------------
-                // -------------------------------- 10th Post --------------------------
-                // -------------------------------- 10th Post --------------------------
-                // -------------------------------- 10th Post --------------------------
-                // -------------------------------- 10th Post --------------------------
-                {
-                    "postNum": " blogPost9 ",
-                    "category": "Mindset Acting-Habits Preparation",
-                    "postLink": "/6-ways-to-break-negative-thinking-as-an-actor",
-                    "title": ` 6 Ways to Break Negative Thinking as an Actor `,
-                    "image": `<picture>
+    `,
+    },
+    // -------------------------------- 10th Post --------------------------
+    // -------------------------------- 10th Post --------------------------
+    // -------------------------------- 10th Post --------------------------
+    // -------------------------------- 10th Post --------------------------
+    // -------------------------------- 10th Post --------------------------
+    {
+      postNum: " blogPost9 ",
+      category: "Mindset Acting-Habits Preparation",
+      postLink: "/6-ways-to-break-negative-thinking-as-an-actor",
+      title: ` 6 Ways to Break Negative Thinking as an Actor `,
+      image: `<picture>
 <source srcset="../assets/images/negative-thoughts.webp" type="image/webp">
 <source srcset="../assets/images/negative-thoughts.jpg" type="image/jpg"> 
 <img class="main-blog-image" src="../assets/images/negative-thoughts.webp" alt="female actor meditating surrounded by clouds and positive notes to herself as she defeat her negative ways of thinking">
 </picture>`,
-                    "date": `Dec 28, 2022`,
-                    "snippet": `<p> It is vital as an actor that you are able to break out of negative thought patterns. On the one hand, it will help you with your craft, and on the other, it will help your personal mental health. </p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `Dec 28, 2022`,
+      snippet: `<p> It is vital as an actor that you are able to break out of negative thought patterns. On the one hand, it will help you with your craft, and on the other, it will help your personal mental health. </p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
     <p> 6 Ways to Break Negative Thinking as an Actor </p>
     
     <ul>
@@ -1054,7 +1051,7 @@
             <li>
             <a href="#summary">Summary</a></li>
     </ul>`,
-                    "content": `
+      content: `
                     <p> Rerouting negative thought patterns will help with your craft when you need to remove yourself from a dark character or a character that lives in a negative world. A professor of mine once told me, that the craft is not only getting into the mind of a character, it’s getting out. If you are on set, and you are playing a character who has dark troubles, or perhaps evil tendencies, when CUT is called, it would be in your best interest to be able to separate yourself from the work.  </p>
                     <p> On a personal level, this industry can be a hard one. Whether it be outside critiques or inner ones, being able to handle them, and mold them into something positive will be very helpful. Especially if you are on set, and you need to be focusing on your work and not on a thought that has the ability to derail you.  </p>
                     <p> Below are SIX tips for you to get started on your rerouting negative thought journey. Keep in mind, that this is not something that happens overnight, this is a habit to curate. Therefore, start now, and actively do it for a month to make it into a habit!  </p>
@@ -1107,27 +1104,27 @@
         </li>
     </ol>
     <h3>Wishing you many positive thoughts in the days to come! </h3>
-    `
-                },
+    `,
+    },
 
-                // -------------------------------- 11th Post --------------------------
-                // -------------------------------- 11th Post --------------------------
-                // -------------------------------- 11th Post --------------------------
-                // -------------------------------- 11th Post --------------------------
-                // -------------------------------- 11th Post --------------------------
-                {
-                    "postNum": " blogPost10 ",
-                    "category": "Training Acting-Habits Preparation",
-                    "postLink": "/5-breathing-exercises-for-actors",
-                    "title": ` 5 Breathing Exercises for Actors `,
-                    "image": `<picture>
+    // -------------------------------- 11th Post --------------------------
+    // -------------------------------- 11th Post --------------------------
+    // -------------------------------- 11th Post --------------------------
+    // -------------------------------- 11th Post --------------------------
+    // -------------------------------- 11th Post --------------------------
+    {
+      postNum: " blogPost10 ",
+      category: "Training Acting-Habits Preparation",
+      postLink: "/5-breathing-exercises-for-actors",
+      title: ` 5 Breathing Exercises for Actors `,
+      image: `<picture>
 <source srcset="../assets/images/breathing-exercise.webp" type="image/webp">
 <source srcset="../assets/images/breathing-exercise.jpg" type="image/jpg"> 
 <img class="main-blog-image" src="../assets/images/breathing-exercise.webp" alt="woman doing breathing exercises and exhaling">
 </picture>`,
-                    "date": `JAn 4, 2022`,
-                    "snippet": `<p> Breathing exercises seem to be a warm-up category that gets missed when it comes to preparing for film and TV auditions. Very often, if we see actors warming up with breathing exercises, it's because they are musical theater actors or they are also singers. But just because you are neither of those things, doesn’t mean breathing exercises aren’t one of your greatest friends. </p>`,
-                    "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+      date: `Jan 4, 2022`,
+      snippet: `<p> Breathing exercises seem to be a warm-up category that gets missed when it comes to preparing for film and TV auditions. Very often, if we see actors warming up with breathing exercises, it's because they are musical theater actors or they are also singers. But just because you are neither of those things, doesn’t mean breathing exercises aren’t one of your greatest friends. </p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
     <p> 5 Breathing Exercises for Actors </p>
     <ul>
         <li>
@@ -1143,7 +1140,7 @@
             <li>
             <a href="#summary">Summary</a></li>
     </ul>`,
-                    "content": `
+      content: `
     <p> Breathing is one of the fundamentals of acting. It allows you to ground yourself and be present. Now, you may be saying to yourself: I am breathing, otherwise, I’d be dead. Yes, valid, but you are likely taking very shallow breaths. This lack of proper breathing depth may make you stressed, allow you to forget lines, and even rush your audition.   </p>
     <p> There is a myriad of reasons why breathing exercises are incredibly helpful to your craft, but one of the greatest things about them - you can do them in the audition room (virtual or otherwise). Since they are silent, you don’t have to worry about calling attention to yourself while you are waiting to go into the room.  </p>
     <p> Below are FIVE breathing exercises you can do while you wait.  </p>
@@ -1156,7 +1153,7 @@
                 <li> INHALE 4</li>
                 <li> HOLD 4</li>
                 <li>  EXHALE 4</li>
-                <li> EXHALE 4</li>
+                <li> HOLD 4</li>
             </ul>
             <p> <b>The Hour Glass count: </b></p>
             <ul>
@@ -1226,21 +1223,216 @@
         </li>
     </ol>
     <h3>Wishing you deep breaths</h3>
-    `
-                },
+    `,
+    },
+    // -------------------------------- 12th Post --------------------------
+    // -------------------------------- 12th Post --------------------------
+    // -------------------------------- 12th Post --------------------------
+    // -------------------------------- 12th Post --------------------------
+    // -------------------------------- 12th Post --------------------------
+    {
+      postNum: " blogPost11 ",
+      category: "Training Learning-From-Others Preparation",
+      postLink: "/4-answers-to-the-question-how-do-actors-cry",
+      title: ` 4 Answers to the Question: How Do Actors Cry?  `,
+      image: `<picture>
+<source srcset="../assets/images/crying.webp" type="image/webp">
+<source srcset="../assets/images/crying.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/crying.webp" alt="Woman holding up a cartoon tear because she can't cry on demand">
+</picture>`,
+      date: `Jan 11, 2023`,
+      snippet: `<p> If you are just getting started in the industry, or aren’t an actor, you may be curious how actors can “cry at the drop of a hat”. Though it may seem like it’s instant or easy, the reality is a lot of work, practice, and imagination goes into obtaining the result.  </p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
+    <p> 4 Answers to the Question: How Do Actors Cry?  </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> Transference & Substitution </a></li>
+        <li>
+            <a href="#sectionTwo"> Imagining the Situation </a></li>
+        <li>
+            <a href="#sectionThree"> Connecting with Your Scene Partner </a></li>
+        <li>
+            <a href="#sectionFour"> Tricking Your Body </a></li>
 
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+      content: `
+    <p> Every actor is different, and the methods of crying on demand may differ from person to person. However here are four answers to the question: How do actors cry?  </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> TRANSFERENCE & SUBSTITUTION</h2>
+            <p> Transference and substitution are acting methods that were coined by one of the great acting teachers: Uta Hagen. She believed that the actor could take moments and experiences from their life, and transfer them over into the scene they were exploring. </p>
+            <p> This would mean recalling back to a moment in one's life where one felt the same emotion that the character they are portraying was feeling, and exploring it within the scene. </p>
+            <p> When it comes to tears, recalling a moment when you were sad, or happy (to a point of tears) can bring back those sentiments and begin the waterworks. </p>
+            <p> <b>Ex: Your character has lost a parent. </b></p>
+            <p> Perhaps you don’t know what it’s like to lose a parent, but maybe you have lost a pet or experienced heartbreak that can put you in a place of sadness, which can then be imported into your scene about losing a parent. The more specific you are, the more nuanced that sadness can be. Remember, sadness can incorporate happiness, anger, regret…etc. </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> IMAGINING THE SITUATION</h2>
+            <p> For some, recalling moments in their life when they were sad, can in fact put up blocks. Perhaps your mind and body don’t want to remember those moments, that is something you want to keep to yourself, and in the past. That is perfectly okay, it is up to you to figure out what methods of exploring your emotions are best for you. </p>
+            <p> Another method actors use is their imagination. Some people have very vivid imaginations and they can place themselves in the situation their character is in, which will allow them to have a visceral emotional reaction just by imagining. </p>
+            <p> <b>Ex: Your character has lost a parent. </b></p>
+            <p> All it takes for this method is for you to imagine you have in fact lost a parent, and how that would make you feel. The danger of this method is the relationship with your parent, may be different than that of the character, so be sure that what you are exploring emotionally correlates to your scene. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> CONNECTING WITH YOUR SCENE PARTNER</h2>
+            <p> Human connection is one of the most wonderful things in our industry. It’s also one of your best tools as an actor and another method that actors use to cry in a scene. If you have a scene partner, using their emotions to fuel you is a great way to get the waterworks going. </p>
+            <p> <b>Ex: Your character has lost a parent. </b></p>
+            <p> Perhaps you are talking to your scene partner about your parent. If you can make eye contact with your scene partner, and see how they are feeling about the situation, that will naturally start to make you feel certain things. If you can see empathy, sympathy, pain etc, in their eyes this can begin to fuel your own emotions. </p>
+            <p> Don’t believe me? Think of all the moments when you were watching a movie or talking to someone who was going through something painful, and they began to cry - very likely you also had the urge to cry too. This idea is the same one applied here but to your scene partner. </p>
+            <p> I am willing to bet this is most actors' favorite way to get emotional because you get to do it with someone else, however, beware, there are situations where you won’t have a scene partner, and you will have to get to the same emotional place, with or without one. </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> TRICKING YOUR BODY</h2>
+            <p> Sometimes the imagination and the emotional work don’t work. It may be that it’s been a very long emotional day, or perhaps the image that was working stops (this can happen). One of the great things about our bodies is we can trick them if we know how. </p>
+            <p> A simple example would be a yawn or a laugh. If you fake a yawn or force a laugh, eventually you will get an authentic one. The same goes for tears. </p>
+            <p> If you scrunch up your face, like you are going to cry, very often, if your instrument is open to releasing the emotion, you can trick your body into releasing tears, snot, and even phlegm at the back of your throat which is what occurs during crying. </p>
+            <p> I would use this as a last resort. The reason is, <em>tears are not the be-all-end-all when it comes to emotional scenes</em>. They are the cherry on top, but they do not dictate whether you are a good actor. Better to have a scene being emotionally dialed in than have forced tears that are inauthentic. </p>
+            <p> If the producers or director want you to have tears, and they aren’t flowing (for whatever reason) they can get makeup to give you some eye drops to really sell the point home. </p>
+        </li>
 
-            ]
-            // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>So though it is impressive and a useful tool for an actor to be able to cry on demand, it is not essential to a scene. Tears can signify a myriad of things, and they are not a factor to determine whether you are a good or bad actor. If you are an actor and are worried about your inability to produce tears, you may need to explore why you can’t access those emotions. Very often it has little to do with your acting abilities, and more to do with your day-to-day life, and what emotions you allow yourself day to day. </p>
+        <p> <em>TIP: Allow yourself to feel every emotion, without blocking, particularly when watching movies/TV.</em> </p>
+        <p>  If you feel the urge to tear up during a movie, allow it. This will help you tenfold in your career.  </p>
+        <p> If you want to know more about Uta Hagen’s methods, a great starting point is to check out this wikipedia article: <a href="https://en.wikipedia.org/wiki/Uta_Hagen" target="__blank">Uta Hagen</a> </p>
+        </li>
+    </ol>
+    <h3>Wishing you the best of luck in your emotional journey!</h3>
+    `,
+    },
+    // -------------------------------- 13th Post --------------------------
+    // -------------------------------- 13th Post --------------------------
+    // -------------------------------- 13th Post --------------------------
+    // -------------------------------- 13th Post --------------------------
+    // -------------------------------- 13th Post --------------------------
+    {
+      postNum: " blogPost12 ",
+      category: "Preparation Acting-Habits",
+      postLink: "/7-things-i-learned-as-number-1-on-the-callsheet",
+      title: ` 7 Things I Learned as #1 on the Call sheet `,
+      image: `<picture>
+<source srcset="../assets/images/fatal-family-reunion.webp" type="image/webp">
+<source srcset="../assets/images/fatal-family-reunion.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/fatal-family-reunion.webp" alt="Image of Alexandra Augustine as the lead actor in the Lifetime Movie Fatal Family Reunion">
+</picture>`,
+      date: `Jan 18, 2023`,
+      snippet: `<p> In the spring of 2021, I booked the role of Sloane Harrington on Fatal Family Reunion. I couldn’t believe it. I was going to be number one on the call sheet! After the excitement of finding out, (while going through a Mcdonald's drive-thru) the reality set in and I wondered, am I ready for this?  </p>`,
+      tableOfContents: `<span class="tableContentsTitle">Table of Contents</span>
+    <p> 7 Things I Learned as #1 on the Call sheet </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> Get To Know The Script Intimately  </a></li>
+        <li>
+            <a href="#sectionTwo"> Overprepare </a></li>
+        <li>
+            <a href="#sectionThree"> Connect with your fellow castmates </a></li>
+        <li>
+            <a href="#sectionFour"> Be respectful and kind  </a></li>
+        <li>
+            <a href="#sectionFive"> Remember people's names </a></li>
+        <li>
+            <a href="#sectionSix"> Express your boundaries and needs </a></li>
+        <li>
+            <a href="#sectionSeven"> Shut down your doubts </a></li>
 
-        const populateBlogPage = () => {
-                let categoriesList = '';
-                for (i = 0; i < allBlogPosts.length; i++) {
-                    let populateBlogPost = document.querySelector(`#blogPost${i}`);
-                    if (populateBlogPost !== null) {
-                        categoriesList = generateHomePageSnippets.categoriesCode(i).list;
-                        /* Post Blog */
-                        populateBlogPost.innerHTML = `<main class="post-with-sidebar">
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+      content: `
+    <p> Ready or not, I had to dive in and swim! I learned a lot along the way and I’d like to share that with you, in the hopes that when you book your first #1, you feel ready to go!  </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Get To Know The Script Intimately </h2>
+            <p> When filming a feature film, you will never film the scenes in order. (In fact, for this particular one, we shot the “bad guy reveal” on Day 1 of 13.) For this reason, it is essential that you know the script intimately. This means knowing the order of what happens and when. </p>
+            <p> Knowing this information will then indicate to you what your emotional state is within every scene. As a lead, your character is likely to have an arc from the beginning of the film to the end. This means, your character will be changing and evolving as the film progresses. Due to this, it’s important you know where that is in the script. That way, when you film part of Scene 2 on Day 1 and then again on Day 10, you know what energy and emotional state to bring to the scene. </p>
+            <p> Another thing that happens quite often while shooting a film, is that the shooting schedule will change on a whim. You may wake up prepared to shoot Scene 10, but suddenly something could happen, like a change in weather, and just like that, you are filming Scene 23. If you haven’t gotten to know your script inside and out, you may not be prepared to shoot that scene. But guess what? You will have to anyway. </p>
+            <p> You don’t necessarily need to know the entire script by heart, but you do need to be familiar enough with it, that if the scenes of the day change, you are able to jump in and shoot the scene. </p>
+            <p> There will likely be areas in the script that are more emotionally demanding than others. I would highly recommend putting time into exploring the emotions and thoughts behind those scenes. Make no mistake, however, you aren’t planning how you are going to act out every moment, you still need to be present and malleable enough to be directed, you are simply exploring what the possibilities of those scenes could be. </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> Overprepare</h2>
+            <p> This point is pretty self-explanatory, prepare so much that most of your preparation isn’t used. 
+            In this particular film, I played a pianist. However, that wasn’t particularly important to the plot of the film.  It was important however to how my character carried herself, how she interacted with a piano and how she played piano. There were two moments in the film where Sloane had to play piano, and just in case, I learned the pieces that were mentioned in the script. 
+            </p>
+            <p> It turned out that I played to a pre-recorded track, and I didn’t need to learn them, but learning them gave me a lot to work with. I knew the rhythm of the song, which allowed me to mime it better, and my hope, make it look more believable. </p>
+            <p> Another thing that I prepped for, that never would have occurred to me, if it hadn’t happened to me directly, was physical preparation. Let me explain. Two days prior to hearing I booked the part, I sprained my ankle terribly. I was on crutches, and couldn’t walk.  I then got the call, read the script, and realized… I have to run. A LOT.   </p>
+            <p> The next day, I booked a physio appointment and told him, I need to be in great working condition in two weeks - is that possible? He said, yes. So I got to work doing exercises and stretches and working out in ways that would help my mobility.  When shoot day came, I was ready to run up staircases, and climb through windows. And not to toot my own horn, but I don’t think it was at all noticeable! **</p>
+            <p> Now this sprained ankle story may not come in useful to you in some respects. I mean how often are you going to sprain your ankle before you book a lead role? But the point I am trying to make is: if you read the script, and you are doing something physical which is beyond something you do in your day-to-day routine. Put the work in to get yourself in a place where your body and mind are ready to go. It may not come in useful on shoot day, as you may have a stunt double, but it will put you in a position of understanding and focus for your role. </p>
+            <p> <i>** I took care of my ankle all throughout the shoot as well. Lots of icepacks and stretches while I wasn’t shooting too.</i></p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> Connect with your fellow castmates</h2>
+            <p> One of the greatest luxuries I had prior to shooting this film was that my agent represented both myself and Brett Geddes, who played David (#2) in the film. Our agent suggested that we meet prior to filming. We spoke daily until we met in person, on the first day of filming. </p>
+            <p> I hadn’t realized just how important this would be on set.</p>
+            <p> I was able to curate a close relationship with Brett, that given the circumstances of the film, helped me quite a bit. He was my younger brother in the film, someone I cared for deeply and had a strong connection with. The connection in real life and the connection in the film became synonymous while the cameras were rolling. I often found myself connecting to Brett during emotional scenes, which allowed me to be present and listen. He was my rock and pillar during those three weeks of filming. I give him a lot of credit for my performance (he naturally won’t take it, but it’s there on my end).</p>
+            <p> Now, we can’t always be that lucky. Not every castmate will be Brett Geddes, however, you can try and connect with your fellow castmates in order to get to know who you will be working with. 
+            You can either ask your agent to follow up with production to see if your castmate will be willing, or reach out to them on social media. Or even wait until the first day of shooting and see who you naturally connect with. 
+            </p>
+            <p> Filming a movie can be a very intimate ordeal, it’s important you feel you have someone who’s got your back, even just for the time you’re shooting. </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> Be respectful and kind </h2>
+            <p> I personally find this to be a redundant point, I feel it shouldn’t have to be said, but unfortunately, I have heard horror stories of #1s making set a living nightmare. So - this point still needs to be made.</p>
+            <p> As a #1, you do have a certain responsibility to create the mood of the set. You are by no means the most important person on set, do not get me wrong. However, there are a lot of eyes on you and how you act will determine how everyone else feels about the project. You are, after all, the face of the project. </p>
+            <p> This means, respecting and being kind to everyone on set. The crew, the admin, your fellow actors - EVERYONE.  Everyone is there to do their job, and if you can make people feel happy at work, then I truly feel the project will be better for it. Creativity thrives in a nurtured environment. </p>
+            <p> Just like in every job, there can be frustrations, and things that go wrong. How you handle these situations is also important. Handling situations with grace, maturity, and level-headedness goes a long way. </p>
+            <p> I do realize that as a #1 you have a lot to do, but do not forget that for everything you are doing, the crew is working longer and harder to make you look good. Compassion and gratitude for them will make your time on set a better one, for them and for you. </p>
+            <p> On a personal note, I never understood actors who didn’t speak to the crew. I personally think that segregation between talent and crew is ridiculous, and as a #1 you can absolutely remove that precedent. But that’s just me! </p>
+        </li>
+        <li>
+            <h2 id="sectionFive"> Remember people's names</h2>
+            <p> This is a simple one that goes a long way. We all know that feeling when you have been working with someone for a week, and you know their name, and they make it known that they don’t know yours - it’s not a great feeling. You can go above and beyond by showing everyone you work with that they are important, and a small way of doing this is by remembering their names. </p>
+            <p> I realize that there can be dozens, if not a hundred people around you at one time, as a #1. This is why I recommend keeping your call sheet close by. If you meet someone, say they are a grip, find their name on your call sheet and write down a small note of your interaction. If you do happen to forget their name, at least you know you can go back to your call sheet to recall it. </p>
+        </li>
+        <li>
+            <h2 id="sectionSix"> Express your boundaries and needs</h2>
+            <p> Though this is something I have difficulty doing in my day-to-day life, it is an important part of being a #1 on set. It’s also a balancing act. Finding the right moment to express your needs and boundaries is essential. </p>
+            <p> <b>For example:</b> You don’t feel comfortable in your wardrobe</p>
+            <p> For the purpose of this example, let’s say you are doing a scene that requires a bathing suit. Wardrobe has picked a bikini (or speedo) that reveals more of you than you anticipated. </p>
+            <p> The right time to express your boundaries is during the fitting. You can express your discomfort, or perhaps a solution you would be more comfortable with. The incorrect time to express this would be halfway through the shoot when you have already shot several scenes with it on.
+            Perhaps this example is a bit on the nose, but its purpose is to show you that there is a right and wrong time to express your needs. 
+            </p>
+            <p> When it comes to boundaries, this becomes a little more complex. I would never usually tell anyone to stop a take, however when it comes to boundaries with safety or security, stopping a take can be as big as a matter of life and death. 
+            </p>
+            <p> In the case of <em>Fatal Family Reunion</em>, I had to throw stunts woman Alyssa Pellerin Boudreau off a balcony. Stunt Coordinator Steve Kelsall went over the choreography with both of us several times, with the instructions that should something not feel safe, we stop the take. Better to stop the take, than have someone get injured. What was wonderful about this stunts team is that they checked in with me on my comfort and boundaries every step of the way. When asked, “is there anything you feel we should know, or you feel uncomfortable about?” I said, “ I do have a sprained ankle if we can do choreography that doesn’t aggravate it, that would be wonderful”. I expressed my boundary, and it was acknowledged and then I knew they had my best interest in mind. We had a killer fight scene, and my ankle didn’t feel a thing! 
+            </p>
+            <p> Additionally, when it comes to intimacy in a scene it’s important you vocalize your boundaries, and concerns either with an intimacy coordinator if they are on set, or with your scene partner and director. Nck Name and I had to share a few kisses during filming, and several discussions and covid precautions were taken before every kiss. These sorts of things, though small, make a big difference.
+            </p>
+            <p> Finally, staying true to your personal boundaries outside of acting is incredibly important. If an actor or crew member crosses one of your boundaries, talking to them privately or mentioning it to an AD is crucial to make sure your time on set going forward is a happy one. </p>
+        </li>
+        <li>
+            <h2 id="sectionSeven"> Shut down your doubts</h2>
+            <p> This was my biggest takeaway from shooting <em>Fatal Family Reunion</em>. Do not let your insecurities get the best of you. When hired for a lead, a lot of feelings can arise, for me in particular I had a lot of imposter syndrome. I felt like I had no idea what I was doing. </p>
+            <p> I remember DAY 2 rolled around and I realized that if I was going to give my all to this film, I had no room for all the terrible things my inner critic was telling me. I actually managed to subdue those feelings for most of the shoot until the second last day of shooting. </p>
+            <p> We were out in public, we’d blocked off a very busy part of the downtown core, and people were watching, taking pictures and there was a lot happening. All of a sudden, my inner critic was LOUD. I remember looking over to Li Dong, the director of the film, and feeling like I couldn’t for the life of me give him what he needed at that moment. 
+            </p>
+            <p> Li is an exceptional director, he read me like a book, before the take he subtly handed me a piece of paper and on it, it said “You are Incredible.” It was what I needed at that moment to remind me that my inner critics were wrong, HOWEVER, <em>he shouldn’t have had to do that for me</em>. 
+            </p>
+            <p> I know that as a professional actor this craft is not my identity, it is my job, and as such I do not require external validation from anyone to do my work. Li’s note reminded me that I am talented, and I will do my darndest to not bring my insecurities to set. The reason is, all of these people - producers, directors, network associates, hired you for a reason, they believe you can do it. So who are you to question them?  </p>
+            <p> Well after the shoot was done, Li admitted to me that he had a lot of insecurities within his mind during the shoot, about his talents as a director. Thing was, I never caught glimpse of them, ever. Li is the person who took a chance on me, he’s what Lady Gaga would call that “1 person in the room” but he also taught me a very valuable lesson about leaving your doubts at the door, and entering a set full of confidence. </p>
+        </li>
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>If you came to this blog post because you are prepping to be #1 on the call sheet, I hope these 7 points have been useful. They do come down to preparation, confidence, and respectfulness. If you can apply those, you will be just fine. It’s an exciting time, enjoy every minute! </p>
+        </li>
+    </ol>
+    <h3>Wishing you an incredible experience as number one on the call sheet!</h3>
+    `,
+    },
+  ];
+  // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
+
+  const populateBlogPage = () => {
+    let categoriesList = "";
+    for (i = 0; i < allBlogPosts.length; i++) {
+      let populateBlogPost = document.querySelector(`#blogPost${i}`);
+      if (populateBlogPost !== null) {
+        categoriesList = generateHomePageSnippets.categoriesCode(i).list;
+        /* Post Blog */
+        populateBlogPost.innerHTML = `<main class="post-with-sidebar">
                         <div class="blog-post-content">
                         <img id="logo-image" width=250>
                         <header class = "major">
@@ -1292,69 +1484,71 @@
 
                     </div>
                 </main>`;
-                        /* Get categories and add as classes  to Blog Div */
-                        for (y = 0; y < categoriesList.length; y++) {
-                            populateBlogPost.className += ` ${categoriesList[y].toLowerCase()}`
-                        }
-                    }
-                }
-
-            }
-            // ----------------------------------------------------------- Recent Posts Snippets -----------------------------------------------------------
-        const getRecentPosts = () => {
-                let postsLength = generateBlogPosts.allBlogPosts.length;
-                let recent = '';
-                for (r = postsLength - 1; r > postsLength - 6 && r >= 0; r--) {
-                    recent += `
+        /* Get categories and add as classes  to Blog Div */
+        for (y = 0; y < categoriesList.length; y++) {
+          populateBlogPost.className += ` ${categoriesList[y].toLowerCase()}`;
+        }
+      }
+    }
+  };
+  // ----------------------------------------------------------- Recent Posts Snippets -----------------------------------------------------------
+  const getRecentPosts = () => {
+    let postsLength = generateBlogPosts.allBlogPosts.length;
+    let recent = "";
+    for (r = postsLength - 1; r > postsLength - 6 && r >= 0; r--) {
+      recent += `
     <div class='recentPosts'>
-    <h4><a href="${allBlogPosts[r].postLink}">${allBlogPosts[r].title}</a></h4></header><a href="${allBlogPosts[r].postLink}" class="image fit">${allBlogPosts[r].image}</a>${generateHomePageSnippets.categoriesCode(r).code}<p>${allBlogPosts[r].snippet}</p></div>
-    `
-                }
-                return recent;
-            }
-            // ----------------------------------------------------------- Generate Related Categories -----------------------------------------------------------
-        const generateRelatedCategories = (categoryOrRelated) => {
-                blogPostsLength = allBlogPosts.length;
+    <h4><a href="${allBlogPosts[r].postLink}">${
+        allBlogPosts[r].title
+      }</a></h4></header><a href="${
+        allBlogPosts[r].postLink
+      }" class="image fit">${allBlogPosts[r].image}</a>${
+        generateHomePageSnippets.categoriesCode(r).code
+      }<p>${allBlogPosts[r].snippet}</p></div>
+    `;
+    }
+    return recent;
+  };
+  // ----------------------------------------------------------- Generate Related Categories -----------------------------------------------------------
+  const generateRelatedCategories = (categoryOrRelated) => {
+    blogPostsLength = allBlogPosts.length;
 
-                let relatedPosts = [];
+    let relatedPosts = [];
 
-                /* Get Categories*/
-                let pageCategories = document.querySelectorAll('.post')
-                pageCategories = pageCategories[0].className;
-                pageCategories = pageCategories.split(' ').splice(1, 5);
+    /* Get Categories*/
+    let pageCategories = document.querySelectorAll(".post");
+    pageCategories = pageCategories[0].className;
+    pageCategories = pageCategories.split(" ").splice(1, 5);
 
+    /* Filter Blog Posts */
+    for (i = 0; i <= blogPostsLength - 1; i++) {
+      let blogCategories = allBlogPosts[i].category;
+      blogCategories = blogCategories.toLowerCase().split(" ");
 
-                /* Filter Blog Posts */
-                for (i = 0; i <= blogPostsLength - 1; i++) {
-                    let blogCategories = allBlogPosts[i].category;
-                    blogCategories = blogCategories.toLowerCase().split(' ');
+      const found = pageCategories.some((r) => blogCategories.includes(r));
+      if (found === true) {
+        relatedPosts.push(allBlogPosts[i]);
+      }
+    }
 
-                    const found = pageCategories.some(r => blogCategories.includes(r))
-                    if (found === true) {
-                        relatedPosts.push(allBlogPosts[i])
-                    }
+    /* Get 4 latest related posts */
+    relatedLength = relatedPosts.length;
+    pushRelatedPosts = [];
+    for (i = relatedLength - 4; i < relatedLength; i++) {
+      pushRelatedPosts.push(relatedPosts[i]);
+    }
 
-                }
+    if (categoryOrRelated == "related") {
+      if (relatedLength > 4) {
+        relatedLength = 4;
+        relatedPosts = pushRelatedPosts;
+      }
+    }
 
-                /* Get 4 latest related posts */
-                relatedLength = relatedPosts.length;
-                pushRelatedPosts = [];
-                for (i = relatedLength - 4; i < relatedLength; i++) {
-                    pushRelatedPosts.push(relatedPosts[i]);
-                }
-
-                if (categoryOrRelated == "related") {
-                    if (relatedLength > 4) {
-                        relatedLength = 4;
-                        relatedPosts = pushRelatedPosts;
-                    }
-                }
-
-
-                /* Push to related Posts Section */
-                let relatedContainer = document.querySelectorAll('#relatedPosts');
-                for (i = 0; i < relatedLength; i++) {
-                    let snippetPost = `
+    /* Push to related Posts Section */
+    let relatedContainer = document.querySelectorAll("#relatedPosts");
+    for (i = 0; i < relatedLength; i++) {
+      let snippetPost = `
                     <article id='relatedPost${i}'>
                      <header>
                          <span class="date">${relatedPosts[i].date}</span>
@@ -1366,11 +1560,11 @@
                          <li><a href="${relatedPosts[i].postLink}" class="button">Full Story</a></li>
                      </ul>
                      </article>
-                `
-                    relatedContainer[0].insertAdjacentHTML("beforeend", snippetPost)
-                }
-                if (relatedLength % 2 !== 0) {
-                    snippetPost = `
+                `;
+      relatedContainer[0].insertAdjacentHTML("beforeend", snippetPost);
+    }
+    if (relatedLength % 2 !== 0) {
+      snippetPost = `
             <article id='placeholder'>
                  <header>
                      <span class="date"></span>
@@ -1382,36 +1576,36 @@
                      <li></li>
                  </ul>
                  </article>
-            `
-                    relatedContainer[0].insertAdjacentHTML("beforeend", snippetPost)
-                }
-            }
-            // ----------------------------------------------------------- Populate Categories Page -----------------------------------------------------------
-        const categoriesPage = () => {
-            blogPostsLength = allBlogPosts.length;
+            `;
+      relatedContainer[0].insertAdjacentHTML("beforeend", snippetPost);
+    }
+  };
+  // ----------------------------------------------------------- Populate Categories Page -----------------------------------------------------------
+  const categoriesPage = () => {
+    blogPostsLength = allBlogPosts.length;
 
-            let relatedPosts = [];
+    let relatedPosts = [];
 
-            /* Get Categories*/
-            let pageCategories = document.querySelectorAll('.posts')
-            pageCategories = pageCategories[0].className;
-            pageCategories = pageCategories.split(' ').splice(1, 5);
+    /* Get Categories*/
+    let pageCategories = document.querySelectorAll(".posts");
+    pageCategories = pageCategories[0].className;
+    pageCategories = pageCategories.split(" ").splice(1, 5);
 
-            /* Filter Blog Posts */
-            for (i = 0; i <= blogPostsLength - 1; i++) {
-                let blogCategories = allBlogPosts[i].category;
-                blogCategories = blogCategories.toLowerCase().split(' ');
-                const found = pageCategories.some(r => blogCategories.includes(r))
-                if (found === true) {
-                    relatedPosts.push(allBlogPosts[i])
-                }
-            }
+    /* Filter Blog Posts */
+    for (i = 0; i <= blogPostsLength - 1; i++) {
+      let blogCategories = allBlogPosts[i].category;
+      blogCategories = blogCategories.toLowerCase().split(" ");
+      const found = pageCategories.some((r) => blogCategories.includes(r));
+      if (found === true) {
+        relatedPosts.push(allBlogPosts[i]);
+      }
+    }
 
-            /* Push to related Posts Section */
-            relatedLength = relatedPosts.length;
-            let categoryContainer = document.querySelectorAll('#relatedPosts');
-            for (i = 0; i < relatedLength; i++) {
-                let snippetPost = `
+    /* Push to related Posts Section */
+    relatedLength = relatedPosts.length;
+    let categoryContainer = document.querySelectorAll("#relatedPosts");
+    for (i = 0; i < relatedLength; i++) {
+      let snippetPost = `
                 <article id='relatedPosts${i}'>
                      <header>
                          <span class="date">${relatedPosts[i].date}</span>
@@ -1423,97 +1617,111 @@
                          <li><a href="${relatedPosts[i].postLink}" class="button">Full Story</a></li>
                      </ul>
                      </article>
-                `
-                categoryContainer[0].insertAdjacentHTML("beforeend", snippetPost)
-            }
-        }
+                `;
+      categoryContainer[0].insertAdjacentHTML("beforeend", snippetPost);
+    }
+  };
 
-        return {
-            populateBlogPage,
-            allBlogPosts,
-            blogSignOff,
-            generateRelatedCategories,
-            categoriesPage,
-            getRecentPosts,
-        }
+  return {
+    populateBlogPage,
+    allBlogPosts,
+    blogSignOff,
+    generateRelatedCategories,
+    categoriesPage,
+    getRecentPosts,
+  };
+})();
 
-    })();
+// ----------------------------------------------------------- Homepage Functions  -----------------------------------------------------------
+const generateHomePageSnippets = (function () {
+  const allBlogPosts = generateBlogPosts.allBlogPosts;
 
+  const blogSnippetContainerFeatured = document.querySelector("#featured-post");
+  const blogSnippetContainer = document.querySelector("#blog-post-snippets");
+  // ----------------------------------------------------------- Get Categories & Generate HTML List  -----------------------------------------------------------
+  const categoriesCode = (categoryNum) => {
+    let categoriesList = allBlogPosts[categoryNum].category;
+    categoriesList = categoriesList.split(" ");
+    let categoriesHTML = "";
+    for (x = 0; x < categoriesList.length; x++) {
+      categoriesHTML = `${categoriesHTML}<a href="/${categoriesList[
+        x
+      ].toLowerCase()}">${categoriesList[x].replaceAll("-", " ")}</a>`;
+    }
+    console.log(categoriesHTML);
+    return {
+      code: `<span class = "related-category-link"> ${categoriesHTML}</span>`,
+      list: categoriesList,
+    };
+  };
 
-    // ----------------------------------------------------------- Homepage Functions  -----------------------------------------------------------
-    const generateHomePageSnippets = (function() {
-
-        const allBlogPosts = generateBlogPosts.allBlogPosts;
-
-        const blogSnippetContainerFeatured = document.querySelector('#featured-post');
-        const blogSnippetContainer = document.querySelector('#blog-post-snippets');
-        // ----------------------------------------------------------- Get Categories & Generate HTML List  -----------------------------------------------------------
-        const categoriesCode = (categoryNum) => {
-            let categoriesList = allBlogPosts[categoryNum].category;
-            categoriesList = categoriesList.split(" ");
-            let categoriesHTML = "";
-            for (x = 0; x < categoriesList.length; x++) {
-                categoriesHTML = `${categoriesHTML}<a href="/${categoriesList[x].toLowerCase()}">${categoriesList[x].replaceAll("-", ' ')}</a>`;
-            }
-            console.log(categoriesHTML)
-            return {
-                code: `<span class = "related-category-link"> ${categoriesHTML}</span>`,
-                list: categoriesList,
-            }
-
-        }
-
-        // ----------------------------------------------------------- Featured Post on Homepage -----------------------------------------------------------
-        const generateFeaturedPost = () => {
-                // Featured Post
-                let featuredPostLength = allBlogPosts.length - 1;
-                let featuredPost = `
+  // ----------------------------------------------------------- Featured Post on Homepage -----------------------------------------------------------
+  const generateFeaturedPost = () => {
+    // Featured Post
+    let featuredPostLength = allBlogPosts.length - 1;
+    let featuredPost = `
                 <header class="major">
-                    <span class="date">${allBlogPosts[featuredPostLength].date}</span>
-                    <h2><a href="${allBlogPosts[featuredPostLength].postLink}">${allBlogPosts[featuredPostLength].title}</a></h2>
+                    <span class="date">${
+                      allBlogPosts[featuredPostLength].date
+                    }</span>
+                    <h2><a href="${
+                      allBlogPosts[featuredPostLength].postLink
+                    }">${allBlogPosts[featuredPostLength].title}</a></h2>
                     <p>${allBlogPosts[featuredPostLength].snippet}</p>
                     
                 </header>
-                <a href="${allBlogPosts[featuredPostLength].postLink}" class="image main">${allBlogPosts[featuredPostLength].image}</a>
+                <a href="${
+                  allBlogPosts[featuredPostLength].postLink
+                }" class="image main">${
+      allBlogPosts[featuredPostLength].image
+    }</a>
                 ${categoriesCode(featuredPostLength).code}
                 <ul class="actions special">
-                    <li><a href="${allBlogPosts[featuredPostLength].postLink}" class="button large">Full Story</a></li>
+                    <li><a href="${
+                      allBlogPosts[featuredPostLength].postLink
+                    }" class="button large">Full Story</a></li>
                 </ul>
-                `
-                blogSnippetContainerFeatured.insertAdjacentHTML("afterbegin", featuredPost)
-            }
-            // ----------------------------------------------------------- Snippets on Homepage -----------------------------------------------------------
-        const generateSnippetPosts = (pageIncrement) => {
-                // Blog Post Snipets Page Identifier 
-                blogSnippetContainer.className = `posts page${pageIncrement}`
+                `;
+    blogSnippetContainerFeatured.insertAdjacentHTML("afterbegin", featuredPost);
+  };
+  // ----------------------------------------------------------- Snippets on Homepage -----------------------------------------------------------
+  const generateSnippetPosts = (pageIncrement) => {
+    // Blog Post Snipets Page Identifier
+    blogSnippetContainer.className = `posts page${pageIncrement}`;
 
-
-                // Populate Blog Post Snippets 
-                let blogSnippetsLengthStart = (allBlogPosts.length - 2) - 8 * (pageIncrement - 1);
-                let blogSnippetsLengthEnd = (allBlogPosts.length - 2) - (8 * pageIncrement);
-                for (i = blogSnippetsLengthStart; i > blogSnippetsLengthEnd; i--) {
-                    if (i < 0) {
-                        break
-                    }
-                    let snippetPost = `
+    // Populate Blog Post Snippets
+    let blogSnippetsLengthStart =
+      allBlogPosts.length - 2 - 8 * (pageIncrement - 1);
+    let blogSnippetsLengthEnd = allBlogPosts.length - 2 - 8 * pageIncrement;
+    for (i = blogSnippetsLengthStart; i > blogSnippetsLengthEnd; i--) {
+      if (i < 0) {
+        break;
+      }
+      let snippetPost = `
                         <article id='${i}'>
                         <header>
                             <span class="date">${allBlogPosts[i].date}</span>
-                            <h2><a href="${allBlogPosts[i].postLink}">${allBlogPosts[i].title}</a></h2>
+                            <h2><a href="${allBlogPosts[i].postLink}">${
+        allBlogPosts[i].title
+      }</a></h2>
                         </header>
-                        <a href="${allBlogPosts[i].postLink}" class="image fit">${allBlogPosts[i].image}</a>
+                        <a href="${
+                          allBlogPosts[i].postLink
+                        }" class="image fit">${allBlogPosts[i].image}</a>
                         ${categoriesCode(i).code}
                         <p>${allBlogPosts[i].snippet}</p>
                         <ul class="actions special">
-                            <li><a href="${allBlogPosts[i].postLink}" class="button">Full Story</a></li>
+                            <li><a href="${
+                              allBlogPosts[i].postLink
+                            }" class="button">Full Story</a></li>
                         </ul>
                         </article>
-                    `
-                    blogSnippetContainer.insertAdjacentHTML("beforeend", snippetPost)
-                }
-                let isEmptySpace = document.querySelectorAll('#blog-post-snippets article')
-                if (isEmptySpace % 2 !== 0) {
-                    let palceholderSnippet = `
+                    `;
+      blogSnippetContainer.insertAdjacentHTML("beforeend", snippetPost);
+    }
+    let isEmptySpace = document.querySelectorAll("#blog-post-snippets article");
+    if (isEmptySpace % 2 !== 0) {
+      let palceholderSnippet = `
                 <article id='placeholder'>
                  <header>
                      <span class="date"></span>
@@ -1525,99 +1733,99 @@
                      <li></li>
                  </ul>
                  </article>
-            `
-                    blogSnippetContainer.insertAdjacentHTML("beforeend", palceholderSnippet)
-                }
-            }
-            // ----------------------------------------------------------- Change Homepage Page Number -----------------------------------------------------------
-        const changeBlogSnippetPage = (pageNum) => {
-            blogSnippetContainerFeatured.innerHTML = "";
-            blogSnippetContainer.innerHTML = "";
-            pageNum = Number(pageNum);
-            if (pageNum == 1) {
-                // blogSnippetContainerFeatured.className.replace(' hide', '');
-                blogSnippetContainerFeatured.classList.remove('hide');
-                generateFeaturedPost();
-            } else {
-                blogSnippetContainerFeatured.classList.add('hide');
-            }
-            /* Active Button */
-            generateSnippetPosts(pageNum);
-            let currentPage = blogSnippetContainer.className;
-            currentPage = Number(currentPage.charAt(currentPage.length - 1));
-            let activeButton = document.querySelectorAll('.paginationBtn');
-            for (i = 0; i < activeButton.length; i++) {
-                activeButton[i].classList.remove('active');
-                if (i == currentPage) {
-                    activeButton[i].classList.add('active');
-                }
-            }
-
-        }
-
-        const previousOrNextHomePage = (plusMinus) => {
-            let currentPage = blogSnippetContainer.className;
-            currentPage = Number(currentPage.charAt(currentPage.length - 1));
-            let maxPages = getNumberOfPages()
-            if (plusMinus == "plus") {
-                if (currentPage >= maxPages) {
-                    changeBlogSnippetPage(currentPage);
-                } else {
-                    currentPage = currentPage + 1;
-                    changeBlogSnippetPage(currentPage);
-                }
-            }
-            if (plusMinus == "minus") {
-                if (currentPage === 1) {
-                    changeBlogSnippetPage(1);
-                } else {
-                    currentPage = currentPage - 1;
-                    changeBlogSnippetPage(currentPage);
-                }
-            }
-
-        }
-        const getNumberOfPages = () => {
-            const postNumber = allBlogPosts.length - 9;
-            let pageCount = Math.ceil(postNumber / 8) + 1;
-            return pageCount;
-        }
-        const populatePaginationButtons = () => {
-            let pageCount = getNumberOfPages()
-            let paginationContainer = document.querySelector('#pagination-buttons');
-            paginationContainer.insertAdjacentHTML("beforeend", `<a href="#" class="previous paginationBtn" onclick="generateHomePageSnippets.previousOrNextHomePage('minus')">Prev</a>`)
-            paginationContainer.insertAdjacentHTML("beforeend", `<a href="#" class="page paginationBtn active" onclick="generateHomePageSnippets.changeBlogSnippetPage('1')">1</a>`)
-            for (i = 2; i < pageCount + 1; i++) {
-                paginationContainer.insertAdjacentHTML("beforeend", `<a href="#" class="page paginationBtn" onclick="generateHomePageSnippets.changeBlogSnippetPage('${i}')">${i}</a>`)
-            }
-            paginationContainer.insertAdjacentHTML("beforeend", `<a href="#" class="next paginationBtn" onclick="generateHomePageSnippets.previousOrNextHomePage('plus')">Next</a>`)
-        }
-
-
-
-        return {
-            generateFeaturedPost,
-            generateSnippetPosts,
-            populatePaginationButtons,
-            changeBlogSnippetPage,
-            previousOrNextHomePage,
-            categoriesCode,
-        }
-
-
-
-
-    })();
-
-
-    function homePopulateSnippets() {
-        generateHomePageSnippets.generateFeaturedPost()
-        generateHomePageSnippets.generateSnippetPosts(1)
-        generateHomePageSnippets.populatePaginationButtons()
-        generateHomePageSnippets.previousOrNextHomePage()
-
+            `;
+      blogSnippetContainer.insertAdjacentHTML("beforeend", palceholderSnippet);
     }
+  };
+  // ----------------------------------------------------------- Change Homepage Page Number -----------------------------------------------------------
+  const changeBlogSnippetPage = (pageNum) => {
+    blogSnippetContainerFeatured.innerHTML = "";
+    blogSnippetContainer.innerHTML = "";
+    pageNum = Number(pageNum);
+    if (pageNum == 1) {
+      // blogSnippetContainerFeatured.className.replace(' hide', '');
+      blogSnippetContainerFeatured.classList.remove("hide");
+      generateFeaturedPost();
+    } else {
+      blogSnippetContainerFeatured.classList.add("hide");
+    }
+    /* Active Button */
+    generateSnippetPosts(pageNum);
+    let currentPage = blogSnippetContainer.className;
+    currentPage = Number(currentPage.charAt(currentPage.length - 1));
+    let activeButton = document.querySelectorAll(".paginationBtn");
+    for (i = 0; i < activeButton.length; i++) {
+      activeButton[i].classList.remove("active");
+      if (i == currentPage) {
+        activeButton[i].classList.add("active");
+      }
+    }
+  };
 
+  const previousOrNextHomePage = (plusMinus) => {
+    let currentPage = blogSnippetContainer.className;
+    currentPage = Number(currentPage.charAt(currentPage.length - 1));
+    let maxPages = getNumberOfPages();
+    if (plusMinus == "plus") {
+      if (currentPage >= maxPages) {
+        changeBlogSnippetPage(currentPage);
+      } else {
+        currentPage = currentPage + 1;
+        changeBlogSnippetPage(currentPage);
+      }
+    }
+    if (plusMinus == "minus") {
+      if (currentPage === 1) {
+        changeBlogSnippetPage(1);
+      } else {
+        currentPage = currentPage - 1;
+        changeBlogSnippetPage(currentPage);
+      }
+    }
+  };
+  const getNumberOfPages = () => {
+    const postNumber = allBlogPosts.length - 9;
+    let pageCount = Math.ceil(postNumber / 8) + 1;
+    return pageCount;
+  };
+  const populatePaginationButtons = () => {
+    let pageCount = getNumberOfPages();
+    let paginationContainer = document.querySelector("#pagination-buttons");
+    paginationContainer.insertAdjacentHTML(
+      "beforeend",
+      `<a href="#" class="previous paginationBtn" onclick="generateHomePageSnippets.previousOrNextHomePage('minus')">Prev</a>`
+    );
+    paginationContainer.insertAdjacentHTML(
+      "beforeend",
+      `<a href="#" class="page paginationBtn active" onclick="generateHomePageSnippets.changeBlogSnippetPage('1')">1</a>`
+    );
+    for (i = 2; i < pageCount + 1; i++) {
+      paginationContainer.insertAdjacentHTML(
+        "beforeend",
+        `<a href="#" class="page paginationBtn" onclick="generateHomePageSnippets.changeBlogSnippetPage('${i}')">${i}</a>`
+      );
+    }
+    paginationContainer.insertAdjacentHTML(
+      "beforeend",
+      `<a href="#" class="next paginationBtn" onclick="generateHomePageSnippets.previousOrNextHomePage('plus')">Next</a>`
+    );
+  };
 
+  return {
+    generateFeaturedPost,
+    generateSnippetPosts,
+    populatePaginationButtons,
+    changeBlogSnippetPage,
+    previousOrNextHomePage,
+    categoriesCode,
+  };
+})();
 
-    generateBlogPosts.populateBlogPage()
+function homePopulateSnippets() {
+  generateHomePageSnippets.generateFeaturedPost();
+  generateHomePageSnippets.generateSnippetPosts(1);
+  generateHomePageSnippets.populatePaginationButtons();
+  generateHomePageSnippets.previousOrNextHomePage();
+}
+
+generateBlogPosts.populateBlogPage();
