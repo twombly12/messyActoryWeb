@@ -13,139 +13,149 @@ app.use(express.json());
 
 /* -------------------------- Home -------------------------- */
 app.get("/", (request, response) => {
-  response.sendFile("/index.html");
+    response.sendFile("/index.html");
 });
 
 /* -------------------------- Categories -------------------------- */
 app.get("/acting-habits", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/acting-habits.html");
+    response.sendFile(__dirname + "/public/Categories/acting-habits.html");
 });
 app.get("/agents", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/agents.html");
+    response.sendFile(__dirname + "/public/Categories/agents.html");
 });
 app.get("/auditions", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/auditions.html");
+    response.sendFile(__dirname + "/public/Categories/auditions.html");
 });
 app.get("/getting-started", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/getting-started.html");
+    response.sendFile(__dirname + "/public/Categories/getting-started.html");
 });
 app.get("/industry-tips", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/industry-tips.html");
+    response.sendFile(__dirname + "/public/Categories/industry-tips.html");
 });
 app.get("/organization", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/organization.html");
+    response.sendFile(__dirname + "/public/Categories/organization.html");
 });
 app.get("/preparation", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/preparation.html");
+    response.sendFile(__dirname + "/public/Categories/preparation.html");
 });
 app.get("/mindset", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/mindset.html");
+    response.sendFile(__dirname + "/public/Categories/mindset.html");
 });
 app.get("/learning-from-others", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/learning-from-others.html");
+    response.sendFile(__dirname + "/public/Categories/learning-from-others.html");
 });
 app.get("/scene-study", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/scene-study.html");
+    response.sendFile(__dirname + "/public/Categories/scene-study.html");
 });
 app.get("/training", (request, response) => {
-  response.sendFile(__dirname + "/public/Categories/training.html");
+    response.sendFile(__dirname + "/public/Categories/training.html");
 });
 
 /* -------------------------- Posts -------------------------- */
 app.get("/5-things-to-expect-from-your-talent-agent", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/5-things-to-expect-from-your-talent-agent.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/5-things-to-expect-from-your-talent-agent.html"
+    );
 });
 app.get("/5-things-to-know-about-headshots", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/5-things-to-know-about-headshots.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/5-things-to-know-about-headshots.html"
+    );
 });
 app.get(
-  "/6-ways-to-have-a-better-relationship-with-your-agent",
-  (request, response) => {
-    response.sendFile(
-      __dirname +
-        "/public/Posts/6-ways-to-have-a-better-relationship-with-your-agent.html"
-    );
-  }
+    "/6-ways-to-have-a-better-relationship-with-your-agent",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/6-ways-to-have-a-better-relationship-with-your-agent.html"
+        );
+    }
 );
 app.get("/8-things-to-avoid-in-an-acting-agent", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/8-things-to-avoid-in-an-acting-agent.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/8-things-to-avoid-in-an-acting-agent.html"
+    );
 });
 app.get("/8-tips-on-how-to-become-an-actor", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/8-tips-on-how-to-become-an-actor.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/8-tips-on-how-to-become-an-actor.html"
+    );
 });
 app.get(
-  "/14-things-to-keep-track-of-when-you-auditions",
-  (request, response) => {
-    response.sendFile(
-      __dirname +
-        "/public/Posts/14-things-to-keep-track-of-when-you-auditions.html"
-    );
-  }
+    "/14-things-to-keep-track-of-when-you-auditions",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/14-things-to-keep-track-of-when-you-auditions.html"
+        );
+    }
 );
 app.get("/5-thoughts-to-eliminate-as-an-actor", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/5-thoughts-to-eliminate-as-an-actor.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/5-thoughts-to-eliminate-as-an-actor.html"
+    );
 });
 app.get("/6-tips-on-how-to-handle-audition-nerves", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/6-tips-on-how-to-handle-audition-nerves.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/6-tips-on-how-to-handle-audition-nerves.html"
+    );
 });
 app.get(
-  "/6-ways-to-break-negative-thinking-as-an-actor",
-  (request, response) => {
-    response.sendFile(
-      __dirname +
-        "/public/Posts/6-ways-to-break-negative-thinking-as-an-actor.html"
-    );
-  }
+    "/6-ways-to-break-negative-thinking-as-an-actor",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/6-ways-to-break-negative-thinking-as-an-actor.html"
+        );
+    }
 );
 app.get("/5-acting-lessions-from-squid-game-pilot", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/5-acting-lessions-from-squid-game-pilot.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/5-acting-lessions-from-squid-game-pilot.html"
+    );
 });
 app.get("/7-tips-on-how-to-handle-audition-nerves", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/7-tips-on-how-to-handle-audition-nerves.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/7-tips-on-how-to-handle-audition-nerves.html"
+    );
 });
 app.get("/5-breathing-exercises-for-actors", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/5-breathing-exercises-for-actors.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/5-breathing-exercises-for-actors.html"
+    );
 });
 app.get(
-  "/6-ways-to-break-negative-thinking-as-an-actor",
-  (request, response) => {
-    response.sendFile(
-      __dirname +
-        "/public/Posts/6-ways-to-break-negative-thinking-as-an-actor.html"
-    );
-  }
+    "/6-ways-to-break-negative-thinking-as-an-actor",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/6-ways-to-break-negative-thinking-as-an-actor.html"
+        );
+    }
 );
 app.get("/4-answers-to-the-question-how-do-actors-cry", (request, response) => {
-  response.sendFile(
-    __dirname + "/public/Posts/4-answers-to-the-question-how-do-actors-cry.html"
-  );
+    response.sendFile(
+        __dirname + "/public/Posts/4-answers-to-the-question-how-do-actors-cry.html"
+    );
 });
 app.get(
-  "/7-things-i-learned-as-number-1-on-the-callsheet",
-  (request, response) => {
-    response.sendFile(
-      __dirname +
-        "/public/Posts/7-things-i-learned-as-number-1-on-the-callsheet.html"
-    );
-  }
+    "/7-things-i-learned-as-number-1-on-the-callsheet",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/7-things-i-learned-as-number-1-on-the-callsheet.html"
+        );
+    }
+);
+
+app.get(
+    "/3-props-to-use-during-your-auditions",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/3-props-to-use-during-your-auditions.html"
+        );
+    }
 );
 
 /* ------------------------------------------------------------------- */
@@ -211,38 +221,38 @@ Contact Form
 -------------------------------------------------------------------*/
 
 app.post("/", (req, res) => {
-  const transporter = nodemailer.createTransport({
-    service: "gmail",
-    auth: {
-      user: process.env.SECRET_ID,
-      pass: process.env.SECRET_KEY,
-    },
-  });
-  const mailOptions = {
-    from: `req.body.email`,
-    to: process.env.SECRET_ID,
-    subject: `Message from ${req.body.name}`,
-    text: `Name: ${req.body.name}
+    const transporter = nodemailer.createTransport({
+        service: "gmail",
+        auth: {
+            user: process.env.SECRET_ID,
+            pass: process.env.SECRET_KEY,
+        },
+    });
+    const mailOptions = {
+        from: `req.body.email`,
+        to: process.env.SECRET_ID,
+        subject: `Message from ${req.body.name}`,
+        text: `Name: ${req.body.name}
 Email:${req.body.email}
 Message: ${req.body.message}`,
-  };
+    };
 
-  transporter.sendMail(mailOptions, (error, info) => {
-    if (error) {
-      res.send("error");
-    } else {
-      res.send("success");
-      res.redirect("/");
-    }
-  });
+    transporter.sendMail(mailOptions, (error, info) => {
+        if (error) {
+            res.send("error");
+        } else {
+            res.send("success");
+            res.redirect("/");
+        }
+    });
 });
 
 /* -------------------------- 404 -------------------------- */
 app.use((request, response, next) => {
-  response.status(404).sendFile(__dirname + "/public/404.html");
+    response.status(404).sendFile(__dirname + "/public/404.html");
 });
 
 /* -------------------------- Listen -------------------------- */
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+    console.log(`Server running on port ${PORT}`);
 });
