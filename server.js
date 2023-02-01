@@ -158,6 +158,16 @@ app.get(
     }
 );
 
+app.get(
+    "/7-ways-to-be-a-good-reader",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/7-ways-to-be-a-good-reader.html"
+        );
+    }
+);
+
 /* ------------------------------------------------------------------- */
 
 // const http = require("http")

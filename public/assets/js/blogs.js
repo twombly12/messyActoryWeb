@@ -1503,6 +1503,121 @@ const generateBlogPosts = (function() {
     <h3>Wishing you many intricate auditions! </h3>
     `
         },
+        // -------------------------------- 15th Post --------------------------
+        // -------------------------------- 15th Post --------------------------
+        // -------------------------------- 15th Post --------------------------
+        // -------------------------------- 15th Post --------------------------
+        // -------------------------------- 15th Post --------------------------
+        {
+            "postNum": " blogPost14 ",
+            "category": "Auditions Industry-tips",
+            "postLink": "/7-ways-to-be-a-good-reader",
+            "title": ` 7 Ways To Be A Good Reader
+            `,
+            "image": `<picture>
+<source srcset="../assets/images/reader.webp" type="image/webp">
+<source srcset="../assets/images/reader.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/reader.webp" alt="Actor holding up a mask and dramacitcally over acting while reading script">
+</picture>`,
+            "date": `Feb 2, 2023`,
+            "snippet": `<p> So you’ve been asked to be a reader for someone’s self tape, and you want to do your best to make sure they succeed. Maybe you’re an actor and you’re new to this, or maybe you’re a sweet friend or family member who wants to be supportive. Either way, thank you for stopping by, on behalf of all actors.  </p>`,
+            "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> 7 Ways To Be A Good Reader </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> Read the scene before the tape  </a></li>
+        <li>
+            <a href="#sectionTwo"> Read with intent and clarity </a></li>
+        <li>
+            <a href="#sectionThree"> Make sure your space is quiet: </a></li>
+        <li>
+            <a href="#sectionFour"> Never stop the scene or correct the actor mid-scene </a></li>
+        <li>
+            <a href="#sectionFive"> Provide an eye line </a></li>
+        <li>
+            <a href="#sectionSix"> Don’t out-act the person on camera  </a></li>
+        <li>
+            <a href="#sectionSeven"> Be Patient </a></li>
+
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+            "content": `
+    <p> Before we get into the various ways you can be a good reader. Let’s define what a reader is, for any of you who don’t know!  </p>
+
+    <p> <b>READER:</b> A person who reads the other characters' lines in a scene, during an audition. Frequently this person allows the actor to have someone to play off of. This person can be anyone from a colleague, another actor, a casting director, a producer or even just a regular person who despite their best effort to avoid this job, knows an actor and has been asked to help them with their audition. </p>
+    <p> Since the pandemic, becoming a reader has changed a little bit. Many more auditions are now done virtually, and so I have split each point into how it applies <i>In Person</i> and <i>Online.</i>  </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Read the scene before the tape </h2>
+            <p> <i>Applicable Online and In person:</i></p>
+            <p> You don’t necessarily have to do any homework as a reader, but it does help to have some sort of understanding of what you’re reading for the audition. There are a few reasons for this. </p>
+            <p> Firstly, no one likes to have a reader who has NO CLUE what they’re saying. It can be incredibly distracting for the actor and those viewing the tape if you sound like a 4th grader who was just called to read the next portion of the book assignment out loud. </p>
+            <p> Second of all, it’s very possible that you will be reading more than one character as a reader, and it’s good to figure out when you are pausing for the actor to say their lines, and when you are to continue reading. </p>
+            <p> Finally, a lot happens in auditions. It’s very likely there are cues in the action portion of the script (the part that isn’t dialogue) that could help cue the actor. Perhaps it’s a knocking at the door, a gunshot, a handing of a parcel..etc. If you know those are there, you can signal something with your body or make a sound effect to help your actor friend out. </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> Read with intent and clarity</h2>
+            <p> Despite what some people may say, it is incredibly important that the reader is heard clearly on the self-tape. Some will argue that producers and directors know the material, so it doesn’t matter that the reader is heard, but that is incorrect. Those watching the tape do know the material, but it’s not like they know it by heart. Also, they are watching so many audition tapes that it’s best to have them hear what the reader is saying. If they don’t, all it’s doing is distracting them from the actor’s acting. </p>
+            <p> As a reader, you want to speak with intent, meaning no lifeless monotone delivery. Just sound like a normal person having a conversation, you’re invested and listening. We’ll get more into this point later with <i>Don’t out act the person on camera</i>.</p>
+            <p> You also want to be clear, meaning you’re not mumbling, and you’re speaking at a normal pace that is understandable for those listening back.  </p>
+            <p> <i> In-person:  </i></p>
+            <p> Make sure you’re not so close to the camera mic, that you’re louder than the actor on camera. If you are behind the camera this shouldn’t be a problem. </p>
+            <p> <i> Online:  </i></p>
+            <p> Make sure you are close to your microphone, but not so close that you’re peaking the levels on their end. I would ask the actor before you start taping if the volume is good for them. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> Make sure your space is quiet:</h2>
+            <p> Obviously, when you are filming a self-tape, the space needs to be rid of any outside noises so as to reduce as much distraction as possible. </p>
+            <p> <i> In-person:  </i></p>
+            <p> Make sure your phone is off, so as not to interrupt the tape mid-scene. It helps if you aren’t wearing fabrics that make noise or any jewelry that could “jingle jangle” during the tape. Also, don’t chew gum while reading, that is a noise no one wants to hear during their tape. </p>
+            <p> <i> Online:  </i></p>
+            <p> Since you and the actor are not in the same space, make sure your online platform audio settings are set to minimize outdoor noise. On Zoom you can set the filter to High, Medium, Low, or Auto and this will keep out noises on your end like sirens or dogs barking. </p>
+            <p> Another thing you can do, is if there is a particularly long monologue or part in the scene where you aren’t needed audibly, you can mute your microphone to avoid any accidental noises getting on their tape. I find this particularly useful in comedic scenes where all I want to do is laugh! </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> Never stop the scene or correct the actor mid-scene</h2>
+            <p> As a reader, you are there to facilitate the actor in their audition. Therefore you don’t have a say on when to cut the scene or stop it. Very often a scene will begin before the dialogue starts and end well after the last line has been said. </p>
+            <p> A good practice is to follow what the actor does. Very likely if you have the first line in a scene, they may ask you to take a moment off the top, meaning they want you to give them some time to set the scene before you start speaking. The same can happen at the end of the scene. If you have the last line, they will want to take the time to react to what you said before ending the scene. </p>
+            <p> Therefore, unless they break character, call cut or start speaking to you outside the scene, assume you’re in it. </p>
+            <p> Another common mistake new readers make is they correct the actor on the lines. There are various beliefs on whether or not an actor needs to be script perfect in an audition, but for the sake of this blog, let’s assume that we don’t care for a few grammatical or paraphrasing errors. If the actor misses a word or screws up their line, try and keep going for their sake. If they feel it's unsalvagable, they’ll stop it.  </p>
+            <p> <i> Online:  </i></p>
+            <p> The only time I would say you can really stop a scene is if your online platform has completely frozen on you. In this case, I would give it some time to unfreeze, and if it’s not working, then you can say: “shoot you’re frozen” to which the actor can’t fault you for ruining their take, because they would have been silently waiting for your line on the other end anyway. </p>
+        </li>
+        <li>
+            <h2 id="sectionFive"> Provide an eye line</h2>
+            <p> An eye line is where the actor is looking off-camera when doing the self-tape. This is a bit complicated in that it really depends on what sort of setup the self-tape is being done in. 
+            If you are, as a reader, behind the camera, then standing to either the left of the lens or the right of the lens, can help the actor meet your eyes and act with you. Unfortunately, not every setup has that ability. 
+            </p>
+            <p> If you can meet their eyes, and it’s at the right height for the camera, then that’s a bonus! If you can’t, then there’s really nothing for you to do about that, and the actor will have to figure it out.</p>
+            <p> <i> Online:  </i></p>
+            <p> This doesn’t apply to online reading, as webcams are often either too low or too high to make direct eye contact with the person acting. Just make sure they can see your face, and even then, they may not even be able to see you while doing their tape if their online self-tape setup doesn’t allow it.</p>
+        </li>
+        <li>
+            <h2 id="sectionSix"> Don’t out-act the person on camera </h2>
+            <p> Every actor has someone in their life they asked to read with, and then never read with again. This likely was because the person who was supposed to be behind the camera thought they were in front of it.  It’s in poor taste to try and outshine the person who is actually auditioning. </p>
+            <p> Sometimes people do this unintentionally, they are just so excited to be helping an actor with a tape that they get dramatic and lost in the scene.</p>
+            <p> As a good reader, you want to be slightly subdued. You do want to be engaging in the scene, but you aren’t going to get emotional or make the scene about you, because it's not about you.</p>
+        </li>
+        <li>
+            <h2 id="sectionSeven"> Be Patient</h2>
+            <p> This is easier to do if you are an actor and know the feelings, doubts, and judgments that arise during a self-tape. However, let it be known: as a reader, you are going to have to read that scene several times. Depending on who you are reading with, you may have to do the scene 4, 5,10, 20 times. Now personally I wouldn’t recommend any actor do 20 takes, however, you may be reading for someone who will do that many. 
+            </p>
+            <p> There is nothing worse than having a reader who doesn’t want to be there, whose energy is “you are wasting my time” or “we have to do it again?!” If you want to be a good reader for your actor friend/spouse/colleague then agree that you are there to help them until they feel they got it. If you can’t do that, don’t agree to read for them. </p>
+            <p> As actors every audition is a chance to book a job, and it’s a chance that doesn’t come as frequently as we like. There are pressures, expectations, and nerves to auditioning, it helps if we don’t have a reader who is adding guilt or judgment on top of that.</p>
+        </li>
+       
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>Being a reader can actually be quite fun! You get to be transported into another world for a little bit and get to play various different parts across from the actor. It’s a place of giving and support. Quite frankly, also a place of play, which if you aren’t an actor is not something that is offered to us day to day. </p>
+        <p>I hope you will be bold enough to send this to your new reader friend, whether it be your mom or your spouse, or perhaps a co-worker who has no idea what they’ve agreed to. 
+        </p>
+        <p>If you have been sent this, know that the actor who sent it to you trusts you immensely. We don’t ask just anyone to be a reader, we usually ask someone we trust, someone who supports us, and won’t judge our acting. So thank you, reader, for reading this, and being a part of our dream! </p>
+        </li>
+    </ol>
+    <h3>Wishing you wonderful readers from now on!</h3>
+    `
+        },
     ];
     // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
 
