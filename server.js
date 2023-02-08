@@ -50,6 +50,9 @@ app.get("/scene-study", (request, response) => {
 app.get("/training", (request, response) => {
     response.sendFile(__dirname + "/public/Categories/training.html");
 });
+app.get("/everyday-life", (request, response) => {
+    response.sendFile(__dirname + "/public/Categories/everyday-life.html");
+});
 
 /* -------------------------- Posts -------------------------- */
 app.get("/5-things-to-expect-from-your-talent-agent", (request, response) => {
@@ -164,6 +167,16 @@ app.get(
         response.sendFile(
             __dirname +
             "/public/Posts/7-ways-to-be-a-good-reader.html"
+        );
+    }
+);
+
+app.get(
+    "/things-to-expect-when-dating-an-actor",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/things-to-expect-when-dating-an-actor.html"
         );
     }
 );

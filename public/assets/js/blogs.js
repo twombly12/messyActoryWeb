@@ -1618,6 +1618,102 @@ const generateBlogPosts = (function() {
     <h3>Wishing you wonderful readers from now on!</h3>
     `
         },
+        // -------------------------------- 16th Post --------------------------
+        // -------------------------------- 16th Post --------------------------
+        // -------------------------------- 16th Post --------------------------
+        // -------------------------------- 16th Post --------------------------
+        // -------------------------------- 16th Post --------------------------
+        {
+            "postNum": " blogPost15 ",
+            "category": "Getting-Started Industry-Tips Everyday-Life",
+            "postLink": "/things-to-expect-when-dating-an-actor",
+            "title": ` Things to Expect when Dating an Actor `,
+            "image": `<picture>
+<source srcset="../assets/images/dating-an-actor.webp" type="image/webp">
+<source srcset="../assets/images/dating-an-actor.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/dating-an-actor.webp" alt="a couple holding hands while going for a walk in the woods">
+</picture>`,
+            "date": `Feb 8, 2023`,
+            "snippet": `<p> I am a little biased when I say- scratch that, I am completely biased when I say: Dating an actor is an adventure you want to go on! Just like all adventures, there are highs and lows and surprises around every corner but I believe it’s well worth it!   </p>`,
+            "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> 4 Things to Expect when Dating an Actor </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> Is it hard to date an actor?  </a></li>
+        <li>
+            <a href="#sectionTwo"> Do actors fall in love at work? </a></li>
+        <li>
+            <a href="#sectionThree"> Actors need you to emotionally support and believe in them. </a></li>
+        <li>
+            <a href="#sectionFour"> Dealing with the emotional ups and downs. </a></li>
+        <li>
+            <a href="#sectionFive"> They may ask you to be their reader or rehearse with them </a></li>
+        <li>
+            <a href="#sectionSix"> Actors need silence (get headphones!) </a></li>
+      
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+            "content": `
+    <p> With Valentines Day around the corner, I felt the need to tackle love and what it’s like to date an actor!  </p>
+    <p> Maybe you are here because you just started dating an actor and have no idea what that adventure entails. Or, maybe you are an actor and want to pass along to your new hot thing, what they can expect. </p>
+    <p> But let’s get those two questions that are burning inside you, answered first. </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Is it hard to date an actor? </h2>
+            <p> It can be, but it doesn’t have to be. The main reason it would be hard to date an actor is that their life doesn’t fit into the societal 9-to-5 lifestyle. Set life is long hours and auditions are the equivalent of being on call. We have to accommodate them, despite them typically being last minute. </p>
+            <p> It’s very likely that we could cancel plans to prep for an audition since every audition is an opportunity and not one that comes as often as we’d like. Or we may book a job, in which case you best believe we are dropping everything else in our schedule to work it. </p>
+            <p> Another reason it may be hard to date an actor is the intimacy that we explore on set, for certain roles. It often can beg the question for non-actors:</p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> Do actors fall in love at work?</h2>
+            <p> Intimate scenes with someone who isn’t your romantic partner can be just as awkward 
+            for us as it is for you. In many cases, we meet the person we are going to be romantic with that same day! Not only that, but romantic scenes with kissing or sexual acts are all choreographed and are not as sexy as they seem in the final product. Don’t forget - we have an entire crew watching us while these intimate scenes happen!  </p>
+            <p> I can’t say that actors don’t fall in love at work, since we see it all the time with celebrities, however, it’s just as common for actors to do the job and not feel a lick of desire from their acting colleagues. Either way, this is a conversation you need to have with your partner. Jealousy is likely to come up at some point, but it should never impede the job or the relationship.  As the non-actor, you need to trust that your romantic partner, who is an actor, values your relationship and won’t be swayed at work. It is our job, we take it seriously. That’s why: </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> Actors need you to emotionally support and believe in them.</h2>
+            <p> Actors work in an industry that is very unforgiving. We get rejected daily, and we are, in a lot of ways, seen as replaceable. In order to do what we love we have to fight very hard to get there. We need immense belief in ourselves, and as such we want our partners to do the same. We want you to be excited by our work, we want you at our shows, premieres, and galas, we want you to lift us up when the industry kicks us down, and most importantly, we want to jump up and down with you when we book a role. </p>
+            <p> Your support indicates to us that you respect us and our dreams. I think every actor has dated someone who doesn’t take their job seriously, who mocks them or belittles their accomplishments, who downplay their successes. We already have inner critics for that, that isn’t your job. When you date an actor you are their cheerleader.</p>
+            <p> The industry can be very cruel which is why, when you date an actor prepare yourself for:</p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> Dealing with the emotional ups and downs.</h2>
+            <p> Unlike a typical 9-to5 job, as actors, we are technically freelance entrepreneurs, our talent, and image is the product we sell. And, we spend most of our time unemployed with the hope that our next audition will be a job. Our life could change overnight with the right booking, and this constant balancing act of “could this be it?” hangs over us and creates a rollercoaster of emotions. </p>
+            <p> We can go from being devastated to not having auditioned in a few weeks, to perking right up when an audition comes through the door, to stressing about how to make it stand out, to being really proud of our work, to doubting our work, to getting excited over a callback, and back to depressed because we never heard back despite our best efforts.  This is very common and unfortunately may become somewhat contagious. 
+            </p>
+            <p> The reality is, when you date an actor you may find yourself immersed in their world. </p>
+        </li>
+        <li>
+            <h2 id="sectionFive"> They may ask you to be their reader or rehearse with them</h2>
+            <p> Due to the emotional rollercoaster mentioned above, as actors we want to make sure that the work we do is great work, and that we are prepared for our auditions, rehearsals, and working days. As such we will need to run our lines - and the best way to run lines is out loud with someone else. And you may be that someone. </p>
+            <p> t’s very important that if we ask you, you are available and eager. This goes hand in hand with support. If you are a non-actor, you likely were not our first choice… or the second, we would much rather have someone who knows the craft to help us out. So, if we are asking you, we are in dire need of you and it’s possible that we also feel like a burden. The best thing you can do is say yes and let us tell you what we need. </p>
+            <p> If you want to go the extra mile and put the work in to be a good reader: Check out these tips at <a href="/7-ways-to-be-a-good-reader">7 Ways To Be  A Good Reader</a></p>
+            <p> If we don’t ask you to be our reader, and you live with us expect that - </p>
+        </li>
+        <li>
+            <h2 id="sectionSix"> Actors need silence (get headphones!)</h2>
+            <p> There are two reasons actors will need silence. Either they are auditioning or they are working their scene out loud. </p>
+            <p> Audition quality is important. Putting aside talent or preparation, the technical aspects of auditioning are equally as important. The sound quality of an audition is at the top. We need to be heard clearly without any noise disruptions. Therefore, you cannot be listening to music loudly in the other room or it may pick up on our tape.  You should also make sure not to shower, run a blender or make any loud noises while we are taping. </p>
+            <p> The other time we need silence is if we are working our scene out loud. This likely will look like this: </p>
+            <ul>
+                <li> We are pacing in a room with our sides in our hands  </li>
+                <li> Repeating lines in different ways </li>
+                <li> Reading things out loud </li>
+                <li> Asking questions out loud </li>
+                <li> Trying out different emotions…crying, yelling, laughing…etc </li>
+            </ul>
+            <p> Just overall being loud.  So when I say, get headphones, on the one hand, I say it for the actor, on the other I say it for your own sanity. You may not want to listen to us repeating the same line over and over. </p>
+        </li>
+               <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>Though it may seem like dating an actor is a lot of work, I do believe it is quite worth it. You will be dating someone who has drive, goals and dreams worth fighting for. They are curious about the human condition, and for that reason, you may find yourself heard and seen in ways you haven’t before. Since actors pursue feelings and how to communicate them, you will find yourself deeply loved and cared for and most likely intricately questioned about your emotional states. </p>
+        </li>
+        <p>Of course, not all actors are the same - so if you are reading this as someone who is a non-actor, please do me the favour of asking them what parts of this blog apply to them and what don’t! </p>
+    </ol>
+    <h3>Wishing you love and happiness in your quest of dating an actor! </h3>
+    `
+        },
     ];
     // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
 
@@ -1662,6 +1758,7 @@ const generateBlogPosts = (function() {
                         <li><a href="/acting-habits">Acting Habits</a></li>
                         <li><a href="/agents">Agents</a></li>
                         <li><a href="/auditions">Auditions</a></li>
+                        <li><a href="/everyday-life">Everyday Life</a></li>
                         <li><a href="/getting-started">Getting Started</a></li>
                         <li><a href="/industry-tips">Industry Tips</a></li>
                         <li><a href="/learning-from-others">Learning From Others</a></li>
