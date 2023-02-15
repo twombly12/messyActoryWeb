@@ -1687,7 +1687,7 @@ const generateBlogPosts = (function() {
         <li>
             <h2 id="sectionFive"> They may ask you to be their reader or rehearse with them</h2>
             <p> Due to the emotional rollercoaster mentioned above, as actors we want to make sure that the work we do is great work, and that we are prepared for our auditions, rehearsals, and working days. As such we will need to run our lines - and the best way to run lines is out loud with someone else. And you may be that someone. </p>
-            <p> t’s very important that if we ask you, you are available and eager. This goes hand in hand with support. If you are a non-actor, you likely were not our first choice… or the second, we would much rather have someone who knows the craft to help us out. So, if we are asking you, we are in dire need of you and it’s possible that we also feel like a burden. The best thing you can do is say yes and let us tell you what we need. </p>
+            <p> It’s very important that if we ask you, you are available and eager. This goes hand in hand with support. If you are a non-actor, you likely were not our first choice… or the second, we would much rather have someone who knows the craft to help us out. So, if we are asking you, we are in dire need of you and it’s possible that we also feel like a burden. The best thing you can do is say yes and let us tell you what we need. </p>
             <p> If you want to go the extra mile and put the work in to be a good reader: Check out these tips at <a href="/7-ways-to-be-a-good-reader">7 Ways To Be  A Good Reader</a></p>
             <p> If we don’t ask you to be our reader, and you live with us expect that - </p>
         </li>
@@ -1709,9 +1709,117 @@ const generateBlogPosts = (function() {
         <h2 id="summary">Summary</h2>
         <p>Though it may seem like dating an actor is a lot of work, I do believe it is quite worth it. You will be dating someone who has drive, goals and dreams worth fighting for. They are curious about the human condition, and for that reason, you may find yourself heard and seen in ways you haven’t before. Since actors pursue feelings and how to communicate them, you will find yourself deeply loved and cared for and most likely intricately questioned about your emotional states. </p>
         </li>
-        <p>Of course, not all actors are the same - so if you are reading this as someone who is a non-actor, please do me the favour of asking them what parts of this blog apply to them and what don’t! </p>
+        <p>Of course, not all actors are the same - so if you are reading this as someone who is a non-actor, please do me the favour of asking them what parts of this blog apply to them and what doesn't! </p>
     </ol>
     <h3>Wishing you love and happiness in your quest of dating an actor! </h3>
+    `
+        },
+        // -------------------------------- 17th Post --------------------------
+        // -------------------------------- 17th Post --------------------------
+        // -------------------------------- 17th Post --------------------------
+        // -------------------------------- 17th Post --------------------------
+        // -------------------------------- 17th Post --------------------------
+        {
+            "postNum": " blogPost16 ",
+            "category": "Auditions Getting-Started",
+            "postLink": "/6-things-you-need-for-your-self-tape-setup",
+            "title": ` 6 Things you Need for Your Self-Tape Setup `,
+            "image": `<picture>
+<source srcset="../assets/images/self-tape.webp" type="image/webp">
+<source srcset="../assets/images/self-tape.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/self-tape.webp" alt="female actor sitting in front of a white backdrop with camera lights while her friend films her with a phone for an acting audition">
+</picture>`,
+            "date": `Feb 15, 2023`,
+            "snippet": `<p> Whether you are for or against them, self-tapes have become practically the only way to audition anymore. There are the occasional in-person auditions, but for the most part, the self-tape audition is where it’s at.  </p>`,
+            "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> 6 Things you Need for Your Self-Tape Setup </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> What do I need for a self-tape? </a></li>
+        <li>
+            <a href="#sectionTwo"> Camera/Phone  </a></li>
+        <li>
+            <a href="#sectionThree"> Lighting </a></li>
+        <li>
+            <a href="#sectionFour"> Backdrop </a></li>
+        <li>
+            <a href="#sectionFive"> Sound/ Mic  </a></li>
+        <li>
+            <a href="#sectionSix"> Tripod </a></li>
+        <li>
+            <a href="#sectionSeven"> Editing Program </a></li>
+        <li>
+            <a href="#sectionEigth"> (A reader) </a></li>
+
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+            "content": `
+    <p> If you are a new actor or new to the world of self-taping, self-tapes can be daunting! There is a lot to think about when it comes to auditioning, and now with self-tapes, you have to think about a whole lot more. But don’t fret - this blog will lay it all out for you, so that you know exactly what to do, and how to do it.  </p>
+    <p> Below are six things you will need for a good self-tape setup and will answer the question:</p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Camera/Phone</h2>
+            <p> In order to film a self-tape you will need a device that captures video. Our phones these days are so high-tech that you can use them and film a really clear self-tape. </p>
+            <p> If you do use your phone, be sure to position it horizontally. You will want to make sure you also have enough storage to film multiple takes. </p>
+            <p> <i>Money spending option:</i> </p>
+            <p> If you do have some money to spare, a DSLR camera can be really useful for self-tapes, however, you will need to buy, a microphone attachment and SD cards, as well as an SD card reader for your computer if you are going this route.  Additionally, you can also just buy a second phone to do self-tapes on, if you don’t want to fill your actual cell phone with self-tapes. 
+            </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> Lighting</h2>
+            <p> Good lighting makes a big difference for self-tapes, you want to make sure you are lit well, and the colouring of your face looks natural on camera. </p>
+            <p> <i>Money spending option:  </i></p>
+            <p> If you can do your tape during the day, with a window and natural lighting to light you, this is the cheapest way to get good lighting. </p>
+            <p> However, not all tapes can be done during the day. So making sure your face and environment are well lit can be done with lamps, or overhead lights as well. </p>
+            <p> <i>No Money Spent option:  </i></p>
+            <p> It’s very common for actors to have a ring light they use for their tapes. Ring lights can come in all sizes and forms, you can get cheap ones, or fancy ones. Some are more permanent, and others you can pack up and travel with, you can pick whichever is good for you. </p>
+            <p> If you are looking for a more permanent lighting option. There are soft box lights you can buy that come with a stand, and generally come in pairs, to light the entire room. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> Backdrop</h2>
+            <p> It's generally in good practice to have a simple backdrop for your tapes. This can be a simple wall, with nothing on it, it's very common for actors to use a white wall for their tapes. The most important thing when it comes to the backdrop is that it doesn’t take away from your tape. (Personally, I am not a fan of white backdrops as they can mess with the white balance of the camera and wash you out)</p>
+            <p> Given the way houses/condos and apartments are laid out these days, it can be difficult to find a completely empty wall that also can provide enough room for you to do a tape in front of. As such, many actors will put up a sheet to hide any paintings or pictures that are on a wall. Generally, any one-colored sheet will do, just make sure it isn’t jarring or distracting. </p>
+            <p> <i>Money spending option:</i></p>
+            <p> One of my personal favorite backdrops is the KATE pop-up backdrop. It’s a foldable backdrop that you can pull out for auditions but also put away when you aren’t using it. They usually come with two coloured sides, so it’s well worth the investment. *It does take a while to learn how to fold it back up though!* What’s also great about these is that you can lean them up against the wall and they will stay. Other sheet backdrops require a stand to put them on. </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> Sound/ Mic </h2>
+            <p> Sound is very important for self-tapes. You want to be heard clearly, especially if you are going to go through the trouble of setting up everything. </p>
+            <p> Typically your phone can pick up great sound, in fact, it may be able to pick up sound all over your house, so be sure to find a quiet place to film your tape. As long as your microphone is not covered by anything (like a tripod case) you should be good to go with your phone. Make sure to test it before you film. </p>
+            <p> <i>Money spending option: </i></p>
+            <p> Whether you are using a DSLR or a phone you could spend the money to get yourself a microphone. Either, you can get yourself a lavalier microphone, that clips onto your shirt and syncs up to either your phone or your camera. Or you can get a small shotgun mic that attaches to both. In either of these purchases, be sure that it syncs up with the phone or camera you want to use it for. </p>
+            
+        </li>
+        <li>
+            <h2 id="sectionFive"> Tripod</h2>
+            <p> Whether or not you are using a  phone or a DSLR you are going to need to be able to position your phone at the right height. You may have a perfectly positioned bookcase, or perhaps an incredible ability to stack 10 books one on top of the other, but the easiest way to position your camera/phone is with a tripod. </p>
+            <p> Tripods come in all sorts of sizes and price ranges. Also, some ring lights do have a camera or phone holder within them, so if you are wanting to save a couple of bucks you can combine your tripod and lighting option together. </p>
+            <p> <i>Money spending option: </i></p>
+            <p> There are some really nice tripods out there that come with various swappable heads for cameras/phones/ and other devices as well. You can spend your money on those, but this is where I would say that better to go cheap on the tripod and spend money on things like lighting and sound. </p>
+            <p> Also, be sure that your device matches your tripod. If you are using a phone, you will need to get a phone holder for your tripod. </p>
+        </li>
+        <li>
+            <h2 id="sectionSix"> Editing Program</h2>
+            <p> You don’t necessarily require an editing program. You can, film your takes on your phone, crop the beginning and the end of your video on your basic Gallery video settings, and send it off to your agent. This would typically mean that you are sending all your takes separately. However, there may be a time that you are asked to send all your takes, with your slate included, in one file. </p>
+            <p> In order to do this you will need some sort of editing program. </p>
+            <p> <i>No Money Spent: </i></p>
+            <p> There are lots of apps on your phone that have easy movie editing options and are free from your Apple or Google Play store. If you have a MAC, you can use iMovie for simple editing and if you have Windows you can use OpenShot. </p>
+            <p> <i>Some Money Spent: </i></p>
+            <p> Now if you want to have a movie program, but aren’t really into wanting to spend that monthly subscription. You can purchase programs such as Movavi, which is a one-time purchase for a lifetime program, or MAGIXpro which is similar. Both these are simplified movie editing programs that allow you the basics for editing a self-tape. </p>
+            <p> <i>Money Spending Option: </i></p>
+            <p> If you really want to invest in a movie program because you know you will use it for more than your self-tapes, (perhaps for your own film/video projects) you can invest in Final Cut or Adobe. Both are quite expensive, but they are what professional movie makers and industry professionals use. </p>
+        </li>
+        <li>
+            <h2 id="sectionSeven"> (A reader)</h2>
+            <p> This is in brackets because a reader isn’t a thing. But don’t forget if your audition has someone else speaking in the scene you will need someone to read those for you! Check out: <a href="/7-ways-to-be-a-good-reader">7 Ways To Be A Good Reader</a></p>
+        </li>
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>Let me make it clear that whatever choice you make for your self-tapes, you will get a great final product. You do not need to spend money to get a good self-tape. Just make sure you have thought about these six elements when setting up your tapes, and you will be just fine. </p>
+        </li>
+    </ol>
+    <h3>Wishing you beautiful self-tapes!</h3>
     `
         },
     ];

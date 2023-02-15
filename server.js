@@ -181,6 +181,16 @@ app.get(
     }
 );
 
+app.get(
+    "/6-things-you-need-for-your-self-tape-setup",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/6-things-you-need-for-your-self-tape-setup.html"
+        );
+    }
+);
+
 /* ------------------------------------------------------------------- */
 
 // const http = require("http")
