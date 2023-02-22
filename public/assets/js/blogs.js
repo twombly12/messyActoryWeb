@@ -1735,28 +1735,27 @@ const generateBlogPosts = (function() {
     <p> 6 Things you Need for Your Self-Tape Setup </p>
     <ul>
         <li>
-            <a href="#sectionOne"> What do I need for a self-tape? </a></li>
+            <a href="#sectionOne"> Camera/Phone  </a></li>
         <li>
-            <a href="#sectionTwo"> Camera/Phone  </a></li>
+            <a href="#sectionTwo"> Lighting </a></li>
         <li>
-            <a href="#sectionThree"> Lighting </a></li>
+            <a href="#sectionThree"> Backdrop </a></li>
         <li>
-            <a href="#sectionFour"> Backdrop </a></li>
+            <a href="#sectionFour"> Sound/ Mic  </a></li>
         <li>
-            <a href="#sectionFive"> Sound/ Mic  </a></li>
+            <a href="#sectionFive"> Tripod </a></li>
         <li>
-            <a href="#sectionSix"> Tripod </a></li>
+            <a href="#sectionSix"> Editing Program </a></li>
         <li>
-            <a href="#sectionSeven"> Editing Program </a></li>
-        <li>
-            <a href="#sectionEigth"> (A reader) </a></li>
+            <a href="#sectionSeven"> (A reader) </a></li>
 
             <li>
             <a href="#summary">Summary</a></li>
     </ul>`,
             "content": `
     <p> If you are a new actor or new to the world of self-taping, self-tapes can be daunting! There is a lot to think about when it comes to auditioning, and now with self-tapes, you have to think about a whole lot more. But don’t fret - this blog will lay it all out for you, so that you know exactly what to do, and how to do it.  </p>
-    <p> Below are six things you will need for a good self-tape setup and will answer the question:</p>
+    <p> Below are six things you will need for a good self-tape setup and will answer the question: <strong>What do I need for a self-tape?</strong></p>
+    <p>We’ll break it down in terms of things you may already have in your house (the No Money Spent option) and we’ll also offer you suggestions if you do have some money to spare. </p>
     <ol>
         <li>
             <h2 id="sectionOne"> Camera/Phone</h2>
@@ -1820,6 +1819,160 @@ const generateBlogPosts = (function() {
         </li>
     </ol>
     <h3>Wishing you beautiful self-tapes!</h3>
+    `
+        },
+        // -------------------------------- 18th Post --------------------------
+        // -------------------------------- 18th Post --------------------------
+        // -------------------------------- 18th Post --------------------------
+        // -------------------------------- 18th Post --------------------------
+        // -------------------------------- 18th Post --------------------------
+        {
+            "postNum": " blogPost17 ",
+            "category": "Industry-Tips Organization Getting-Started",
+            "postLink": "/how-to-read-a-call-sheet-part-1",
+            "title": ` How to Read a Call Sheet (Part 1)`,
+            "image": `<picture>
+<source srcset="../assets/images/reading-call-sheet.webp" type="image/webp">
+<source srcset="../assets/images/reading-call-sheet.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/reading-call-sheet.webp" alt="actor reading a call sheet on a clipboard for a movie">
+</picture>`,
+            "date": `Feb 22, 2023`,
+            "snippet": `<p> Congratulations! You booked something! And now the DOODs and Bookables and Callsheets start rolling in and you have no idea what you are looking at! Don’t worry - we’ve got you!  </p>`,
+            "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> How to Read a Call Sheet (Part 1)</p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> What is a call sheet? 
+            </a></li>
+        <li>
+            <a href="#sectionTwo"> When do I read a call sheet? 
+            </a></li>
+        <li>
+            <a href="#sectionThree"> Do all Call Sheets look the same?  </a></li>
+        <li>
+            <a href="#sectionFour"> Things to look for on a call sheet as an actor: 
+            </a></li>
+            <li>
+            <a href="#sectionFive"> Who to Call in case of any issues 
+            </a></li>
+    
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+            "content": `
+    <p> Today’s blog will be focusing on Callsheets, but keep an eye out for How to Read a DOOD  and How to read a Bookable. First off - </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> What is a call sheet? </h2>
+            <p> A call sheet is the daily schedule of each shoot day. It will include everything expected to occur that day. This includes what shots, who is in attendance, parking details, requirements from each department, contact info, emergency info, and usually, an advanced idea of the next day's schedule. </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> When do I read a call sheet? </h2>
+            <p> You will receive a call sheet the night before your shoot day. If you shoot on February 3rd, your call sheet will arrive in your email inbox, on Feb 2nd - likely somewhere between 8 pm and midnight* </p>
+            <p> <i>*If it is a late-night shoot the day before, you may receive it after midnight. </i></p>
+            <p><strong>Something to keep in mind: 
+</strong></p>
+<p>If you are a day player (meaning someone who comes on set for simply a day) you may start to receive call sheets way before your shoot day. This could be because you are booked for a fitting, a covid test, a choreography rehearsal, or a stunt rehearsal. Best to check your bookable to make sure what days you are working! </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> Do all Call Sheets look the same? </h2>
+            <p> No. There are various types of call sheets, some are simpler than others. The one we are going to break down is the most complex type. If you can read this call sheet style, you can read any style. </p>
+            <p> This is what a call sheet looks like: (I created this call sheet, so none of it is real) </p>
+            <img src="/assets/images/how-to-read-a-call-sheet/Callsheet Page 1.JPG" alt="screen shot of an actors call sheet for a movie">
+            <img src="/assets/images/how-to-read-a-call-sheet/Callsheet Page 2.JPG" alt="screen shot of an actors call sheet for a movie">
+            <p> To begin, we are going to focus on what part of the call sheet is important to YOU, the actor. Then, after, I will get really intricate with other smaller details that may not impact you so much. </p>
+            <p> Storytime: </p>
+            <p> I can remember the day I received my very first official call sheet that looked like the one above. It had been 5 years since I had been taught how to read one of these and I was in pure panic. “What if I read the wrong time” “What if I go to the wrong place” “What if I show up on the wrong day!”  I scoured the internet for answers and found nothing. So I panic-called all the working actors I knew to get answers. I hope with this blog, you never have to go through that. </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> Things to look for on a call sheet as an actor: </h2>
+            <ol>
+            <li class="sub-bullet"> The date:  </li>
+            <p>The date you are shooting will be found on the first page of the call sheet, in the middlebox. </p>
+            <img src="/assets/images/how-to-read-a-call-sheet/Date.JPG" alt="zoomed in screenshot of an actors call sheet for a movie highlighting the date to be on set">
+            <li class="sub-bullet"> The time: 
+            </li>
+            <p>Now, you MAY have the same time as the crew call. But that is typically unlikely. As an actor, your time will be located in the section UNDER the shots of the day. It’s the section that has all the actors, character names, and their numbers in it. </p>
+            <img src="/assets/images/how-to-read-a-call-sheet/The time.JPG" alt="screen shot of an actors call sheet for a movie wih the set times highlighted">
+            <p>Let’s say you are, for the purposes of this example, Brittney Lucifer, and you booked the part of Cynthia Jove. </p>
+
+            <p><strong>#</strong>  - you are number 6th on the call sheet. Meaning you are the 6th important character in the script. </p>
+            <p><strong>Character</strong> - Your character’s name is Cynthia Jove. </p>
+            <p><strong>Cast</strong> -  Your name will be here. </p>
+            <p><strong>SWF</strong> -  This stands for Start Work Finish. It indicates if you are starting your work that day, if you are simply working, or if you are finished with the block. If you are on set for only a day it will say SWF. For the sake of the example, <p>Britney Lucifer is Working and finishing that day. (The reason for this is because this is the last day of the shoot in the example and you will notice everyone is finishing work.)</p>
+            
+            <p><strong>P/U</strong> - This stands for Pick Up. Some films and television series, if you are high enough on the call sheet, will pick you up. More often than not you are expected to drive yourself. </p>
+            
+            <p>This is where the letters <strong>SD</strong> come in. SD stands for Self Drive. You don’t necessarily need to drive yourself, but you need to get yourself there, whether by uber or public transport. </p>
+            
+            <p><strong>HMW</strong> - This stands for Hair Makeup Wardrobe. This is your CALL TIME. This is the time you need to be arriving just before. Typically, I would suggest arriving 10-15 minutes before the time on this sheet. </p>
+            
+            <p>For the sake of the example: Britney needs to arrive at 1400* - which is 2 pm. (Get to know your military time!) So as per my suggestion: Arrive at 1:45 pm (or 13:45) or even earlier if you have to do a covid test. </p>
+            
+            <p><i>*You will notice that this time is BEFORE the Crew call mentioned at the top of the sheet.*</i></p>
+            
+            <p><strong>Block</strong> - This is the time you would be showing up for blocking, should the scene require it.</p>
+            
+            <p> In this example, Britney doesn’t have a specific time for blocking, perhaps because it’s a simple scene, or they will figure it out once they start shooting. </p>
+            
+           <p> <strong>Set</strong> - This is the time you are expected on set to start shooting. </p>
+            
+            <p><strong>Production Notes</strong> -  This is where they will tell you where to go, or what is expected of you. Sometimes it may say “Covid Test” other times it will say, like in the example: "Report to ---" </p>
+            
+            <p>In the case of this example, it says: Report to DONAVAN, which is the Basecamp. The reason we know this is because, in the top left-hand corner of the Call sheet, it has the locations. This says that you go to Basecamp - the Donavan Hotel for your call time to check-in. </p>
+<img src="/assets/images/how-to-read-a-call-sheet/Production Notes.JPG" alt="screen shot of an actors call sheet for a movie with the basecamp hightlighted">
+
+            <li class="sub-bullet">Location</li>
+            <p>Typically you will be required to report to base camp. Unless you need to go to a covid check up point first.  You want to look for the section of the call sheet - either top right or left that says LOCATIONS: </p>
+            <p>For the sake of this example, it’s the top right. If you are driving you will also want to find the address for CREW PARK. This is where you are given approval to park, and will not have to pay. If it is far away from the base camp, there will be a shuttle to take you there. </p>
+<img src="/assets/images/how-to-read-a-call-sheet/Location.JPG" alt="screen shot of an actors call sheet for a movie with basecamp, crew park and covid screening hightlighted">
+<p>Another area to check for where to go is the notes section right UNDER this section. It will have important notes that you should know about. Either, about allergies (like animals on set) or covid testing etc.</p>
+<img src="/assets/images/how-to-read-a-call-sheet/Notes.JPG" alt="screen shot of an actors call sheet for a movie with important notes highlighted">
+<p>You see in this image it says <strong> *** ALL Cast & Crew MUST check in with Medics at Base (basecamp) or on set BEFORE beginning work-related duties**</strong> </p>
+<li class="sub-bullet">What Scenes Are you Shooting: </li>
+<p> If you are only on set for one day, it’s likely you know what scenes you will be shooting. However, you likely don’t know the order, because remember, on film sets, they don’t do them in order.   </p>
+<p> This part of the call sheet tells you what scenes are being shot, in what order, where, and who is in the scenes. It’s located UNDER the important notes, and always on the first page ABOVE, your call time.   </p>
+<img src="/assets/images/how-to-read-a-call-sheet/Scenes.JPG" alt="screen shot of an actors call sheet for a movie showing what scenes are being shot and in what order">
+<p> The scenes that are being shot that day, in this order are: 29,27,29,30,31  </p>
+<p> I’m going to break down all the details in this portion, by using Scene 27 as an example:   </p>
+<img src="/assets/images/how-to-read-a-call-sheet/Scene 27.JPG" alt="screen shot of an actors call sheet for a movie with a specific shooting scene highlighted">
+
+<p><strong>SCENE</strong> - This tells you which scene in the script is being filmed. </p>
+
+<p><strong>SET/DESCRIPTION</strong> - This tells you what the location in the script is, and a sentence breaks down the scene. </p>
+<p><i>INT - stands for Interior (aka inside)</i></p>
+<p><i>EXT - stands for Exterior (aka outside)</i> </p>
+
+<p><strong>TIMING</strong>- This tells you how long production aims to take with this particular scene. For the sake of the example, they are estimating 3.5 hours. </p>
+
+<p><strong>CAST</strong> -  These numbers correspond to the # you are on the call sheet. If we are going off of the previous example where Brittney is #6, then she would be in scene 27. Say however that we were Eton Brown, who is #5 on the call sheet. He knows that there is a scene being shot before his scenes of the day. (Since he isn’t in Scene 29 but he is in Scene 27) </p>
+
+<p><strong>D/N</strong> - This stands for Day Night. This indicates which Day or Night of the script is being filmed. This is particularly useful to know when it comes to wardrobe and makeup for continuity. </p>
+<p><strong>PGS</strong> - This stands for Pages and indicates the number of pages that each scene is. You will notice that all the page areas have a fraction of 8 beside the number. This is because a script page is divided into eighths. So Scene 7 is 4.5 pages. </p> 
+
+<p><strong>LOC</strong>-  Stands for Location. It’s telling you what location the scene will be shot in. </p>
+<img src="/assets/images/how-to-read-a-call-sheet/Set Shift.JPG" alt="screen shot of an actors call sheet for a movie showing the scene location">
+
+<p><strong>SET SHIFT</strong> -  A different set will be used for the scenes below it. 
+You will notice that despite using the same location, there is another set within that location. In the case of the picture above - the set is moving from INT. VILLA SWIMMING PLAZA to EXT. SWIMMING PLAZA - so the set is going from inside to outside. 
+</p>
+            </ol>
+        </li>
+        <li>
+            <h2 id="sectionFive"> Who to Call in case of any issues </h2>
+            <p> If something happens on your way to set, the first person you should call is your agent. However, if you can’t get a hold of your agent for whatever reason, you can call or text the 2nd or 3rd AD. This person’s phone number will be found at the bottom of page 1 of the call sheet. </p>
+<img src="/assets/images/how-to-read-a-call-sheet/3rd ad.JPG" alt="screen shot of an actors call sheet for a movie showing who to call in case of any issues">
+
+            <p> In the case of this example, you would call Steven Carn, and let him know that you have “been in an accident” or whatever thing has happened. I hope you never have to make that call. Another reason to get in contact with the 2nd or 3rd AD would be if you arrived on set super early, for whatever reason. (maybe you anticipated traffic and there was none) and you arrived at base camp with no one to sign you in. You can text the 2nd/3rd AD and tell them you have arrived and are in your trailer should anyone go looking for you. </p>
+        </li>
+        
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>That completes the essential things you should keep an eye out for, on the call sheet, as an actor. I know it may seem daunting, but if you walk yourself through it closely, you will realize that all the information is pretty self-explanatory when you know where to look. </p>
+        <p>If you want to know more about small intricate details of the call sheet that are good to know Check out the blog: <a href="/how-to-read-a-call-sheet-part-2">How to read a call sheet (Part 2)</a></p>
+        </li>
+    </ol>
+    <h3>Wishing you many call sheets in the near future!</h3>
     `
         },
     ];

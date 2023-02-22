@@ -38,6 +38,18 @@ h2 a {
     color: #EC008C !important;
 }
 
+li.sub-bullet {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+li.sub-bullet::marker {
+    position: relative;
+    font-size: 1.3rem;
+    font-family: "Merriweather", Georgia, serif !important;
+    display: inline;
+}
+
 
 /*----- Blog ---- */
 

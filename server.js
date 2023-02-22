@@ -191,6 +191,26 @@ app.get(
     }
 );
 
+app.get(
+    "/how-to-read-a-call-sheet-part-1",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/how-to-read-a-call-sheet-part-1.html"
+        );
+    }
+);
+
+app.get(
+    "/how-to-read-a-call-sheet-part-2",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/how-to-read-a-call-sheet-part-2.html"
+        );
+    }
+);
+
 /* ------------------------------------------------------------------- */
 
 // const http = require("http")
