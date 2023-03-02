@@ -1945,10 +1945,10 @@ const generateBlogPosts = (function() {
 
 <p><strong>TIMING</strong>- This tells you how long production aims to take with this particular scene. For the sake of the example, they are estimating 3.5 hours. </p>
 
-<p><strong>CAST</strong> -  These numbers correspond to the # you are on the call sheet. If we are going off of the previous example where Brittney is #6, then she would be in scene 27. Say however that we were Eton Brown, who is #5 on the call sheet. He knows that there is a scene being shot before his scenes of the day. (Since he isn’t in Scene 29 but he is in Scene 27) </p>
+<p><strong>CAST</strong> -  These numbers correspond to the # you are on the call sheet. If we are going off of the previous example where Brittney is #6, then she would be in scene 27. Say however that we were Eton Brown, who is #5 on the call sheet. He knows that there is a scene being shot before his scenes of the day. (Since he isn’t in the first half of Scene 29 but he is in Scene 27 and the second half of Scene 29 later that day) </p>
 
 <p><strong>D/N</strong> - This stands for Day Night. This indicates which Day or Night of the script is being filmed. This is particularly useful to know when it comes to wardrobe and makeup for continuity. </p>
-<p><strong>PGS</strong> - This stands for Pages and indicates the number of pages that each scene is. You will notice that all the page areas have a fraction of 8 beside the number. This is because a script page is divided into eighths. So Scene 7 is 4.5 pages. </p> 
+<p><strong>PGS</strong> - This stands for Pages and indicates the number of pages that each scene is. You will notice that all the page areas have a fraction of 8 beside the number. This is because a script page is divided into eighths. So Scene 27 is 4.5 pages. </p> 
 
 <p><strong>LOC</strong>-  Stands for Location. It’s telling you what location the scene will be shot in. </p>
 <img src="/assets/images/how-to-read-a-call-sheet/Set Shift.JPG" alt="screen shot of an actors call sheet for a movie showing the scene location">
@@ -1973,6 +1973,117 @@ You will notice that despite using the same location, there is another set withi
         </li>
     </ol>
     <h3>Wishing you many call sheets in the near future!</h3>
+    `
+        },
+        // -------------------------------- 19th Post --------------------------
+        // -------------------------------- 19th Post --------------------------
+        // -------------------------------- 19th Post --------------------------
+        // -------------------------------- 19th Post --------------------------
+        // -------------------------------- 19th Post --------------------------
+        {
+            "postNum": " blogPost18 ",
+            "category": "Industry-Tips Organization Getting-Started",
+            "postLink": "/how-to-read-a-call-sheet-part-2",
+            "title": ` How to Read a Call sheet (Part 2) `,
+            "image": `<picture>
+<source srcset="../assets/images/reading-call-sheet-p2.webp" type="image/webp">
+<source srcset="../assets/images/reading-call-sheet-p2.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/reading-call-sheet-p2.webp" alt="a group of actors reading their call sheets for their day on the movie set">
+</picture>`,
+            "date": `March 1, 2023`,
+            "snippet": `<p> In the previous post, we broke down the essential information actors need to know when looking at a call sheet. If you haven’t yet seen that, I recommend going and looking at it before reading this blog: <a href="how-to-read-a-call-sheet-part-1">How to Read a Call Sheet (Part 1)</a> </p>`,
+            "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> How to Read a Call sheet (Part 2) </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> Weather </a></li>
+        <li>
+            <a href="#sectionTwo"> Transport </a></li>
+        <li>
+            <a href="#sectionThree"> Background </a></li>
+        <li>
+            <a href="#sectionFour"> Advanced Schedule </a></li>
+        <li>
+            <a href="#sectionFive"> Craft Services </a></li>
+        <li>
+            <a href="#sectionSix"> 2nd Page of Names </a></li>
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+            "content": `
+    <p> This post is going to give you some more intricate details of the call sheet, that are good to know but aren’t essential. Now with that being said, if you have come from the prior blog and still have questions that aren’t answered here, feel free to send me a message through Facebook or Instagram, and hopefully I can help you out! 
+    </p>
+    <p> Below are six small details that the call sheet will let you know. </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Weather</h2>
+            <p> Located under the important notes section, but above the scenes is a row of weather and sunrise information. This will tell you when sunrise and sunset are, and what the temperature will be during the day.  </p>
+            <p> The reason this can be helpful for you to know is you can prepare yourself for a warm or cold day. You can bring an extra sweater or a pair of shorts to wear in your trailer during lunch, so you are comfortable during your time off. </p>
+            <img src="/assets/images/how-to-read-a-call-sheet-2/Weather.JPG" alt="screen shot of an actors call sheet for a movie showing the weather forecast">
+        </li>
+        <li>
+            <h2 id="sectionTwo"> Transport</h2>
+            <p> If you have received transportation to set, the information on pick up and drop off locations will be there. This will typically be at the bottom of page one. However, sometimes there is an external Transport schedule, that will be a separate attachment in your call sheet email. 
+            </p>
+            <img src="/assets/images/how-to-read-a-call-sheet-2/TRANSPORT.JPG" alt="screen shot of an actors call sheet for a movie showing the transportation schedule">
+            <p> <strong>PU:</strong> Stands for Pick Up - and shows you the time at which the driver will be at your residence. In the case of Isla Pranson, she is being picked up at 13:40 (aka 1:40 pm) </p>
+            <p> <strong>ETA:</strong>  Stands for Estimated Time of Arrival, meaning the arrival at the destination. For Isla Pranson, her drive will be 20 minutes, and she will be arriving at her Drop Off location at 14:00 (aka 2 pm) </p>
+            <p> <strong>PASSENGERS:</strong> If you are the one being picked up, this is where your name will be. In the past, pick-ups were for many people, however, due to covid, most transports are now for one person at a time. </p>
+            <p> <strong>PICK UP @</strong> Stands for Pick Up At and will have either a pickup location, or production will put HOTEL as a means of indicating your residence, but will leave that out due to security reasons. </p>
+            <p> <strong>DROP OFF:</strong> This is where the driver will be dropping you off, almost always it will be basecamp unless there is some other specified place you have to go beforehand. </p>
+            <p> The importance of this information on the call sheet for you, the actor, is to know when you are to be ready for pickup. Make sure you are out the door no later than your PU time. If the driver arrives early, you can go earlier, but you are also well within your means to leave when you are called. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> Background</h2>
+            <p> <strong>What is background?</strong> Background or BG is the actors that fill in the background of a scene. They never speak and are usually interacting with the set, or adding reality to public venues. </p>
+            <p> On a call sheet, there is an area for background calls. It will be located underneath your call time area. </p>
+<img src="/assets/images/how-to-read-a-call-sheet-2/Background2.JPG" alt="screen shot of an actors call sheet for a movie showing the background calls">
+<p> You will notice that they aren’t labeled as #s but as letters of the alphabet. So, when you are looking at your scenes of the day - if you see letters, you will know that there are backgrounds joining you in the scene. </p>
+<img src="/assets/images/how-to-read-a-call-sheet-2/Background.JPG" alt="screen shot of an actors call sheet for a movie showing the background calls joining you">
+<p> In this example, you will see this set has 15 Pizza Patrons and a Waitress. </p>
+<p> It’s good for you to know as an actor because it allows you to assess how much chaos will be happening on set that day. It’s also good to bear in mind that the more background there is on set, the more stress production may be feeling that day. You would do well to be a little more prepared on lines than you normally would be. </p>
+
+        </li>
+        <li>
+            <h2 id="sectionFour"> Advanced Schedule</h2>
+            <p> The advanced schedule is what production would like to shoot, the next day. This is found on the second page of the call sheet. The advanced schedule could always change, so never consider it concrete, however, it does give you an estimate of what you should prepare for, and what scenes you will be shooting. </p>
+            <p> In this particular example, our call sheet is the last day of shooting, so this Advanced Schedule is a joke, but it would be laid out this way, simply with actual scenes. You would read this the exact same way you would read your scenes of the day. </p>
+            <img src="/assets/images/how-to-read-a-call-sheet-2/Advanced.JPG" alt="screen shot of an actors call sheet for a movie showing the advanced schedule">
+        </li>
+        <li>
+            <h2 id="sectionFive"> Craft Services</h2>
+            <p> <strong>What are craft services?</strong> Craft services is FOOD!! Some may think of craft as catering, but no no no my friend, it is much better than that because it’s food that’s always available. If you are hungry on set, craft is your friend. </p>
+            <p> For those among you who are foodies, you may find this area of the call sheet particularly delicious. Typically at the end of a call sheet, there will be a row of information about food. It may not always look like the one in the example. Sometimes, it’s hidden among the 2nd page of names and jobs and called <strong>HOT AND READY</strong></p>
+            <img src="/assets/images/how-to-read-a-call-sheet-2/craft.JPG" alt="screen shot of an actors call sheet for a movie showing the catering from craft services-">
+            <p> Despite the name of it, you will see what is available in terms of food, and what time lunch will be. (Remember lunch on a film set has nothing to do with the time of day) On this particular day, it seems lunch is taking place at 20:00 (aka 8 pm) </p>
+            <p> <strong>Early Breakfast: </strong>This means that at 13:30 (aka 1:30 pm) there is breakfast for anyone who is called for an early call - typically hair, make-up, wardrobe, and some actors. </p>
+            <p> <strong>Crew Breakfast:</strong>This means that there are 45 crew that will be fed a normal breakfast </p>
+            <p> <strong>Subs & Crafts:</strong> Though the number doesn’t really matter here, it’s telling us that there will be a small snack provided between breakfast and lunch. </p>
+            <p> <strong>BG Craft: </strong>This means that there is food for the 16 backgrounds that are on set that day. </p>
+            <p> <strong>Catering: </strong>Catering refers to an actual meal, in this case, lunch, that will be provided to 48 individuals, and that will be ready, as mentioned above at 20:00pm (8 pm) </p>
+            <p> This information simply tells you when you break for lunch - perhaps you need to make a call the day you are on set, you can give an “estimate” on when that would be. Or perhaps you have a medical issue that requires a hearty meal every so often, this will give you a sense of when you will be breaking for that meal, and if you should pick something up on craft services in the meanwhile! </p>
+        </li>
+        <li>
+            <h2 id="sectionSix"> 2nd Page of Names</h2>
+            <p> In the blog post - <a href="/7-things-i-learned-as-number-1-on-the-callsheet">7 THINGS I LEARNED AS #1 ON THE CALLSHEET</a> one of the points I make is to remember people’s names.  This 2nd, (and sometimes 3 and 4th) page has everyone's names and jobs and it can come in really handy. </p>
+            <p> When you interact with someone new on set, see if you can get their name. Most of the time they will introduce themselves, but sometimes you have to ask. Either way, get their name and make note of it on your call sheet.  </p>
+            <img src="/assets/images/how-to-read-a-call-sheet-2/2nd page.JPG" alt="screen shot of an actors call sheet for a movie showing the page of names">
+            <p> Say I am on set and wardrobe comes by to drop off my costume. She introduces herself as “Shadia Longoria” and we have a conversation about how fun the costume is and it reminds her of her kids who are 6 & 9. </p>
+            <p> I would then find her on the call sheet. </p>
+            <img src="/assets/images/how-to-read-a-call-sheet-2/2nd page2.JPG" alt="screen shot of an actors call sheet for a movie showing the page of names with a person highlighted and a personal note made">
+            <p> I now know she is the asst. Designer. I then make a note about what we discussed and if I am on set later on, another day, I can refer to my call sheet and if I see her again, ask her about her job or perhaps her kids! </p>
+            <p> This page can also work if you have any issues on set. Say it’s a stressful day on set, and they changed your lines at the last minute. On one take, you fumble them and the Script Supervisor yells at you “You ****ing idiot, the words are “In the skatepark” not “at the skatepark”.  After the shot is over, you can go over to your call sheet, and find out what that person’s name was. In this case, under Continuity, you will see Script Supervisor: Norman Belfry. It may be that you let your agent know about Norman later, or perhaps you let it go. Either way, it’s good to know people’s names. 
+            </p>
+        </li>
+       
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>Do you feel like you can now tackle any call sheet? I hope so!  Remember the call sheet is there to serve you and not stress you out. It has all the information you need to be successful on your day(s) on set.  </p>
+        <p>The email containing your call sheet will always have additional attachments. Including detailed maps and perhaps the sides of that day. </p>
+        <p>If you have any questions regarding call sheets or want a blog post about a particular point never hesitate to reach out to us on Fb or Instagram and we would be happy to tackle your request. </p>
+        </li>
+    </ol>
+    <h3>Wishing you happy bookings, comfortable booking conditions, and tasty craft!</h3>
     `
         },
     ];

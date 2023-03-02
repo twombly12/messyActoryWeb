@@ -9,7 +9,7 @@
                 "postLink": "/_____",
                 "title": ` ______ `,
                 "image": `<picture>
-<source srcset="../assets/images//_____.webp" type="image/webp">
+<source srcset="../assets/images/_____.webp" type="image/webp">
 <source srcset="../assets/images/_____.jpg" type="image/jpg"> 
 <img class="main-blog-image" src="../assets/images/_____.webp" alt="_____">
 </picture>`,

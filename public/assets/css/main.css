@@ -400,6 +400,10 @@ a {
     border-bottom-color: rgba(33, 41, 49, 0.5);
 }
 
+p a {
+    color: #EC008C;
+}
+
 a:hover {
     border-bottom-color: transparent;
     color: #EC008C !important;

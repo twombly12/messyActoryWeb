@@ -6,4 +6,4 @@ Google My Business (?)
 
 // Instagram
 
-<img src="/assets/images/how-to-read-a-call-sheet/_____________" alt="screen shot of an actors call sheet for a movie _____">
+<img src="/assets/images/how-to-read-a-call-sheet-2/_____________" alt="screen shot of an actors call sheet for a movie _____">
