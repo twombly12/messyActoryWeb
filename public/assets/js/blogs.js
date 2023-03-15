@@ -2086,6 +2086,179 @@ You will notice that despite using the same location, there is another set withi
     <h3>Wishing you happy bookings, comfortable booking conditions, and tasty craft!</h3>
     `
         },
+        // -------------------------------- 20th Post --------------------------
+        // -------------------------------- 20th Post --------------------------
+        // -------------------------------- 20th Post --------------------------
+        // -------------------------------- 20th Post --------------------------
+        // -------------------------------- 20th Post --------------------------
+        {
+            "postNum": " blogPost19 ",
+            "category": "Industry-Tips Organization Getting-Started",
+            "postLink": "/how-to-read-a-bookable",
+            "title": ` How to Read a Bookable `,
+            "image": `<picture>
+<source srcset="../assets/images/bookable.webp" type="image/webp">
+<source srcset="../assets/images/bookable.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/bookable.webp" alt="image of an actor reading their bookable for their day on set">
+</picture>`,
+            "date": `March 15, 2023`,
+            "snippet": `<p> When you book a film or TV job, you will receive three main documents in your inbox that will give you as much detail as possible about your upcoming job. Sometimes, this can be overwhelming. Don’t fret! I got you!  </p>`,
+            "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> How to Read a Bookable  </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> What is a Film & TV Bookable?  </a></li>
+        <li>
+            <a href="#sectionTwo"> Why is a Bookable important?  </a></li>
+        <li>
+            <a href="#sectionThree"> End of Day  </a></li>
+        <li>
+            <a href="#sectionFour"> Length of Day </a></li>
+            <li>
+            <a href="#sectionFive"> Approx call time </a></li>
+        <li>
+            <a href="#sectionSix"> Location  </a></li>
+        <li>
+            <a href="#sectionSeven"> D4D / N4N / D4N / N4D  </a></li>
+        <li>
+            <a href="#sectionEigth"> The Scenes </a></li>
+        <li>
+            <a href="#sectionNine"> Scene Descriptions </a></li>
+            <li>
+            <a href="#sectionTen"> The Pages </a></li>
+            <li>
+            <a href="#sectionEleven"> The Cast called  </a></li>
+            <li>
+            <a href="#sectionTwelve"> Block & Set Up  </a></li>
+            <li>
+            <a href="#sectionThirteen"> Additional Notes  </a></li>
+
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+            "content": `
+    <p> If you are looking at how to read a call sheet - check out the blog: <a href="/how-to-read-a-call-sheet-part-1">How To Read A Callsheet</a> </p>
+    <p> If you are looking for how to read a DOOD - check out <a href="/how-to-read-a-dood">How to Read A Dood</a>  </p>
+    <p> And,if you are here to find out what and how to read a Bookable - you’re in the right place!  </p>
+    <p> First things first: </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> What is a Film & TV Bookable? </h2>
+            <p> A Bookable is a document that lists the cast for the entirety of the film, OR if it’s for television will list the cast needed for that block. (A block is a chunk of time, typically four weeks, of scheduled filming) It also lists in chronological order the estimated layout of filming. </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> Why is a Bookable important? </h2>
+            <p> The fundamental importance of a bookable is to see the forecast on what’s coming up, and what day you will be working if you are working more than one day on set. It’s also handy to see what’s shooting and when, so you can prepare for things like stunts, scenes with lots of dialogue, outdoor scenes…etc. </p>
+            <p> Let’s break it down so that it’s easy to digest. </p>
+            <p> Typically, the first page of a bookable will be a list of Cast Members. It will look like this: </p>
+            <img src="/assets/images/how-to-read-a-bookable/Bookable Page 1.JPG" alt="screen shot of an the cast list on an actors bookable sheet for a movie">
+            <p> You will see that there are numbers beside the names. These numbers are the numbers assigned to each character for the entire project. On every call sheet, DOOD and Bookable all these numbers will be the same. So, for example, if you are playing <i>Fred Lively</i>, your number for the entire filming of the project would be <i>2</i>. </p>
+            <p> If you have come from the Call sheet blog: <a href="/how-to-read-a-call-sheet-part-1">How To Read A Callsheet</a> you may recognize the names of the characters in this Bookable. </p>
+            <p> If you received a bookable, you will notice that none of the actors' names are on it, but instead their character names. So your job when reading a bookable, is to find your character name, and the number assigned to it. </p>
+            <p> The next several pages of the bookable, could be as few as 3 and as many as 15 depending on the production, will look the same. The pages will be filled with several tables, laid out in the format seen below. </p>
+<img src="/assets/images/how-to-read-a-bookable/Bookable Page 2.JPG" alt="screen shot of the tables on an actors bookable sheet for a movie ">
+
+            <p> The easiest way to not get overwhelmed by a bookable is to CTRL F (bringing up your search bar) in the document and type in your number. So, once again, going off of earlier, you would type 2.</p>
+            <p> Since the search feature highlights ALL the 2s in your bookable, look at the far right column (the blue square)  to see on what days you are filming. It should look like this when you’ve searched it. </p>
+<img src="/assets/images/how-to-read-a-bookable/Bookable Page 2 Search Bar.JPG" alt="screen shot of an actors bookable sheet for a movie">
+<p> You will notice in the red square that 2 is highlighted. Every other 2 highlighted belongs to another number like 25, 202..etc. Since Fred is #2, the actor playing him knows that on June 10th, he has a scene after lunch. </p>
+            <p> This may still be overwhelming, so let’s break down the Bookable from TOP to BOTTOM. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> End of Day  </h2>
+            <p> This example that I made is meant to be half way through a Bookable. So it’s a date somewhere between the start of filming and the end of filming. The reason we know this is because at the very top of this example, it has the words “END OF DAY” which means above it there would be the schedule for June 9th. This schedule would look very similar to the example, it would simply  have different scenes. </p>
+            <p> You will notice that there is an end of day at the bottom of our example. It says: <strong>End of DAY #5 June 10, 2022 - Total Pages 5 ⅜</strong> </p>
+            <p> Anything ABOVE the end of day, indicates to you that is the day of that schedule. So - in our example, the date we are looking at is June 10th. </p>
+            <p> The reason we also know this is that it says DAY 5 in the second row, which is what starts the schedule for that day. </p>
+<img src="/assets/images/how-to-read-a-bookable/Bookable Page  end of day.JPG" alt="screen shot of an actors bookable sheet for a movie">
+
+        </li>
+        <li>
+            <h2 id="sectionFour"> Length of Day</h2>
+            <p> The second row in this example tells us what Day it is (Day 5), when the sun rises (5:34 am) when it sets (7:52 pm) and how long the day (with sun) is. This isn’t important for actors, it’s simply telling production how many hours of sunlight they have. 
+            </p>
+        </li>
+        <li>
+            <h2 id="sectionFive"> Approx call time</h2>
+            <p> This stands for approximate call time. It is the time that production is estimating that CREW call will be. *Remember crew call isn’t necessarily your call time* This is a good thing to note in your bookable. If you are scheduling your week and you see that your Approx Call Time is 6:00AM, you know to get to bed early the night before. </p>
+            <p> On a call sheet time will be military - for a bookable, usually it’s in 12H time. </p>
+        </li>
+        <li>
+            <h2 id="sectionSix"> Location </h2>
+            <p> The fourth row will list the location of filming. The Villa Swimming Plaza is in the script, so it’s the location of the script, with the real address of the set: 5 Side St.  This will likely not be the same address as basecamp, so though it’s good to know where you are filming in generalities, it doesn’t matter that much, since you will be told exactly where to go on your callsheet. </p>
+        </li>
+        <li>
+            <h2 id="sectionSeven"> D4D / N4N / D4N / N4D </h2>
+            <p> These acronyms stand for what’s being shot in terms of Daylight or Nightime. So the acronyms stand for the following: </p>
+            <p> <strong>D4D</strong>stands for Day for Day - it means that the scene will be shot in the daytime, and it’s a daytime scene. </p>
+            <p> <strong>N4N</strong>stands for Night for Night, meaning that it is a nighttime scene and the filming of it will be done at night. </p>
+            <p> Now the next two acronyms are when production has to get really creative and create the illusion of night or day. </p>
+            <p> <strong>D4N</strong>stands for Day for Night. So the filming of the scene will be shot during the day, but in the film, it will look like nighttime. </p>
+            <p> <strong>N4D</strong>stands for Night for Day. So the filming may be taking place in the middle of the night, but on camera, the production has made it seem like it’s daytime. </p>
+            <p> This information isn’t really important for an actor to know since you already would know when the scenes are taking place from your script. </p>
+            <p> Now we will start looking at the four columns after the D4D row. You read these left to right, like rows, however each column is representing the same thing, so as I break it down we will be breaking it down in columns as opposed to rows. </p>
+            <p>  Starting with the far left. </p>
+<img src="/assets/images/how-to-read-a-bookable/Bookable Page 2 Scenes.jpg" alt="screen shot of an actors bookable sheet for a movie with D4D / N4N / D4N / N4D highlighted">
+        </li>
+        <li>
+            <h2 id="sectionEigth"> The Scenes</h2>
+            <p> This far left column is telling you the scenes of the day. The scenes that will be filmed on June 10th are 25,13,18,27 & 44. 
+            </p>
+            <p> The first scene of the day is 25. </p>
+            <p> If you have booked a TV job, your scenes may look a bit different. They may have hyphenated numbers. So they would look something like 302-14 or 104 - 25, this is because the number before the scene is the episode. So if your scene column had 302-14 - this would mean the scene (14) is located in the episode (302). In this example the episode is the 2nd episode in season 3 - hence: 3(the season) 02 (the episode) = 302 </p>
+        </li>
+        <li>
+            <h2 id="sectionNine"> Scene Descriptions</h2>
+            <p> You may recognize this layout from the call sheet, and it is very similar. The 2nd column from the left is the Scene Descriptions. This is just to further clarify the scene - and you can cross-reference the little descriptor sentence with your script. </p>
+            <p> If we look at the first row, describing Scene 25 you will see: </p>
+            <p> This section tells you the location: INT. VILLA SWIMMING PLAZA</p>
+            <p> It tells you what Day of the script is being shot: DAY D1 </p>
+            <p> And then finally a small description of what happens in that scene. </p>
+            <img src="/assets/images/how-to-read-a-bookable/Bookable Page 2 Scene Descriptions.jpg" alt="screen shot of an actors bookable sheet for a movie with the scene description highlighted">
+
+        </li>
+        <li>
+            <h2 id="sectionTen"> The Pages</h2>
+            <p> The third column is for the amount of pages that will be shot during that scene. In the case of Scene 25 you will see that 1 2/8 pages will be shot. This is good to know simply for line memorization, or how long that scene would take. </p>
+            <img src="/assets/images/how-to-read-a-bookable/Bookable Page 2 Pages.jpg" alt="screen shot of an actors bookable sheet for a movie with the pages of the script highlighted">
+
+        </li>
+        <li>
+            <h2 id="sectionEleven"> The Cast called </h2>
+            <p> Just like in the call sheet, these numbers indicate the actors required in that scene. So in Scene 25 we have 8 actors that are in this scene. If you refer to the first  page of Bookable you will see that the characters called are: Lucy Norrington, Lorella Nicci,Dylan Jove, Alannah Ogilvy, Michael Brantford, Greased Up Man, Greased up Man #2 and Greased up Woman.</p>
+            <p> <i> (I am sure you can tell by these character names, I had fun making this bookable) </i></p>
+            <p> Beside  those numbers is Stunts, which tells you how many stunts are occurring in that scene and under that it says:  B/G (as mentioned in <a href="/how-to-read-a-call-sheet-part-2">How To Read A Callsheet Part 2</a> this refers to how many background actors are required for this scene.) In scene 25 there are 0 stunts but 12 background. </p>
+            <p> It is important to look at your bookable for this section in particular. The reason being, you may  be in a scene that you don’t have lines in. So make sure you check and double check your number when it comes to this column - this is why i suggest doing CTRL F in your bookable PDF. </p>
+<img src="/assets/images/how-to-read-a-bookable/Bookable Page 2 Cast Called.jpg" alt="screen shot of an actors bookable sheet for a movie with the cast call highlighted">
+        </li>
+        <li>
+            <h2 id="sectionTwelve"> Block & Set Up </h2>
+            <p> This section is indicating that there is a switch in sets. You may be going to a different location, or you may be going outside of the same location you were in. In the case of the example, we are staying in the same location, but we are going outside to the parking lot! This can be seen  by the scene description below. </p>
+            <p> The note also indicates that blocking will be done before lunch, which means you aren’t done for lunch after Scene 18, you have to stick around and block scene 27 before being able to go back to your trailer. </p>
+            <p> These notes are good to know just so you have a sense of when your break is coming and when to stay put after filming a scene. </p>
+<img src="/assets/images/how-to-read-a-bookable/Bookable Page Block _ Set Up.jpg" alt="screen shot of an actors bookable sheet for a movie with the Block & set Up highlighted">
+
+        </li>
+        <li>
+            <h2 id="sectionThirteen"> Additional Notes </h2>
+            <p> Not all days will have additional notes, however it’s good to have a look at the days you are shooting and see what notes have been put there. </p>
+            <p> In the case of our example, it says that **SHOOTING ESTABLISHERS - NO CAST - BG ONLY ** 1:00 </p>
+            <p> As a cast member, this doesn’t apply to you, but it tells you that at 1pm, the crew will be shooting establishing shots for the episode with the background. </p>
+<img src="/assets/images/how-to-read-a-bookable/Bookable Page Additional notes.jpg" alt="screen shot of an actors bookable sheet for a movie with the additional notes section highlighted">
+
+<p> And with that, it brings us right back to the END OF DAY, which we spoke of at the beginning of the blog. </p>
+
+            <p> That, would be your June 10th 2022 if you were shooting that day. </p>
+        </li>
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>A bookable is a great way to get to know your upcoming schedule, and what scenes you will be shooting. Also can be a fun way to see who you are shooting with, especially if it’s a television show that you follow! </p>
+        <p>I know it can seem very daunting trying to learn these various scheduling documents, but I promise you, if you take the time to go through these blogs, and even follow along with one of your own bookables you will get it in no time! </p>
+        </li>
+    </ol>
+    <h3>Wishing you a great booking, and many more bookables in the future!</h3>
+    `
+        },
     ];
     // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
 

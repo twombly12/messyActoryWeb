@@ -211,6 +211,26 @@ app.get(
     }
 );
 
+app.get(
+    "/how-to-read-a-dood",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/how-to-read-a-dood.html"
+        );
+    }
+);
+
+app.get(
+    "/how-to-read-a-bookable",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/how-to-read-a-bookable.html"
+        );
+    }
+);
+
 /* ------------------------------------------------------------------- */
 
 // const http = require("http")
