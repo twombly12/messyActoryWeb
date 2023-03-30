@@ -231,6 +231,16 @@ app.get(
     }
 );
 
+app.get(
+    "/what-are-revisions-colours-in-a-script",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/what-are-revisions-colours-in-a-script.html"
+        );
+    }
+);
+
 /* ------------------------------------------------------------------- */
 
 // const http = require("http")

@@ -1,7 +1,7 @@
 const generateBlogPosts = (function() {
     const blogSignOff = `
 
-        <p>Be sure to follow us at themessyactorblog on <a target="__blank" href="https://www.instagram.com/themessyactorblog/" class="icon brands fa-instagram"> Instagram</a></p>
+        <p>Be sure to follow us at themessyactorblog on <a target="__blank" href="https://www.instagram.com/lostwiththesea/" class="icon brands fa-instagram"> Instagram</a></p>
         <p>Grow, Let Go & Get Messy!</p>
         <p>The Messy Actor
    </p>
@@ -1093,7 +1093,7 @@ const generateBlogPosts = (function() {
             <p> So yes, you should be surrounding yourself with actors who are still excited and keen on the craft. People who train, want to grow and find joy in the work. However, these people should also be people that you can go to, to help lift you up. </p>
             <p> As actors, it is important that we have a community of people with who we can talk honestly about the tribulations of the industry. There is a lot of competition and desire to show that “we are succeeding” which doesn’t provide a safe space for negative experiences. There is a lot of doubt, rejection, and pain that comes with this job as well, and having a safe space to be heard, and reassured is just as important. </p>
             <p> Keep an eye out for people who hear your pains and doubts, understand them, and then lift you up. These are the people you want in your circle. They don’t necessarily need to be actors - they can be creators, producers, writers, and artists - it doesn’t matter what they do in the industry, it matters that they hear you, and you hear them from a place of understanding. </p>
-            <p> Online communities are also quite popular nowadays, you can join various twitch, Reddit, or Facebook groups, as well as you are now a part of our safe community here at The Messy Actor, so please come by our Instagram page (<a href="https://www.instagram.com/themessyactorblog/" target="__blank">themessyactor</a>) and introduce yourself! </p>
+            <p> Online communities are also quite popular nowadays, you can join various twitch, Reddit, or Facebook groups, as well as you are now a part of our safe community here at The Messy Actor, so please come by our Instagram page (<a href="https://www.instagram.com/lostwiththesea/" target="__blank">themessyactor</a>) and introduce yourself! </p>
         </li>
         <li class="summary-li">
         <h2 id="summary">Summary</h2>
@@ -2257,6 +2257,261 @@ You will notice that despite using the same location, there is another set withi
         </li>
     </ol>
     <h3>Wishing you a great booking, and many more bookables in the future!</h3>
+    `
+        },
+        // -------------------------------- 21st Post --------------------------
+        // -------------------------------- 21st Post --------------------------
+        // -------------------------------- 21st Post --------------------------
+        // -------------------------------- 21st Post --------------------------
+        // -------------------------------- 21st Post --------------------------
+        {
+            "postNum": " blogPost20 ",
+            "category": "Industry-Tips Organization Getting-Started",
+            "postLink": "/how-to-read-a-dood",
+            "title": ` How to read a DOOD `,
+            "image": `<picture>
+<source srcset="../assets/images/dood.webp" type="image/webp">
+<source srcset="../assets/images/dood.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/dood.webp" alt="an actor reading their dood for the day on set">
+</picture>`,
+            "date": `March 22, 2023`,
+            "snippet": `<p> So you’ve booked something! And all of a sudden you get an email with some attachments in it. One is a Bookable and one is a DOOD… but - Dude…what’s a DOOD?  Don’t worry - we’ll break down what a DOOD is and what it does, so you can focus your energy on your booking. </p>`,
+            "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> How to read a DOOD </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> What is a DOOD?  </a></li>
+        <li>
+            <a href="#sectionTwo"> What information does a DOOD have?  </a></li>
+        <li>
+            <a href="#sectionThree"> How to read a DOOD?  </a></li>
+        <li>
+            <a href="#sectionFour"> What does a DOOD look like?  </a></li>
+        <li>
+            <a href="#sectionFive"> What does everything mean on the DOOD?  </a></li>
+                <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+            "content": `
+
+    <ol>
+        <li>
+            <h2 id="sectionOne"> What is a DOOD? </h2>
+            <p> A DOOD stands for Days Out Of Days. It’s a scheduling tool used by production to keep track of which actors are needed for filming on specific days. It really is just a spreadsheet that gives you every day the production is shooting and who is needed. </p>
+
+        </li>
+        <li>
+            <h2 id="sectionTwo"> What information does a DOOD have? </h2>
+            <ul style="margin-top: 40px;">
+            <li>Dates (days of the week and date of the calendar) </li>
+            <li>Shooting Days</li>
+            <li>Character names</li>
+            <li>SWF - which stands for Start Work Finish</li>
+            </ul>
+        </li>
+        <li>
+            <h2 id="sectionThree"> How to read a DOOD? </h2>
+            <p> Here is a step-by-step process on the easiest way to read a DOOD: </p>
+            <ol>
+            <li class="sub-bullet not-heading">Go to the first page of your bookable and find what number you are on the call sheet (If you haven’t read <a href="/how-to-read-a-bookable">HOW TO READ A BOOKABLE</a> - check it out!) </li>
+            <li class="sub-bullet not-heading">Go to your DOOD and find the page that has the least amount of columns in it. The last three columns should say Start, Finish, and Total. </li>
+            <li class="sub-bullet not-heading">Using your cast number, find your character name in the far left column. </li>
+            <li class="sub-bullet not-heading">See the date you begin working under Start</li>
+            <li class="sub-bullet not-heading">See the date you end working under End</li>
+            <li class="sub-bullet not-heading">Then, go back to the part of the DOOD that has many columns that lists the dates of filming.</li>
+            <li class="sub-bullet not-heading">Find your Start Date.</li>
+            <li class="sub-bullet not-heading">And look at every date between your start and Finish Date to know when you are working. </li>
+
+            </ol>
+            <p> Still confused? Let’s break it down with some pictures. </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> What does a DOOD look like? </h2>
+            <p> It will be several pages that look like the image below. </p>
+            <img src="/assets/images/how-to-read-a-dood/What Does a Dood Look Like 1.JPG" alt="screen shot of an actors dood sheet for a movie">
+            <img src="/assets/images/how-to-read-a-dood/What Does a Dood Look Like 2.JPG" alt="screen shot of an actors dood sheet for a movie">
+            <img src="/assets/images/how-to-read-a-dood/What Does a Dood Look Like  3.JPG" alt="screen shot of an actors dood sheet for a movie">
+        </li>
+        <li>
+            <h2 id="sectionFive"> What does everything mean on the DOOD? </h2>
+            <ol>
+            <li class="sub-bullet" style="margin-bottom: 20px"> The Title   </li>
+            <img style="margin-bottom: 20px" src="/assets/images/how-to-read-a-dood/Title.JPG" alt="screen shot of an actors dood sheet for a movie">
+            <p> Going from left to right.</p>
+            <ul>
+            <li> <b>Date:</b>  The title has the date that the DOOD was last modified. 
+            In this example: Oct 12th, 2022 7:33 PM
+             </li>
+            <li> <b>Title of the Project:</b> The title of the project: FTVP (which in this case means Fake TV Project). If the title of a project is long, they will shorten it with acronyms. For something like What We Do In the Shadows it could be WWDITS,  or for Brooklynn Nine-Nine you could get B99.  </li>
+            <li> <b>Season:</b> Beside the name of the project, it will also tell you what season it is. In our example, it’s Season 3. The reason we know this is because beside FTVP it says S3.  </li>
+            <li> <b>The Block:</b> Beside the title, it will tell you what block it is. A filming block is a chunk of time for filming. For television certain blocks will be run by different directors, other times they focus on different episodes. Large movies will also have filming blocks, depends really on how long the movie will be shot.  </li>
+            <li> <b>Page Numbers:</b> We have the Page numbers - pretty self-explanatory. This DOOD has a total of 9 pages, and you are reading page one.  </li>
+            <li> <b>Revision Colour:</b> Finally, we have the draft colour PINK, which tells us what revision the production is on when it comes to the number of edits the DOOD has gone through..   (If you want to know more about the draft colors check out the blog post: WHAT ARE REVISIONS COLOURS?) Pinkcolor third colour on the revision colours, so this DOOD has been revised two times.  </li>
+            </ul>
+            <li class="sub-bullet"> Month/Day    </li>
+            <img src="/assets/images/how-to-read-a-dood/Month-Day.JPG" alt="screen shot of an actors dood sheet for a movie">
+            <p> This row is the date of the calendar. The Month is first and the day follows, which is why it’s labelled MONTH/DAY. </p>
+            <p> The first date is then: 10/07 which is October 7th </p>
+            <li class="sub-bullet"> Day of Week   </li>
+            <img src="/assets/images/how-to-read-a-dood/Day of Week.JPG" alt="screen shot of an actors dood sheet for a movie ">
+            <p> This row is the day of the week that that date is on. So October 7th in 2022 was a Friday. </p>
+            <li class="sub-bullet"> Shooting Day   </li>
+            <img src="/assets/images/how-to-read-a-dood/Shooting Day.JPG" alt="screen shot of an actors dood sheet for a movie ">
+            <p> This is the number of shoot days within that Block. You will see that Friday, October 7th is Shoot Day 1, however, Tuesday, October 11th is Day 2. This is because nothing was shot on Saturday, Sunday or Monday of that week. </p>
+            <li class="sub-bullet"> SWF     </li>
+            <p> If you read the <a href="how-to-read-a-call-sheet-part-1">HOW TO READ A CALL SHEET</a> blog, you know what SWF stands for. However, for those who haven’t, we’ll break it down. </p>
+            <img src="/assets/images/how-to-read-a-dood/SWF.JPG" alt="screen shot of an actors dood sheet for a movie ">
+            <p>WF stands for Start Work Finish. </p>
+            <p>SW = you are starting work.</p>
+            <p>W= means you are working.</p>
+            <p>WF = means you are finishing work. </p>
+            <p>In this example we are going to pretend that we play the role of NICKY. You are reading the Nicky ROW from left to right. </p>
+
+            <p>Nicky starts work on 10/07 (October 7th) </p>
+            <p>Nicky works on 10/11, 10/13 (October 11th and October 13th) </p>
+            <p>Nicky finishes work on 10/14 (October 14th) </p>
+
+
+            <li class="sub-bullet">Start Finish Table     </li>
+            <p> There is within the DOOD a table that is smaller. Typically it can be found at the end of a month of dates.(So usually page 3) It is the Start Finish Table. It looks like this: </p>
+            <img src="/assets/images/how-to-read-a-dood/Start Finish Table.JPG" alt="screen shot of an actors dood sheet for a movie ">
+
+            <p>This shows you the day you Start and the day you Finish. </p>
+
+            <p>For the sake of Lorella Nicci: </p>
+            <p>She <b>starts</b> 10/07 </p>
+            <p>She <b>ends</b>  11/02 </p>
+            <p>And her <b>total</b> days of Days worked will be <b>15</b>. </p>
+
+            <p>The reason you should go to this table first when reading a DOOD is to make sure you have all your work days accounted for! It can be hard to read the chart with everyone’s names on it sometimes! </p>
+
+
+            <li class="sub-bullet"> A few extra things to take note of   </li>
+            <p> Here are few other details to note on a DOOD.</p>
+            <ul>
+            <li> Weekends are greyed out: 
+            You will see that Saturdays and Sundays are blacked out because those are nonworking days. 
+             </li>
+            <li> Holidays have a / in them: 
+            In the case of this DOOD, it falls on Thanksgiving (Canada) and therefore Monday is a holiday. Since Monday is typically a work day, they have greyed out AND put a slash through the day to remind people. 
+             </li>
+            <li> For whatever reason Wednesday 10/12 has no filming that day. It could be because a location fell through, a lead is unavailable, or there are  interviews or promos needing to be done. The reasons could be endless, but just something to note.  </li>
+            </ul>
+            </ol>
+            
+            
+        </li>
+       
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>A DOOD is a very handy tool, and it's important to understand, so I’m hoping that now you are able to handle any documents that are sent to you once you have booked a role. </p>
+        <p>Be sure to check out:</p>
+        <p><a href="how-to-read-a-bookable">HOW TO READ A BOOKABLE</a></p>
+        <p><a href="how-to-read-a-call-sheet-part-1">HOW TO READ A CALL SHEET (Part 1)</a></p>
+        <p><a href="how-to-read-a-call-sheet-part-2">HOW TO READ A CALL SHEET (Part 2) </a></p>
+        <p>Has this blog helped you? We would love to know! Feel free to shoot us a message or comment  on Instagram and Facebook. 
+        Additionally, if you have any on set or acting issues you’d like discussed - shoot us a message and we’d love to tackle it! 
+        </p>
+        </li>
+    </ol>
+    <h3>Wishing you happy bookings…DOOD ;) </h3>
+    `
+        },
+
+        // -------------------------------- 22nd Post --------------------------
+        // -------------------------------- 22nd Post --------------------------
+        // -------------------------------- 22nd Post --------------------------
+        // -------------------------------- 22nd Post --------------------------
+        // -------------------------------- 22nd Post --------------------------
+        {
+            "postNum": " blogPost21 ",
+            "category": "Industry-Tips Organization Getting-Started",
+            "postLink": "/what-are-revisions-colours-in-a-script",
+            "title": ` What are Revision Colours in a Script?  `,
+            "image": `<picture>
+<source srcset="../assets/images/revision-colors.webp" type="image/webp">
+<source srcset="../assets/images/revision-colors.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/revision-colors.webp" alt="a swirl of bright vibrant colors">
+</picture>`,
+            "date": `March 29, 2023`,
+            "snippet": `<p> So you’ve booked a job, and you receive an email with the subject line: EP 302. GOLDENROD REVISIONS.  And you have no idea what that means. </p>`,
+            "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <p> What are Revision Colours in a Script? 
+    </p>
+    <ul>
+        <li>
+            <a href="#sectionOne"> Why do writers use different colours for different drafts?  </a></li>
+        <li>
+            <a href="#sectionTwo"> What is the order of colours? 
+            </a></li>
+        <li>
+            <a href="#sectionThree"> How am I supposed to remember this?  </a></li>
+        <li>
+            <a href="#sectionFour"> What are collated pages?
+            </a></li>
+       
+
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+            "content": `
+    <p> Don’t fret - we got you!  </p>
+    <p> In today’s blog, we are going to break down the various colors of a script draft and what they mean, and also why they are used. </p>
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Why do writers use different colours for different drafts? 
+            </h2>
+            <p> Writers use different colors for drafts for a variety of reasons, but the primary purpose is to differentiate between different versions of the same script. Each draft represents a significant step in the development process, and using different colors helps writers, producers, and other industry professionals keep track of which version they are working on. The use of different colors can also help to visually distinguish between early drafts, which may be more rough and unfinished, and later drafts, which are typically more polished and closer to the final shooting script.</p>
+            <p> 
+            Now, something to remember is in the old days, before emailing scripts was accessible, actors would receive a script with coloured paper. This made it easy to pick out which drafts are which, simply due to the different colours of paper. Now, things are a little different as we email the pages, and title them with the color, but rarely use the colour of paper indicated. 
+            </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> What is the order of colours? 
+            </h2>
+            <p> The order of colours from the oldest draft to the newest is as follows: 
+            (These can vary per production, but this is the standard colour code) 
+            </p>
+            <ol>
+            <li class="sub-bullet not-heading">First draft - White</li>
+            <li class="sub-bullet not-heading">Second draft - Blue </li>
+            <li class="sub-bullet not-heading">Third draft - Pink </li>
+            <li class="sub-bullet not-heading">Fourth draft - Green </li>
+            <li class="sub-bullet not-heading">Fifth draft - Yellow or Goldenrod</li>
+            <li class="sub-bullet not-heading">Sixth draft - Buff or salmon </li>
+            <li class="sub-bullet not-heading">Final Script  - Cherry </li>
+            
+            </ol>
+            <p> Cherry is one that doesn’t come up all that often, as there are constant revisions being done to scripts right up until the day of shooting - however, just in case you do see Cherry, that’s what it means. </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> How am I supposed to remember this? 
+            </h2>
+            <p> You don’t necessarily have to have the colours memorized. With the advancement of technology and having all our scripts emailed to us, you’re best bet is to just check the most recent email in your inbox for the most recent edit of the script. </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> What are collated pages?
+            </h2>
+            <p> It is very common with an email about revisions and colours that the words “Collated Pages” are thrown around. Collated pages are your greatest friend when it comes to script revisions, particularly if you have a very large script. </p>
+            <p> Collated pages refer to a version of the script where all of the changes and revisions made during the script development process have been incorporated into a single document. Collated pages are typically created after several rounds of revisions and edits have been made to the script, and they are used as a tool for finalizing the shooting script.</p>
+            <p> So when you receive an attachment with collated pages - you know that all the changes that have been made to the script in this current draft will be there. If you are like me and you print out your scripts to work on them, you can print out your collated pages and replace the revised pages, without having to print out your entire script. </p>
+        </li>
+       
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>You are one step closer to understanding all the documents that you will receive in your email once you have booked a role. Even if you haven’t booked a role yet, it’s good to know this so you aren’t panicking when you do! </p>
+        <p>If you need help reading any of the other documents that you may receive check out. </p>
+        <p><a href="/how-to-read-a-bookable" target="__blank">HOW TO READ A BOOKABLE</a></p>
+        <p><a href="/how-to-read-a-dood" target="__blank">HOW TO READ A DOOD</a></p>
+        <p><a href="/how-to-read-a-call-sheet-part-1" target="__blank">HOW TO READ A CALLSHEET</a></p>
+        <p><a href="/how-to-read-a-call-sheet-part-2" target="__blank">HOW TO READ A CALLSHEET Part 2 </a></p>
+
+
+        <p>Has this blog helped you? We would love to know! Feel free to shoot us a message or comment on Instagram and Facebook. Additionally, if you have any on set or acting issues you’d like discussed - shoot us a message and we’d love to tackle it!</p>
+        </li>
+    </ol>
+    <h3>Wishing you many colourful scripts and happy bookings 
+    </h3>
     `
         },
     ];

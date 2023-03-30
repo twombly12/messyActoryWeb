@@ -44,10 +44,21 @@ li.sub-bullet {
 }
 
 li.sub-bullet::marker {
+    font-weight: bold;
     position: relative;
     font-size: 1.3rem;
     font-family: "Merriweather", Georgia, serif !important;
     display: inline;
+}
+
+li.sub-bullet.not-heading {
+    font-weight: normal;
+    font-size: 1rem;
+    padding-top: 0rem;
+}
+
+li.sub-bullet.not-heading::marker {
+    font-size: 1rem;
 }
 
 

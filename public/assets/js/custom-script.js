@@ -91,7 +91,7 @@ function menuAndSocial() {
     for (i = 0; i < socialBlock.length; i++) {
         const socialLinks = `
             <li><a target="__blank" href="https://www.facebook.com/themessyactor/" class="icon brands fa-facebook-f" title="link to facebook"><span class="label">Facebook</span></a></li>
-            <li><a target="__blank" href="https://www.instagram.com/themessyactorblog/" class="icon brands fa-instagram" title="link to instagram"><span class="label">Instagram</span></a></li>
+            <li><a target="__blank" href="https://www.instagram.com/lostwiththesea/" class="icon brands fa-instagram" title="link to instagram"><span class="label">Instagram</span></a></li>
     `
         socialBlock[i].innerHTML = socialLinks;
     }
