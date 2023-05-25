@@ -241,6 +241,29 @@ app.get(
     }
 );
 
+app.get(
+    "/what-are-the-roles-on-a-film-set-part-one",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/what-are-the-roles-on-a-film-set-part-one.html"
+        );
+    }
+);
+
+app.get(
+    "/what-are-the-roles-on-a-film-set-part-two",
+    (request, response) => {
+        response.sendFile(
+            __dirname +
+            "/public/Posts/what-are-the-roles-on-a-film-set-part-two.html"
+        );
+    }
+);
+
+
+
+
 /* ------------------------------------------------------------------- */
 
 // const http = require("http")
@@ -316,8 +339,8 @@ app.post("/", (req, res) => {
         to: process.env.SECRET_ID,
         subject: `Message from ${req.body.name}`,
         text: `Name: ${req.body.name}
-Email:${req.body.email}
-Message: ${req.body.message}`,
+        Email:${req.body.email}
+        Message: ${req.body.message}`,
     };
 
     transporter.sendMail(mailOptions, (error, info) => {

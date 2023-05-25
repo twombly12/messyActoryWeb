@@ -2514,6 +2514,110 @@ You will notice that despite using the same location, there is another set withi
     </h3>
     `
         },
+        // -------------------------------- 23 Post --------------------------
+        // -------------------------------- 23 Post --------------------------
+        // -------------------------------- 23 Post --------------------------
+        // -------------------------------- 23 Post --------------------------
+        // -------------------------------- 23 Post --------------------------
+        {
+            "postNum": " blogPost22 ",
+            "category": "Industry-Tips Getting-Started",
+            "postLink": "/what-are-the-roles-on-a-film-set-part-one",
+            "title": ` What are the roles on a film set? (PART 1) `,
+            "image": `<picture>
+<source srcset="../assets/images/what-are-the-roles-on-a-film-set-part-one.webp" type="image/webp">
+<source srcset="../assets/images/what-are-the-roles-on-a-film-set-part-one.jpg" type="image/jpg"> 
+<img class="main-blog-image" src="../assets/images/what-are-the-roles-on-a-film-set-part-one.webp" alt="A directors chair on set of a film">
+</picture>`,
+            "date": `May 24, 2023`,
+            "snippet": `<p> For the most part, whether we are actors or not, we know the overall generalities of who works on a film set. Most people have heard of directors, writers, and actors, but there are so many job titles that you may not know about if you haven’t worked on a set before. This blog post is going to help you identify who is on set, what they do, and how you may interact with them if you are hired on a job.  </p>`,
+            "tableOfContents": `<span class="tableContentsTitle">Table of Contents</span>
+    <ul>
+        <li>
+            <a href="#sectionOne"> Is there a hierarchy on set?  </a></li>
+        <li>
+            <a href="#sectionTwo"> The Executive Producers:  </a></li>
+        <li>
+            <a href="#sectionThree"> The Producers:  </a></li>
+        <li>
+            <a href="#sectionFour"> Screenwriters:  </a></li>
+        <li>
+            <a href="#sectionFive"> The Director:  </a></li>
+        <li>
+            <a href="#sectionSix"> The Director of Photography:  </a></li>
+        <li>
+            <a href="#sectionSeven"> The 1st AD: </a></li>
+        <li>
+            <a href="#sectionEigth"> The 2nd AD: </a></li>
+            <li>
+            <a href="#sectionNinth"> The 3rd AD: </a></li>
+
+            <li>
+            <a href="#summary">Summary</a></li>
+    </ul>`,
+            "content": `
+    <ol>
+        <li>
+            <h2 id="sectionOne"> Is there a hierarchy on set? </h2>
+            <p> Yes and no. The reason I say this is because though there is a hierarchy of command in terms of who makes decisions, and choices based on the final product, there is no hierarchy in regards to how you respect people on set. Everyone you interact with deserves human decency and respect when you are on set. It doesn’t matter if they are the highest on the chain of command or the lowest.  This may seem like common sense, but the amount of times I have heard of the crew being treated poorly by the cast because of the “hierarchy”, or background being treated poorly due to their spot in the hierarchy, is one too many. If you are looking for advice or tips within this blog, it is very important to me that you heed this particular advice. Everyone deserves your respect on set, despite their position. </p>
+            <p> Now, outside of respect, and human decency - yes, there is a hierarchy on who makes decisions for a film. Below you will see several different jobs that make the well-oiled machine of film, work. </p>
+        </li>
+        <li>
+            <h2 id="sectionTwo"> The Executive Producers: </h2>
+            <p> Typically the Executive producer is the one financing the film. However, there are many scenarios where this is a title given to an individual who has some sort of authority on the film. They may have a job directly involved in making the film, like they are helping with script work, or advising on a certain trajectory of the film. In other scenarios, however, they aren’t at all involved and have been given this title for other reasons. Whatever the reason, they are the highest in the higharchy. </p>
+            <p> How will I interact with them on set? You may not. Very often executive producers are in video village and have very little interaction with the cast. They may come and introduce themselves, but you may also never even see them on set. 
+            </p>
+        </li>
+        <li>
+            <h2 id="sectionThree"> The Producers: </h2>
+            <p> This is a highly organizational role and one that is essential to the filmmaking process. Producers help coordinate and get funding, they oversee all the moving parts and also take part in the hiring of the crew, and may even have a say in the hiring of the cast as well. There are different kinds of producers, some oversee all the functions of the movie, and others have more specific jobs that fall into the category of Line Producer. This would be someone who controls the day-to-day operations, such as hitting deadlines in pre and post-production. </p>
+            <p> <i>How will I interact with them on set?</i> It is possible that you could meet producers if they are on set. They may be behind the table or in the Zoom room during your audition, however for the most part, you will likely never meet them. </p>
+        </li>
+        <li>
+            <h2 id="sectionFour"> Screenwriters: </h2>
+            <p> This role may also be simply called: The Writers. These are the people who write the script. There can be one, or many on a project. Often what many people don’t know is that writers are working before production and well into the creation of the production. You may be on a project where the night before you shoot, the script changes because the writers are working tirelessly to make the best story possible. </p>
+            <p> <i>How will I interact with them on set?</i> In this situation it really depends on the project. If the writer is also the director, then you will interact with them quite a bit. However, if the writer sold their script to a production company, you may never meet them. Even if they are heavily involved in the writing process well into the start of production, you may only meet them in passing once at the table read. This situation does change if you are working on a TV show, as writers will typically want to work alongside you or with you if you are going to be on several seasons of the show. </p>
+        </li>
+        <li>
+            <h2 id="sectionFive"> The Director: </h2>
+            <p> More often than not there will be one director. The only exception would be on a TV series where they can have a director per episode. On a film set, however, there is one director and they are responsible for the artistic vision of the piece. They deal with all the departments and try to make their vision come to life on screen.  The directors' job is to bring everyone together on  set and unite them for one common goal - making a great movie. A great director will be able to communicate their ideas to each department and be able to guide actors to see their vision as well. </p>
+            <p> <i>How will I interact with them on set?</i> You will definitely meet them, as they will work with you on set. You may get as little interaction with them as a handshake and a note here and there. Or you may work with them constantly for the entirety of the shoot. This will depend on your role size, and how often you are on set. </p>
+        </li>
+        <li>
+            <h2 id="sectionSix"> The Director of Photography: </h2>
+            <p> You may also find this role being called DP or DOP for short, or Cinematographer. This is the person who takes the director’s vision and figures out how to make it come to life through a camera. They work very closely with the director and the lighting crew to sync up the ideas of the director visually.  </p>
+            <p> <i>How will I interact with them on set?</i> This also depends on the size of the project. If there is only one camera on set, you will likely  be interacting with them quite a bit, as they will be all up in your face with a camera to shoot the scene! However, if there are several camera’s and several camera operators, you may meet the DOP in passing. </p>
+        </li>
+        <li>
+            <h2 id="sectionSeven"> The 1st AD:</h2>
+            <p> The 1st AD, which stands for Assistant Director is a very important job. They work with all of the head of departments to figure out scheduling, call times, and what shoots when. The 1st AD is the messenger between the director and all the other departments. This role makes sure that the set works efficiently. They run the set, and very often they are the ones you hear yelling on set. They are incredibly busy on set, and should you want to discuss something with someone on set, they are not the person to go to first. Typically you would want to talk to the 2nd or 3rd AD. </p>
+            <p> <i>How will I interact with them on set?</i>  This depends entirely on your role on the project. If you are a lead, you will interact with them quite often. They will be there every single day you are shooting. They may even give you a note, or show you your blocking. Regardless of how big your role is on set, you will definitely hear the 1st AD, as they will be letting you know when to be quiet, hurry up or when you are rolling. </p>
+        </li>
+        <li>
+            <h2 id="sectionEigth"> The 2nd AD:</h2>
+            <p> Depending on the size of the production, you may not have a 2nd AD. I have been on sets where there is just a 1st and 3rd AD. However, the 2nd AD is the Robin to the 1st AD’s Batman. They typically will create call sheets, and be a liaison between cast and other departments, like make-up, hair, and wardrobe. In extremely large productions, where the work load extends past the capabilities of the 2nd AD, you may have a 2nd 2nd AD, which is the right hand to the 2nd AD. On some sets, this can be the 3rd AD, on others it can be an additional job. </p>
+            <p> <i>How will I interact with them on set?</i> You will certainly interact quite a bit with the 2nd AD. They will be taking you to make-up and wardrobe and they will be who you tell you are going 10-1 (to the bathroom) (For set jargon, see the blog: WHAT DOES THAT MEAN? SET EDITION) For this reason, it’s important that you remember their name, and highlight their contact info on your call sheet should you need to notify someone of something. </p>
+        </li>
+        <li>
+            <h2 id="sectionNinth"> The 3rd AD</h2>
+            <p> As mentioned above, this job can either be the 2nd 2nd AD or the 3rd AD. This job typically involves directing background performers, or organizing large crowd scenes as well as supervising and liaising with the production assistants. The may also be the ones to sign you in and out of your days on set. </p>
+            <p> <i>How will I interact with them on set?</i> If you are background, you will be interacting with them and likely only them, during your time on set. They will tell you where to stand, what your cues are and you will sign in and out with them. </p>
+        </li>
+        <li class="summary-li">
+        <h2 id="summary">Summary</h2>
+        <p>This is by no means the entirety of the roles on set - there are many many more. However, I didn’t want to overwhelm you with all of them all at once. If you didn’t find what you were looking for or are curious and want to know more about what jobs there are on film sets you can head over to <a href="/what-are-the-roles-on-a-film-set-part-two" target="__blank">WHAT ARE THE ROLES ON A FILM SET (PART 2)</a> where I break down the roles of various departments and how you as an actor will interact with them. </p>
+        <p>Remember, this industry is an entire world within itself. It may take you time to learn the various roles everyone plays. Don’t be too hard on yourself if you can’t remember what everyone does, the more time you work on set, the more you will learn. </p>
+        <p>If you are new to being on set and have recently booked a role, first of all CONGRATULATIONS and second of all be sure to check out:  <a href="/how-to-read-a-call-sheet-part-1" target="__blank">HOW TO READ A CALLSHEET</a> and <a href="/how-to-read-a-call-sheet-part-2" target="__blank">HOW TO READ A CALLSHEET Part 2 </a> to make sure you are ready to go prior to your first day on set! </p>
+        <p>Alternatively, you can check out <a href="/how-to-read-a-dood" target="__blank">HOW TO READ A DOOD</a> and <a href="/how-to-read-a-bookable" target="__blank">HOW TO READ A BOOKABLE</a> if you haven’t done so already! </p>
+        </li>
+    </ol>
+    <h3>Wishing you many happy days on set</h3>
+    <p>Has this blog helped you? We would love to know! Feel free to shoot us a message or comment on Facebook. Additionally, if you have any on-set or acting issues you’d like discussed - shoot us a message and we’d love to tackle it!</p>
+    `
+        },
+
+
+
     ];
     // ----------------------------------------------------------- Populate Blog Posts -----------------------------------------------------------
 
